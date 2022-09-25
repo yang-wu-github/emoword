@@ -1,0 +1,1124 @@
+,subid,gender,test_trial,age_in_years,option1,option2,trial_audio,selected_image,lang
+1,58475,m,11-null,3.457534247,sad2_2,scared4,Scared_1_pause_2,option2,en ja
+2,58475,m,12-null,3.457534247,sad5,happy2,Sad_2_pause_2,option1,en ja
+3,58475,m,13-null,3.457534247,happy2,angry5_2,Happy_2_pause_2,option1,en ja
+4,58475,m,14-null,3.457534247,happy5,scared6,Happy_2_pause_2,option1,en ja
+5,58475,m,16-null,3.457534247,angry2,sad4,Sad_2_pause_2,option2,en ja
+6,58475,m,17-null,3.457534247,scared1,sad6,Scared_2_pause_2,option1,en ja
+7,58475,m,18-null,3.457534247,happy3_2,angry4,Happy_1_pause_2,option1,en ja
+8,58475,m,19-null,3.457534247,scared5,happy5,Scared_1_pause_2,option1,en ja
+9,58475,m,20-null,3.457534247,happy3_2,angry6,Angry_1_pause_2,option2,en ja
+10,58475,m,21-null,3.457534247,scared5,angry3,Angry_2_pause_2,option2,en ja
+11,58475,m,22-null,3.457534247,scared6,angry6,Scared_1_pause_2,option1,en ja
+12,58475,m,23-null,3.457534247,happy4,scared2,Happy_1_pause_2,option1,en ja
+13,58475,m,24-null,3.457534247,happy4,angry4,Angry_1_pause_2,option2,en ja
+14,58475,m,25-null,3.457534247,sad2_2,scared3,Sad_1_pause_2,option1,en ja
+15,58475,m,26-null,3.457534247,scared2,angry1_2,Scared_2_pause_2,option1,en ja
+16,58475,m,27-null,3.457534247,happy6,sad1_2,Sad_1_pause_2,option2,en ja
+17,58475,m,28-null,3.457534247,happy1,sad1_2,Happy_1_pause_2,option1,en ja
+18,58475,m,29-null,3.457534247,angry3,sad6,Sad_1_pause_2,option2,en ja
+19,58475,m,30-null,3.457534247,sad3,scared4,Sad_2_pause_2,option1,en ja
+20,58475,m,31-null,3.457534247,angry5_2,sad4,Angry_1_pause_2,option1,en ja
+21,58475,m,32-null,3.457534247,happy6,sad5,Happy_2_pause_2,option1,en ja
+22,58475,m,33-null,3.457534247,scared1,angry1_2,Angry_2_pause_2,option2,en ja
+23,58475,m,34-null,3.457534247,happy1,scared3,Scared_2_pause_2,option2,en ja
+24,58562,m,11-null,3.978082192,happy6,sad5,Happy_2_pause_2,option2,en fr
+25,58562,m,12-null,3.978082192,angry1_2,sad4,Sad_2_pause_2,option2,en fr
+26,58562,m,13-null,3.978082192,happy3_2,angry3,Angry_2_pause_2,option2,en fr
+27,58562,m,14-null,3.978082192,scared5,angry6,Angry_2_pause_2,option2,en fr
+28,58562,m,16-null,3.978082192,angry3,scared4,Scared_2_pause_2,option2,en fr
+29,58562,m,17-null,3.978082192,sad1_2,angry1_2,Angry_1_pause_2,option2,en fr
+30,58562,m,18-null,3.978082192,scared6,sad4,Scared_1_pause_2,option1,en fr
+31,58562,m,19-null,3.978082192,sad3,angry5_2,Sad_1_pause_2,option1,en fr
+32,58562,m,20-null,3.978082192,happy2,sad2_2,Sad_2_pause_2,option2,en fr
+33,58562,m,21-null,3.978082192,happy1,scared2,Happy_1_pause_2,option1,en fr
+34,58562,m,22-null,3.978082192,sad6,scared6,Sad_1_pause_2,option1,en fr
+35,58562,m,23-null,3.978082192,sad5,scared3,Sad_2_pause_2,option1,en fr
+36,58562,m,24-null,3.978082192,sad1_2,happy4,Sad_1_pause_2,option1,en fr
+37,58562,m,25-null,3.978082192,angry4,scared1,Scared_2_pause_2,option2,en fr
+38,58562,m,26-null,3.978082192,happy3_2,scared4,Happy_1_pause_2,option1,en fr
+39,58562,m,27-null,3.978082192,scared1,angry5_2,Angry_1_pause_2,option1,en fr
+40,58562,m,28-null,3.978082192,happy5,angry2,Angry_2_pause_2,option2,en fr
+41,58562,m,29-null,3.978082192,sad2_2,scared3,Scared_1_pause_2,option1,en fr
+42,58562,m,30-null,3.978082192,angry4,sad3,Angry_1_pause_2,option1,en fr
+43,58562,m,31-null,3.978082192,sad6,happy5,Happy_1_pause_2,option2,en fr
+44,58562,m,32-null,3.978082192,happy1,scared5,Scared_2_pause_2,option2,en fr
+45,58562,m,33-null,3.978082192,happy4,angry6,Happy_2_pause_2,option1,en fr
+46,58562,m,34-null,3.978082192,scared2,happy6,Scared_1_pause_2,option1,en fr
+47,58564,m,11-null,3.947945205,angry5_2,sad2_2,Sad_1_pause_2,option2,en
+48,58564,m,12-null,3.947945205,happy5,angry1_2,Happy_1_pause_2,option1,en
+49,58564,m,13-null,3.947945205,happy1,sad6,Sad_2_pause_2,option2,en
+50,58564,m,14-null,3.947945205,angry6,sad4,Sad_2_pause_2,option2,en
+51,58564,m,16-null,3.947945205,happy6,angry4,Happy_2_pause_2,option1,en
+52,58564,m,17-null,3.947945205,angry2,scared1,Scared_2_pause_2,option2,en
+53,58564,m,18-null,3.947945205,scared5,sad3,Sad_1_pause_2,option2,en
+54,58564,m,19-null,3.947945205,happy3_2,scared3,Scared_1_pause_2,option2,en
+55,58564,m,20-null,3.947945205,sad1_2,scared5,Scared_2_pause_2,option1,en
+56,58564,m,21-null,3.947945205,angry5_2,scared3,Angry_1_pause_2,option1,en
+57,58564,m,22-null,3.947945205,angry2,happy2,Angry_2_pause_2,option1,en
+58,58564,m,23-null,3.947945205,sad2_2,happy1,Happy_1_pause_2,option2,en
+59,58564,m,24-null,3.947945205,sad1_2,happy6,Sad_1_pause_2,option1,en
+60,58564,m,25-null,3.947945205,happy3_2,sad3,Happy_2_pause_2,option1,en
+61,58564,m,26-null,3.947945205,angry3,sad4,Angry_1_pause_2,option1,en
+62,58564,m,27-null,3.947945205,scared1,sad5,Sad_2_pause_2,option2,en
+63,58564,m,28-null,3.947945205,scared6,happy4,Scared_1_pause_2,option1,en
+64,58564,m,29-null,3.947945205,angry6,happy5,Angry_2_pause_2,option1,en
+65,58564,m,30-null,3.947945205,happy4,scared4,Happy_2_pause_2,option1,en
+66,58564,m,31-null,3.947945205,angry4,sad6,Angry_2_pause_2,option1,en
+67,58564,m,32-null,3.947945205,sad5,scared2,Scared_2_pause_2,option2,en
+68,58564,m,33-null,3.947945205,scared6,happy2,Happy_1_pause_2,option2,en
+69,58564,m,34-null,3.947945205,angry3,scared4,Scared_1_pause_2,option2,en
+70,58570,m,11-null,2.704109589,angry4,sad1_2,Sad_2_pause_2,option1,en
+71,58570,m,12-null,2.704109589,happy3_2,sad4,Sad_2_pause_2,option2,en
+72,58570,m,13-null,2.704109589,happy6,angry6,Angry_1_pause_2,option2,en
+73,58570,m,14-null,2.704109589,scared1,happy2,Scared_1_pause_2,option1,en
+74,58570,m,16-null,2.704109589,scared2,sad2_2,Scared_1_pause_2,option1,en
+75,58570,m,17-null,2.704109589,happy4,scared3,Happy_2_pause_2,option1,en
+76,58570,m,18-null,2.704109589,happy2,angry6,Happy_2_pause_2,option1,en
+77,58570,m,19-null,2.704109589,angry5_2,sad4,Angry_2_pause_2,option1,en
+78,58570,m,20-null,2.704109589,happy1,angry1_2,Happy_1_pause_2,option1,en
+79,58570,m,21-null,2.704109589,angry4,scared4,Angry_1_pause_2,option1,en
+80,58570,m,22-null,2.704109589,angry1_2,sad3,Angry_2_pause_2,I_dont_know,en
+81,58570,m,23-null,2.704109589,happy4,sad3,Sad_1_pause_2,option2,en
+82,58570,m,24-null,2.704109589,scared6,happy3_2,Happy_2_pause_2,option2,en
+83,58570,m,25-null,2.704109589,sad1_2,scared4,Scared_2_pause_2,I_dont_know,en
+84,58570,m,26-null,2.704109589,scared3,angry5_2,Scared_2_pause_2,option1,en
+85,58570,m,27-null,2.704109589,happy6,sad6,Happy_1_pause_2,option1,en
+86,58570,m,28-null,2.704109589,angry2,scared2,Angry_1_pause_2,option2,en
+87,58570,m,29-null,2.704109589,angry3,happy1,Angry_2_pause_2,option1,en
+88,58570,m,30-null,2.704109589,sad2_2,scared5,Sad_2_pause_2,option2,en
+89,58570,m,31-null,2.704109589,scared5,happy5,Scared_1_pause_2,option2,en
+90,58570,m,32-null,2.704109589,scared1,sad6,Sad_1_pause_2,option2,en
+91,58570,m,33-null,2.704109589,angry3,sad5,Sad_1_pause_2,option2,en
+92,58570,m,34-null,2.704109589,happy5,sad5,Happy_1_pause_2,option1,en
+93,58616,m,11-null,4.252054795,angry4,sad3,Angry_1_pause_2,option1,en
+94,58616,m,12-null,4.252054795,happy4,sad5,Happy_2_pause_2,option1,en
+95,58616,m,13-null,4.252054795,sad5,scared3,Sad_2_pause_2,option2,en
+96,58616,m,14-null,4.252054795,happy1,sad2_2,Sad_1_pause_2,option2,en
+97,58616,m,16-null,4.252054795,angry3,scared1,Scared_2_pause_2,option2,en
+98,58616,m,17-null,4.252054795,angry2,scared4,Angry_2_pause_2,option1,en
+99,58616,m,18-null,4.252054795,sad1_2,happy3_2,Sad_2_pause_2,option1,en
+100,58616,m,19-null,4.252054795,angry5_2,happy2,Angry_1_pause_2,option1,en
+101,58616,m,20-null,4.252054795,happy2,angry6,Happy_1_pause_2,option1,en
+102,58616,m,21-null,4.252054795,scared4,sad4,Scared_1_pause_2,option1,en
+103,58616,m,22-null,4.252054795,angry4,scared2,Scared_2_pause_2,option2,en
+104,58616,m,23-null,4.252054795,sad3,angry1_2,Sad_1_pause_2,option1,en
+105,58616,m,24-null,4.252054795,scared5,happy3_2,Happy_2_pause_2,option2,en
+106,58616,m,25-null,4.252054795,sad1_2,scared6,Scared_1_pause_2,option2,en
+107,58616,m,26-null,4.252054795,happy6,angry3,Angry_2_pause_2,option2,en
+108,58616,m,27-null,4.252054795,angry1_2,sad6,Angry_1_pause_2,option1,en
+109,58616,m,28-null,4.252054795,scared3,happy4,Scared_1_pause_2,option1,en
+110,58616,m,29-null,4.252054795,happy1,angry2,Happy_1_pause_2,option1,en
+111,58616,m,30-null,4.252054795,happy5,sad2_2,Happy_1_pause_2,option1,en
+112,58616,m,31-null,4.252054795,scared2,angry6,Angry_2_pause_2,option2,en
+113,58616,m,32-null,4.252054795,sad4,angry5_2,Sad_2_pause_2,option1,en
+114,58616,m,33-null,4.252054795,scared1,sad6,Sad_1_pause_2,option2,en
+115,58616,m,34-null,4.252054795,scared5,happy5,Scared_2_pause_2,option1,en
+116,58661,f,11-null,3.030136986,happy3_2,angry1_2,Angry_1_pause_2,option2,en
+117,58661,f,12-null,3.030136986,angry3,sad6,Angry_2_pause_2,option1,en
+118,58661,f,13-null,3.030136986,scared3,sad5,Scared_2_pause_2,option1,en
+119,58661,f,14-null,3.030136986,angry5_2,happy4,Angry_2_pause_2,option1,en
+120,58661,f,16-null,3.030136986,sad4,scared4,Scared_1_pause_2,option2,en
+121,58661,f,17-null,3.030136986,sad1_2,angry2,Angry_1_pause_2,option2,en
+122,58661,f,18-null,3.030136986,sad2_2,happy3_2,Happy_1_pause_2,option2,en
+123,58661,f,19-null,3.030136986,angry4,scared5,Scared_2_pause_2,option1,en
+124,58661,f,20-null,3.030136986,happy4,angry3,Happy_2_pause_2,option1,en
+125,58661,f,21-null,3.030136986,sad3,scared1,Sad_2_pause_2,option1,en
+126,58661,f,22-null,3.030136986,happy2,scared2,Scared_2_pause_2,option2,en
+127,58661,f,23-null,3.030136986,scared6,angry5_2,Scared_1_pause_2,option1,en
+128,58661,f,24-null,3.030136986,happy1,sad3,Happy_2_pause_2,option1,en
+129,58661,f,25-null,3.030136986,angry6,scared6,Angry_2_pause_2,option1,en
+130,58661,f,26-null,3.030136986,angry4,scared3,Angry_1_pause_2,option1,en
+131,58661,f,27-null,3.030136986,sad6,angry6,Sad_1_pause_2,option1,en
+132,58661,f,28-null,3.030136986,happy5,scared1,Scared_1_pause_2,option2,en
+133,58661,f,29-null,3.030136986,happy5,angry1_2,Happy_1_pause_2,option1,en
+134,58661,f,30-null,3.030136986,happy2,scared5,Happy_2_pause_2,option1,en
+135,58661,f,31-null,3.030136986,happy6,scared4,Happy_1_pause_2,option1,en
+136,58661,f,32-null,3.030136986,scared2,sad1_2,Sad_2_pause_2,option2,en
+137,58661,f,33-null,3.030136986,happy1,sad5,Sad_2_pause_2,option1,en
+138,58661,f,34-null,3.030136986,sad4,happy6,Sad_1_pause_2,option1,en
+139,58679,m,11-null,3.405479452,sad6,scared3,Sad_1_pause_2,option1,en
+140,58679,m,12-null,3.405479452,scared6,sad6,Scared_1_pause_2,option1,en
+141,58679,m,13-null,3.405479452,happy3_2,angry1_2,Angry_1_pause_2,option2,en
+142,58679,m,14-null,3.405479452,scared5,angry5_2,Scared_1_pause_2,option1,en
+143,58679,m,16-null,3.405479452,happy5,sad3,Sad_2_pause_2,option2,en
+144,58679,m,17-null,3.405479452,scared4,angry3,Angry_1_pause_2,option2,en
+145,58679,m,18-null,3.405479452,happy2,sad2_2,Happy_1_pause_2,option1,en
+146,58679,m,19-null,3.405479452,happy1,scared2,Scared_2_pause_2,option2,en
+147,58679,m,20-null,3.405479452,happy4,angry4,Angry_2_pause_2,option2,en
+148,58679,m,21-null,3.405479452,sad2_2,angry3,Sad_2_pause_2,option1,en
+149,58679,m,22-null,3.405479452,scared4,happy6,Scared_2_pause_2,option1,en
+150,58679,m,23-null,3.405479452,scared5,sad5,Sad_1_pause_2,option2,en
+151,58679,m,24-null,3.405479452,scared6,happy5,Happy_2_pause_2,option2,en
+152,58679,m,25-null,3.405479452,happy6,scared1,Happy_2_pause_2,option1,en
+153,58679,m,26-null,3.405479452,angry1_2,sad1_2,Sad_1_pause_2,option2,en
+154,58679,m,27-null,3.405479452,sad5,angry6,Angry_1_pause_2,option2,en
+155,58679,m,28-null,3.405479452,angry4,happy3_2,Happy_1_pause_2,option2,en
+156,58679,m,29-null,3.405479452,angry2,sad3,Angry_2_pause_2,option1,en
+157,58679,m,30-null,3.405479452,scared1,sad1_2,Scared_1_pause_2,option1,en
+158,58679,m,31-null,3.405479452,scared2,angry5_2,Angry_2_pause_2,option2,en
+159,58679,m,32-null,3.405479452,angry6,scared3,Scared_2_pause_2,option2,en
+160,58679,m,33-null,3.405479452,happy4,sad4,Happy_2_pause_2,option1,en
+161,58679,m,34-null,3.405479452,happy1,angry2,Happy_1_pause_2,option1,en
+162,58704,f,11-null,4.328767123,happy6,angry4,Angry_2_pause_2,option2,en
+163,58704,f,12-null,4.328767123,scared6,sad4,Scared_1_pause_2,option1,en
+164,58704,f,13-null,4.328767123,angry6,scared1,Angry_1_pause_2,option1,en
+165,58704,f,14-null,4.328767123,scared2,happy2,Happy_2_pause_2,option2,en
+166,58704,f,16-null,4.328767123,sad6,scared3,Sad_2_pause_2,option1,en
+167,58704,f,17-null,4.328767123,happy3_2,sad2_2,Happy_2_pause_2,option1,en
+168,58704,f,18-null,4.328767123,scared1,angry3,Scared_2_pause_2,option1,en
+169,58704,f,19-null,4.328767123,sad2_2,happy5,Sad_2_pause_2,option1,en
+170,58704,f,20-null,4.328767123,sad3,happy4,Sad_2_pause_2,option1,en
+171,58704,f,21-null,4.328767123,sad5,scared2,Scared_1_pause_2,option2,en
+172,58704,f,22-null,4.328767123,happy3_2,angry1_2,Angry_1_pause_2,option2,en
+173,58704,f,23-null,4.328767123,angry3,scared6,Angry_1_pause_2,option1,en
+174,58704,f,24-null,4.328767123,happy1,scared5,Scared_1_pause_2,option2,en
+175,58704,f,25-null,4.328767123,scared4,sad1_2,Sad_1_pause_2,option2,en
+176,58704,f,26-null,4.328767123,angry4,happy1,Happy_1_pause_2,option2,en
+177,58704,f,27-null,4.328767123,happy4,scared5,Happy_1_pause_2,option1,en
+178,58704,f,28-null,4.328767123,angry1_2,sad4,Sad_1_pause_2,option2,en
+179,58704,f,29-null,4.328767123,happy6,sad6,Happy_2_pause_2,option1,en
+180,58704,f,30-null,4.328767123,sad5,angry6,Sad_1_pause_2,option1,en
+181,58704,f,31-null,4.328767123,happy5,angry2,Happy_1_pause_2,option1,en
+182,58704,f,32-null,4.328767123,angry5_2,scared4,Scared_2_pause_2,option2,en
+183,58704,f,33-null,4.328767123,happy2,scared3,Scared_2_pause_2,option2,en
+184,58704,f,34-null,4.328767123,sad1_2,angry2,Angry_2_pause_2,option2,en
+185,58720,f,11-null,4.857534247,sad2_2,angry5_2,Sad_1_pause_2,option1,en
+186,58720,f,12-null,4.857534247,happy1,angry4,Happy_2_pause_2,option1,en
+187,58720,f,13-null,4.857534247,angry3,happy4,Angry_2_pause_2,option1,en
+188,58720,f,14-null,4.857534247,happy2,scared5,Scared_2_pause_2,option2,en
+189,58720,f,16-null,4.857534247,scared2,angry4,Angry_1_pause_2,option2,en
+190,58720,f,17-null,4.857534247,scared6,angry6,Angry_1_pause_2,option2,en
+191,58720,f,18-null,4.857534247,sad5,angry1_2,Sad_1_pause_2,option1,en
+192,58720,f,19-null,4.857534247,happy6,angry5_2,Angry_1_pause_2,option2,en
+193,58720,f,20-null,4.857534247,scared4,sad4,Sad_1_pause_2,option2,en
+194,58720,f,21-null,4.857534247,angry6,scared2,Scared_1_pause_2,option2,en
+195,58720,f,22-null,4.857534247,sad3,angry1_2,Angry_2_pause_2,option2,en
+196,58720,f,23-null,4.857534247,angry3,happy3_2,Happy_1_pause_2,option2,en
+197,58720,f,24-null,4.857534247,happy3_2,sad1_2,Sad_2_pause_2,option2,en
+198,58720,f,25-null,4.857534247,angry2,scared1,Scared_1_pause_2,option2,en
+199,58720,f,26-null,4.857534247,happy6,scared3,Happy_2_pause_2,option1,en
+200,58720,f,27-null,4.857534247,sad6,scared1,Sad_2_pause_2,option1,en
+201,58720,f,28-null,4.857534247,happy5,scared5,Happy_1_pause_2,option1,en
+202,58720,f,29-null,4.857534247,sad3,happy1,Sad_2_pause_2,option1,en
+203,58720,f,30-null,4.857534247,happy2,sad5,Happy_1_pause_2,option1,en
+204,58720,f,31-null,4.857534247,scared4,sad4,Scared_1_pause_2,option1,en
+205,58720,f,32-null,4.857534247,sad2_2,happy4,Happy_2_pause_2,option2,en
+206,58720,f,33-null,4.857534247,scared3,sad6,Scared_2_pause_2,option1,en
+207,58720,f,34-null,4.857534247,angry2,sad1_2,Angry_2_pause_2,option1,en
+208,58722,m,11-null,2.632876712,happy3_2,scared4,Happy_2_pause_2,option1,en
+209,58722,m,12-null,2.632876712,sad6,scared4,Scared_1_pause_2,option1,en
+210,58722,m,13-null,2.632876712,angry6,sad2_2,Sad_2_pause_2,option2,en
+211,58722,m,14-null,2.632876712,angry4,scared6,Angry_2_pause_2,option1,en
+212,58722,m,16-null,2.632876712,happy5,sad5,Happy_1_pause_2,option1,en
+213,58722,m,17-null,2.632876712,scared2,sad5,Sad_2_pause_2,option2,en
+214,58722,m,18-null,2.632876712,scared1,angry4,Scared_2_pause_2,option2,en
+215,58722,m,19-null,2.632876712,happy1,scared3,Happy_1_pause_2,option1,en
+216,58722,m,20-null,2.632876712,angry3,sad3,Angry_1_pause_2,option1,en
+217,58722,m,21-null,2.632876712,sad4,angry2,Angry_1_pause_2,option2,en
+218,58722,m,22-null,2.632876712,angry1_2,happy3_2,Angry_2_pause_2,option1,en
+219,58722,m,23-null,2.632876712,angry6,happy1,Angry_2_pause_2,option1,en
+220,58722,m,24-null,2.632876712,happy6,angry1_2,Happy_1_pause_2,option1,en
+221,58722,m,25-null,2.632876712,angry2,happy2,Happy_2_pause_2,option1,en
+222,58722,m,26-null,2.632876712,scared1,angry5_2,Angry_1_pause_2,option2,en
+223,58722,m,27-null,2.632876712,sad1_2,scared6,Scared_2_pause_2,option2,en
+224,58722,m,28-null,2.632876712,happy6,scared2,Scared_1_pause_2,option2,en
+225,58722,m,29-null,2.632876712,scared5,sad3,Sad_1_pause_2,option2,en
+226,58722,m,30-null,2.632876712,sad4,angry5_2,Sad_2_pause_2,option1,en
+227,58722,m,31-null,2.632876712,scared3,angry3,Scared_2_pause_2,option1,en
+228,58722,m,32-null,2.632876712,sad2_2,happy4,Happy_2_pause_2,option2,en
+229,58722,m,33-null,2.632876712,sad1_2,happy5,Sad_1_pause_2,I_dont_know,en
+230,58722,m,34-null,2.632876712,sad6,happy2,Sad_1_pause_2,option1,en
+231,58727,f,11-null,3.471232877,angry3,happy3_2,Happy_2_pause_2,option2,en
+232,58727,f,12-null,3.471232877,angry2,scared2,Angry_2_pause_2,option1,en
+233,58727,f,13-null,3.471232877,scared5,happy5,Scared_2_pause_2,option1,en
+234,58727,f,14-null,3.471232877,sad6,happy1,Happy_1_pause_2,option2,en
+235,58727,f,16-null,3.471232877,scared1,sad3,Sad_2_pause_2,option2,en
+236,58727,f,17-null,3.471232877,scared1,angry6,Scared_1_pause_2,option1,en
+237,58727,f,18-null,3.471232877,angry1_2,sad3,Angry_2_pause_2,option1,en
+238,58727,f,19-null,3.471232877,angry5_2,sad1_2,Sad_1_pause_2,option2,en
+239,58727,f,20-null,3.471232877,sad1_2,happy5,Happy_1_pause_2,option2,en
+240,58727,f,21-null,3.471232877,scared2,happy3_2,Scared_1_pause_2,option1,en
+241,58727,f,22-null,3.471232877,scared6,sad4,Scared_1_pause_2,option1,en
+242,58727,f,23-null,3.471232877,happy2,angry1_2,Happy_2_pause_2,option1,en
+243,58727,f,24-null,3.471232877,scared4,angry4,Angry_1_pause_2,option2,en
+244,58727,f,25-null,3.471232877,scared3,angry4,Scared_2_pause_2,option1,en
+245,58727,f,26-null,3.471232877,scared6,sad5,Sad_1_pause_2,option2,en
+246,58727,f,27-null,3.471232877,happy4,sad2_2,Sad_2_pause_2,option2,en
+247,58727,f,28-null,3.471232877,angry6,happy1,Angry_2_pause_2,option1,en
+248,58727,f,29-null,3.471232877,angry3,sad5,Angry_1_pause_2,option1,en
+249,58727,f,30-null,3.471232877,sad6,angry2,Sad_1_pause_2,option1,en
+250,58727,f,31-null,3.471232877,happy6,scared3,Happy_2_pause_2,option1,en
+251,58727,f,32-null,3.471232877,angry5_2,happy6,Angry_1_pause_2,option1,en
+252,58727,f,33-null,3.471232877,sad2_2,scared4,Scared_2_pause_2,option2,en
+253,58727,f,34-null,3.471232877,happy2,sad4,Sad_2_pause_2,option2,en
+254,58743,m,11-null,4.698630137,happy3_2,angry1_2,Happy_2_pause_2,option1,en ml
+255,58743,m,12-null,4.698630137,happy3_2,angry6,Angry_2_pause_2,option2,en ml
+256,58743,m,13-null,4.698630137,angry6,scared4,Scared_2_pause_2,option2,en ml
+257,58743,m,14-null,4.698630137,sad3,scared5,Scared_1_pause_2,option2,en ml
+258,58743,m,16-null,4.698630137,scared5,sad5,Sad_1_pause_2,option2,en ml
+259,58743,m,17-null,4.698630137,scared3,happy2,Scared_1_pause_2,option1,en ml
+260,58743,m,18-null,4.698630137,sad6,angry1_2,Angry_2_pause_2,option2,en ml
+261,58743,m,19-null,4.698630137,happy1,sad2_2,Sad_2_pause_2,option2,en ml
+262,58743,m,20-null,4.698630137,sad4,happy1,Happy_1_pause_2,option2,en ml
+263,58743,m,21-null,4.698630137,sad3,angry2,Sad_1_pause_2,option1,en ml
+264,58743,m,22-null,4.698630137,angry4,happy6,Angry_1_pause_2,option1,en ml
+265,58743,m,23-null,4.698630137,happy6,angry5_2,Happy_2_pause_2,option1,en ml
+266,58743,m,24-null,4.698630137,happy5,scared6,Happy_1_pause_2,option1,en ml
+267,58743,m,25-null,4.698630137,happy4,scared2,Happy_1_pause_2,option1,en ml
+268,58743,m,26-null,4.698630137,scared6,happy5,Scared_2_pause_2,option1,en ml
+269,58743,m,27-null,4.698630137,angry5_2,sad1_2,Angry_1_pause_2,option1,en ml
+270,58743,m,28-null,4.698630137,sad4,angry4,Sad_2_pause_2,option1,en ml
+271,58743,m,29-null,4.698630137,scared3,angry3,Angry_2_pause_2,option2,en ml
+272,58743,m,30-null,4.698630137,sad2_2,happy2,Happy_2_pause_2,option2,en ml
+273,58743,m,31-null,4.698630137,scared1,sad1_2,Sad_1_pause_2,option2,en ml
+274,58743,m,32-null,4.698630137,scared2,angry3,Scared_2_pause_2,option1,en ml
+275,58743,m,33-null,4.698630137,angry2,scared4,Angry_1_pause_2,option1,en ml
+276,58743,m,34-null,4.698630137,sad5,scared1,Scared_1_pause_2,option2,en ml
+277,58765,m,11-null,2.789041096,scared5,angry5_2,Angry_2_pause_2,option2,en
+278,58765,m,12-null,2.789041096,scared2,happy3_2,Scared_1_pause_2,option1,en
+279,58765,m,13-null,2.789041096,scared6,sad3,Scared_2_pause_2,option1,en
+280,58765,m,14-null,2.789041096,scared4,sad5,Sad_1_pause_2,option1,en
+281,58765,m,16-null,2.789041096,scared3,angry2,Scared_2_pause_2,option2,en
+282,58765,m,17-null,2.789041096,scared3,angry6,Angry_1_pause_2,option1,en
+283,58765,m,18-null,2.789041096,angry2,happy1,Angry_1_pause_2,option1,en
+284,58765,m,19-null,2.789041096,scared1,sad4,Scared_1_pause_2,option1,en
+285,58765,m,20-null,2.789041096,angry3,sad6,Angry_2_pause_2,option1,en
+286,58765,m,21-null,2.789041096,sad6,angry5_2,Sad_1_pause_2,option1,en
+287,58765,m,22-null,2.789041096,sad5,angry4,Angry_1_pause_2,option2,en
+288,58765,m,23-null,2.789041096,scared2,sad2_2,Sad_1_pause_2,option2,en
+289,58765,m,24-null,2.789041096,scared1,happy1,Happy_2_pause_2,option2,en
+290,58765,m,25-null,2.789041096,sad4,happy6,Sad_2_pause_2,option1,en
+291,58765,m,26-null,2.789041096,sad3,happy5,Sad_2_pause_2,option1,en
+292,58765,m,27-null,2.789041096,happy5,angry4,Happy_1_pause_2,option1,en
+293,58765,m,28-null,2.789041096,happy6,angry3,Happy_1_pause_2,option1,en
+294,58765,m,29-null,2.789041096,angry1_2,happy2,Angry_2_pause_2,I_dont_know,en
+295,58765,m,30-null,2.789041096,angry1_2,sad1_2,Sad_2_pause_2,I_dont_know,en
+296,58765,m,31-null,2.789041096,happy4,scared5,Scared_1_pause_2,option2,en
+297,58765,m,32-null,2.789041096,sad2_2,happy2,Happy_2_pause_2,option2,en
+298,58765,m,33-null,2.789041096,scared6,happy4,Happy_1_pause_2,option2,en
+299,58765,m,34-null,2.789041096,scared4,angry6,Scared_2_pause_2,option1,en
+300,58772,f,11-null,4.117808219,sad4,happy3_2,Sad_1_pause_2,option1,en
+301,58772,f,12-null,4.117808219,happy3_2,sad3,Happy_1_pause_2,option1,en
+302,58772,f,13-null,4.117808219,scared2,angry2,Angry_1_pause_2,option2,en
+303,58772,f,14-null,4.117808219,happy5,sad5,Happy_1_pause_2,option1,en
+304,58772,f,16-null,4.117808219,scared6,sad5,Sad_1_pause_2,option2,en
+305,58772,f,17-null,4.117808219,angry2,sad6,Sad_2_pause_2,option2,en
+306,58772,f,18-null,4.117808219,happy4,angry1_2,Angry_2_pause_2,option2,en
+307,58772,f,19-null,4.117808219,happy4,angry6,Happy_2_pause_2,option1,en
+308,58772,f,20-null,4.117808219,scared2,happy1,Scared_2_pause_2,option1,en
+309,58772,f,21-null,4.117808219,happy2,scared1,Happy_2_pause_2,option1,en
+310,58772,f,22-null,4.117808219,sad3,angry1_2,Sad_1_pause_2,option1,en
+311,58772,f,23-null,4.117808219,scared5,angry3,Angry_1_pause_2,option2,en
+312,58772,f,24-null,4.117808219,angry4,happy6,Happy_2_pause_2,option2,en
+313,58772,f,25-null,4.117808219,angry3,scared3,Scared_1_pause_2,option2,en
+314,58772,f,26-null,4.117808219,angry4,sad1_2,Angry_2_pause_2,option1,en
+315,58772,f,27-null,4.117808219,happy5,scared6,Scared_2_pause_2,option2,en
+316,58772,f,28-null,4.117808219,happy2,sad2_2,Sad_2_pause_2,option2,en
+317,58772,f,29-null,4.117808219,sad1_2,scared3,Sad_2_pause_2,I_dont_know,en
+318,58772,f,30-null,4.117808219,happy1,scared4,Happy_1_pause_2,option1,en
+319,58772,f,31-null,4.117808219,scared4,sad6,Scared_2_pause_2,option1,en
+320,58772,f,32-null,4.117808219,scared1,sad4,Scared_1_pause_2,option1,en
+321,58772,f,33-null,4.117808219,scared5,angry5_2,Scared_1_pause_2,option1,en
+322,58772,f,34-null,4.117808219,angry5_2,sad2_2,Angry_2_pause_2,option1,en
+323,58819,na,11-null,4.42739726,sad6,scared3,Scared_2_pause_2,option2,en ko es
+324,58819,na,12-null,4.42739726,happy5,angry4,Happy_2_pause_2,option1,en ko es
+325,58819,na,13-null,4.42739726,angry1_2,scared4,Angry_2_pause_2,option2,en ko es
+326,58819,na,14-null,4.42739726,angry4,scared2,Angry_1_pause_2,option2,en ko es
+327,58819,na,16-null,4.42739726,sad5,happy6,Happy_1_pause_2,option1,en ko es
+328,58819,na,17-null,4.42739726,happy5,sad4,Sad_1_pause_2,option1,en ko es
+329,58819,na,18-null,4.42739726,sad3,angry5_2,Sad_2_pause_2,option2,en ko es
+330,58819,na,19-null,4.42739726,angry2,sad1_2,Angry_1_pause_2,option1,en ko es
+331,58819,na,20-null,4.42739726,sad2_2,happy2,Happy_1_pause_2,option1,en ko es
+332,58819,na,21-null,4.42739726,happy3_2,sad1_2,Sad_2_pause_2,option1,en ko es
+333,58819,na,22-null,4.42739726,scared3,happy3_2,Happy_2_pause_2,option1,en ko es
+334,58819,na,23-null,4.42739726,happy6,scared6,Scared_2_pause_2,option1,en ko es
+335,58819,na,24-null,4.42739726,scared1,sad4,Scared_2_pause_2,option1,en ko es
+336,58819,na,25-null,4.42739726,angry3,happy4,Angry_2_pause_2,option2,en ko es
+337,58819,na,26-null,4.42739726,sad2_2,scared1,Sad_1_pause_2,option2,en ko es
+338,58819,na,27-null,4.42739726,scared4,happy1,Scared_1_pause_2,option2,en ko es
+339,58819,na,28-null,4.42739726,scared5,happy1,Happy_1_pause_2,I_dont_know,en ko es
+340,58819,na,29-null,4.42739726,angry6,scared2,Scared_1_pause_2,I_dont_know,en ko es
+341,58819,na,30-null,4.42739726,scared6,sad5,Sad_2_pause_2,option2,en ko es
+342,58819,na,31-null,4.42739726,sad3,angry5_2,Angry_2_pause_2,I_dont_know,en ko es
+343,58819,na,32-null,4.42739726,angry2,happy4,Happy_2_pause_2,I_dont_know,en ko es
+344,58819,na,33-null,4.42739726,scared5,angry3,Scared_1_pause_2,I_dont_know,en ko es
+345,58819,na,34-null,4.42739726,happy2,angry6,Angry_1_pause_2,I_dont_know,en ko es
+346,58825,na,11-null,2.876712329,scared5,happy5,Scared_2_pause_2,option1,en fr cmn es
+347,58825,na,12-null,2.876712329,happy6,scared3,Scared_1_pause_2,option2,en fr cmn es
+348,58825,na,13-null,2.876712329,scared6,angry6,Angry_2_pause_2,option2,en fr cmn es
+349,58825,na,14-null,2.876712329,sad6,happy4,Sad_1_pause_2,option1,en fr cmn es
+350,58825,na,16-null,2.876712329,angry1_2,happy1,Angry_1_pause_2,option1,en fr cmn es
+351,58825,na,17-null,2.876712329,angry2,scared2,Scared_1_pause_2,option2,en fr cmn es
+352,58825,na,18-null,2.876712329,happy2,angry6,Happy_1_pause_2,option1,en fr cmn es
+353,58825,na,19-null,2.876712329,sad5,angry2,Angry_2_pause_2,option2,en fr cmn es
+354,58825,na,20-null,2.876712329,sad2_2,angry1_2,Sad_2_pause_2,option2,en fr cmn es
+355,58825,na,21-null,2.876712329,scared4,sad3,Scared_1_pause_2,option1,en fr cmn es
+356,58825,na,22-null,2.876712329,sad3,scared2,Sad_2_pause_2,option1,en fr cmn es
+357,58825,na,23-null,2.876712329,scared6,sad2_2,Scared_2_pause_2,option1,en fr cmn es
+358,58825,na,24-null,2.876712329,happy1,scared1,Happy_1_pause_2,option1,en fr cmn es
+359,58825,na,25-null,2.876712329,scared1,angry3,Scared_2_pause_2,option1,en fr cmn es
+360,58825,na,26-null,2.876712329,happy3_2,angry3,Angry_1_pause_2,option2,en fr cmn es
+361,58825,na,27-null,2.876712329,angry5_2,sad1_2,Angry_2_pause_2,option1,en fr cmn es
+362,58825,na,28-null,2.876712329,sad4,scared5,Sad_1_pause_2,I_dont_know,en fr cmn es
+363,58825,na,29-null,2.876712329,sad1_2,angry5_2,Sad_1_pause_2,option1,en fr cmn es
+364,58825,na,30-null,2.876712329,scared3,happy5,Happy_2_pause_2,option2,en fr cmn es
+365,58825,na,31-null,2.876712329,angry4,happy4,Happy_2_pause_2,option1,en fr cmn es
+366,58825,na,32-null,2.876712329,sad6,happy3_2,Happy_2_pause_2,option2,en fr cmn es
+367,58825,na,33-null,2.876712329,angry4,scared4,Angry_1_pause_2,option1,en fr cmn es
+368,58825,na,34-null,2.876712329,happy2,sad5,Sad_2_pause_2,option2,en fr cmn es
+369,58907,f,11-null,4.728767123,angry4,happy1,Angry_1_pause_2,option1,en
+370,58907,f,12-null,4.728767123,sad1_2,scared6,Sad_1_pause_2,option1,en
+371,58907,f,13-null,4.728767123,scared4,angry5_2,Scared_2_pause_2,option1,en
+372,58907,f,14-null,4.728767123,angry3,sad2_2,Sad_2_pause_2,option2,en
+373,58907,f,16-null,4.728767123,sad3,happy2,Sad_2_pause_2,option1,en
+374,58907,f,17-null,4.728767123,scared5,sad5,Scared_2_pause_2,option1,en
+375,58907,f,18-null,4.728767123,happy6,scared3,Happy_2_pause_2,option1,en
+376,58907,f,19-null,4.728767123,angry2,sad4,Sad_1_pause_2,option2,en
+377,58907,f,20-null,4.728767123,scared2,angry6,Scared_2_pause_2,option1,en
+378,58907,f,21-null,4.728767123,happy1,angry1_2,Happy_2_pause_2,option1,en
+379,58907,f,22-null,4.728767123,angry2,sad2_2,Angry_2_pause_2,option1,en
+380,58907,f,23-null,4.728767123,happy2,angry4,Happy_1_pause_2,option1,en
+381,58907,f,24-null,4.728767123,angry3,scared4,Angry_1_pause_2,option1,en
+382,58907,f,25-null,4.728767123,happy5,angry1_2,Angry_2_pause_2,option2,en
+383,58907,f,26-null,4.728767123,happy4,scared6,Scared_1_pause_2,option2,en
+384,58907,f,27-null,4.728767123,sad1_2,scared3,Scared_1_pause_2,option2,en
+385,58907,f,28-null,4.728767123,sad5,scared1,Sad_2_pause_2,option1,en
+386,58907,f,29-null,4.728767123,scared2,happy3_2,Happy_1_pause_2,option2,en
+387,58907,f,30-null,4.728767123,happy5,sad3,Happy_1_pause_2,option1,en
+388,58907,f,31-null,4.728767123,scared1,happy3_2,Scared_1_pause_2,option1,en
+389,58907,f,32-null,4.728767123,sad4,happy4,Happy_2_pause_2,option2,en
+390,58907,f,33-null,4.728767123,sad6,angry5_2,Angry_2_pause_2,option2,en
+391,58907,f,34-null,4.728767123,angry6,scared5,Angry_1_pause_2,option1,en
+392,58987,f,11-null,3.849315068,scared1,angry6,Angry_1_pause_2,option2,en
+393,58987,f,12-null,3.849315068,happy1,scared5,Happy_1_pause_2,option1,en
+394,58987,f,13-null,3.849315068,scared3,sad5,Scared_2_pause_2,option1,en
+395,58987,f,14-null,3.849315068,happy5,scared2,Scared_2_pause_2,option2,en
+396,58987,f,16-null,3.849315068,scared2,angry3,Angry_2_pause_2,option2,en
+397,58987,f,17-null,3.849315068,sad4,happy6,Happy_2_pause_2,option2,en
+398,58987,f,18-null,3.849315068,happy2,angry5_2,Happy_1_pause_2,option1,en
+399,58987,f,19-null,3.849315068,angry6,scared5,Scared_1_pause_2,option2,en
+400,58987,f,20-null,3.849315068,sad1_2,angry1_2,Angry_2_pause_2,option2,en
+401,58987,f,21-null,3.849315068,happy2,sad6,Sad_2_pause_2,option2,en
+402,58987,f,22-null,3.849315068,scared4,angry3,Scared_2_pause_2,option1,en
+403,58987,f,23-null,3.849315068,happy3_2,angry1_2,Happy_2_pause_2,option1,en
+404,58987,f,24-null,3.849315068,angry2,sad3,Sad_1_pause_2,option2,en
+405,58987,f,25-null,3.849315068,angry4,sad1_2,Sad_1_pause_2,option2,en
+406,58987,f,26-null,3.849315068,happy6,angry5_2,Angry_1_pause_2,option2,en
+407,58987,f,27-null,3.849315068,sad2_2,happy1,Sad_1_pause_2,option1,en
+408,58987,f,28-null,3.849315068,sad3,angry4,Angry_1_pause_2,option2,en
+409,58987,f,29-null,3.849315068,sad5,scared4,Sad_2_pause_2,option1,en
+410,58987,f,30-null,3.849315068,scared6,sad2_2,Scared_1_pause_2,option1,en
+411,58987,f,31-null,3.849315068,sad6,happy5,Happy_2_pause_2,option2,en
+412,58987,f,32-null,3.849315068,happy3_2,angry2,Angry_2_pause_2,option2,en
+413,58987,f,33-null,3.849315068,scared6,sad4,Sad_2_pause_2,option2,en
+414,58987,f,34-null,3.849315068,happy4,scared3,Happy_1_pause_2,option1,en
+415,58993,m,11-null,2.312328767,angry3,scared1,Scared_1_pause_2,option1,en
+416,58993,m,12-null,2.312328767,scared5,angry1_2,Angry_1_pause_2,option1,en
+417,58993,m,13-null,2.312328767,sad6,scared2,Scared_2_pause_2,option2,en
+418,58993,m,14-null,2.312328767,scared5,happy5,Scared_2_pause_2,option1,en
+419,58993,m,16-null,2.312328767,angry4,happy4,Angry_2_pause_2,option1,en
+420,58993,m,17-null,2.312328767,happy2,scared6,Happy_2_pause_2,option1,en
+421,58993,m,18-null,2.312328767,sad1_2,happy6,Sad_1_pause_2,option1,en
+422,58993,m,19-null,2.312328767,happy3_2,sad1_2,Happy_2_pause_2,option1,en
+423,58993,m,20-null,2.312328767,happy5,angry5_2,Happy_1_pause_2,option1,en
+424,58993,m,21-null,2.312328767,angry4,sad6,Sad_2_pause_2,option2,en
+425,58993,m,22-null,2.312328767,angry2,sad3,Angry_2_pause_2,option1,en
+426,58993,m,23-null,2.312328767,angry5_2,happy3_2,Angry_1_pause_2,option1,en
+427,58993,m,24-null,2.312328767,scared4,angry6,Scared_1_pause_2,option1,en
+428,58993,m,25-null,2.312328767,scared1,sad2_2,Sad_1_pause_2,option1,en
+429,58993,m,26-null,2.312328767,angry3,scared4,Angry_1_pause_2,option1,en
+430,58993,m,27-null,2.312328767,angry2,happy4,Happy_1_pause_2,option2,en
+431,58993,m,28-null,2.312328767,scared2,sad5,Sad_2_pause_2,option2,en
+432,58993,m,29-null,2.312328767,sad2_2,angry6,Angry_2_pause_2,I_dont_know,en
+433,58993,m,30-null,2.312328767,happy1,scared3,Happy_2_pause_2,option1,en
+434,58993,m,31-null,2.312328767,sad5,scared6,Scared_1_pause_2,option2,en
+435,58993,m,32-null,2.312328767,happy2,scared3,Scared_2_pause_2,option2,en
+436,58993,m,33-null,2.312328767,happy1,sad4,Sad_2_pause_2,option2,en
+437,58993,m,34-null,2.312328767,angry1_2,sad3,Sad_1_pause_2,option2,en
+438,58998,m,11-null,4.750684932,scared3,happy2,Happy_1_pause_2,option2,en
+439,58998,m,12-null,4.750684932,happy6,scared4,Happy_2_pause_2,option1,en
+440,58998,m,13-null,4.750684932,angry5_2,happy5,Angry_1_pause_2,option1,en
+441,58998,m,14-null,4.750684932,happy4,sad2_2,Happy_1_pause_2,option1,en
+442,58998,m,16-null,4.750684932,sad4,scared3,Scared_1_pause_2,option2,en
+443,58998,m,17-null,4.750684932,angry2,scared1,Angry_2_pause_2,option1,en
+444,58998,m,18-null,4.750684932,scared5,sad1_2,Sad_1_pause_2,option2,en
+445,58998,m,19-null,4.750684932,happy1,sad1_2,Happy_2_pause_2,option1,en
+446,58998,m,20-null,4.750684932,scared6,angry6,Scared_2_pause_2,option1,en
+447,58998,m,21-null,4.750684932,sad3,scared1,Scared_1_pause_2,option2,en
+448,58998,m,22-null,4.750684932,angry2,sad2_2,Sad_2_pause_2,option2,en
+449,58998,m,23-null,4.750684932,sad6,angry4,Angry_1_pause_2,option2,en
+450,58998,m,24-null,4.750684932,angry1_2,scared5,Scared_1_pause_2,option2,en
+451,58998,m,25-null,4.750684932,angry3,happy5,Happy_2_pause_2,option2,en
+452,58998,m,26-null,4.750684932,sad6,happy3_2,Sad_1_pause_2,option1,en
+453,58998,m,27-null,4.750684932,happy2,scared4,Scared_2_pause_2,option2,en
+454,58998,m,28-null,4.750684932,sad3,angry5_2,Sad_2_pause_2,option1,en
+455,58998,m,29-null,4.750684932,scared2,sad4,Sad_2_pause_2,option2,en
+456,58998,m,30-null,4.750684932,scared6,angry6,Angry_2_pause_2,option2,en
+457,58998,m,31-null,4.750684932,happy4,angry1_2,Angry_2_pause_2,option2,en
+458,58998,m,32-null,4.750684932,angry3,sad5,Angry_1_pause_2,option1,en
+459,58998,m,33-null,4.750684932,happy3_2,angry4,Happy_1_pause_2,option1,en
+460,58998,m,34-null,4.750684932,scared2,happy1,Scared_2_pause_2,option1,en
+461,59000,f,11-null,3.830136986,angry5_2,happy1,Happy_1_pause_2,option2,en
+462,59000,f,12-null,3.830136986,happy1,scared4,Scared_2_pause_2,option2,en
+463,59000,f,13-null,3.830136986,sad3,happy6,Sad_1_pause_2,option1,en
+464,59000,f,14-null,3.830136986,sad3,angry1_2,Angry_2_pause_2,option2,en
+465,59000,f,16-null,3.830136986,sad1_2,scared6,Scared_1_pause_2,option2,en
+466,59000,f,17-null,3.830136986,scared1,angry5_2,Angry_2_pause_2,option2,en
+467,59000,f,18-null,3.830136986,sad4,happy3_2,Happy_1_pause_2,option2,en
+468,59000,f,19-null,3.830136986,sad6,scared2,Scared_2_pause_2,option2,en
+469,59000,f,20-null,3.830136986,scared1,angry4,Scared_1_pause_2,option1,en
+470,59000,f,21-null,3.830136986,happy6,sad5,Happy_2_pause_2,option1,en
+471,59000,f,22-null,3.830136986,scared5,happy5,Scared_1_pause_2,option1,en
+472,59000,f,23-null,3.830136986,sad2_2,scared5,Sad_2_pause_2,option1,en
+473,59000,f,24-null,3.830136986,scared3,angry4,Angry_1_pause_2,option2,en
+474,59000,f,25-null,3.830136986,sad1_2,scared6,Sad_2_pause_2,option1,en
+475,59000,f,26-null,3.830136986,happy2,angry2,Angry_2_pause_2,option2,en
+476,59000,f,27-null,3.830136986,scared2,happy4,Happy_2_pause_2,option2,en
+477,59000,f,28-null,3.830136986,happy2,angry1_2,Happy_1_pause_2,option1,en
+478,59000,f,29-null,3.830136986,sad6,angry3,Sad_2_pause_2,option1,en
+479,59000,f,30-null,3.830136986,sad5,angry2,Sad_1_pause_2,option1,en
+480,59000,f,31-null,3.830136986,angry6,sad2_2,Angry_1_pause_2,option1,en
+481,59000,f,32-null,3.830136986,scared3,angry6,Scared_2_pause_2,option1,en
+482,59000,f,33-null,3.830136986,sad4,happy4,Sad_1_pause_2,option1,en
+483,59000,f,34-null,3.830136986,scared4,happy5,Happy_2_pause_2,option2,en
+484,59002,m,11-null,2.863013699,angry3,sad2_2,Sad_2_pause_2,option2,en nl
+485,59002,m,12-null,2.863013699,angry1_2,sad1_2,Sad_1_pause_2,option2,en nl
+486,59002,m,13-null,2.863013699,scared2,happy6,Scared_1_pause_2,option1,en nl
+487,59002,m,14-null,2.863013699,scared3,sad3,Sad_2_pause_2,option2,en nl
+488,59002,m,16-null,2.863013699,angry1_2,scared2,Angry_2_pause_2,I_dont_know,en nl
+489,59002,m,17-null,2.863013699,scared1,happy6,Happy_1_pause_2,option2,en nl
+490,59002,m,18-null,2.863013699,angry6,scared4,Angry_2_pause_2,option1,en nl
+491,59002,m,19-null,2.863013699,angry5_2,scared5,Scared_1_pause_2,option1,en nl
+492,59002,m,20-null,2.863013699,angry2,sad5,Angry_1_pause_2,option1,en nl
+493,59002,m,21-null,2.863013699,happy1,sad5,Sad_2_pause_2,option2,en nl
+494,59002,m,22-null,2.863013699,scared6,sad4,Scared_1_pause_2,option1,en nl
+495,59002,m,23-null,2.863013699,happy5,sad3,Happy_1_pause_2,option1,en nl
+496,59002,m,24-null,2.863013699,angry4,happy3_2,Happy_2_pause_2,option2,en nl
+497,59002,m,25-null,2.863013699,scared4,sad1_2,Scared_2_pause_2,option1,en nl
+498,59002,m,26-null,2.863013699,sad6,happy5,Sad_1_pause_2,option1,en nl
+499,59002,m,27-null,2.863013699,happy1,angry6,Happy_2_pause_2,option1,en nl
+500,59002,m,28-null,2.863013699,happy2,sad2_2,Happy_1_pause_2,I_dont_know,en nl
+501,59002,m,29-null,2.863013699,sad4,scared6,Sad_1_pause_2,option1,en nl
+502,59002,m,30-null,2.863013699,angry5_2,happy2,Angry_1_pause_2,option1,en nl
+503,59002,m,31-null,2.863013699,angry4,happy3_2,Angry_1_pause_2,option2,en nl
+504,59002,m,32-null,2.863013699,scared3,happy4,Scared_2_pause_2,option1,en nl
+505,59002,m,33-null,2.863013699,happy4,scared5,Happy_2_pause_2,option1,en nl
+506,59002,m,34-null,2.863013699,scared1,angry2,Scared_2_pause_2,option1,en nl
+507,59010,f,11-null,3.257534247,scared2,angry1_2,Angry_2_pause_2,option2,en es
+508,59010,f,12-null,3.257534247,happy2,scared3,Scared_2_pause_2,option2,en es
+509,59010,f,13-null,3.257534247,sad5,scared2,Scared_1_pause_2,option2,en es
+510,59010,f,14-null,3.257534247,happy1,sad3,Happy_1_pause_2,option1,en es
+511,59010,f,16-null,3.257534247,sad4,scared5,Scared_2_pause_2,option2,en es
+512,59010,f,17-null,3.257534247,sad2_2,happy3_2,Happy_2_pause_2,option2,en es
+513,59010,f,18-null,3.257534247,happy5,angry6,Happy_1_pause_2,option1,en es
+514,59010,f,19-null,3.257534247,sad4,scared5,Sad_1_pause_2,option1,en es
+515,59010,f,20-null,3.257534247,happy4,scared3,Happy_2_pause_2,option1,en es
+516,59010,f,21-null,3.257534247,angry5_2,scared1,Scared_2_pause_2,option2,en es
+517,59010,f,22-null,3.257534247,angry3,happy5,Angry_1_pause_2,option1,en es
+518,59010,f,23-null,3.257534247,sad1_2,angry5_2,Angry_2_pause_2,option2,en es
+519,59010,f,24-null,3.257534247,happy6,angry2,Happy_2_pause_2,option1,en es
+520,59010,f,25-null,3.257534247,angry3,sad6,Sad_2_pause_2,option2,en es
+521,59010,f,26-null,3.257534247,scared1,happy2,Happy_1_pause_2,option2,en es
+522,59010,f,27-null,3.257534247,scared4,angry4,Angry_1_pause_2,option2,en es
+523,59010,f,28-null,3.257534247,sad2_2,happy3_2,Sad_1_pause_2,option1,en es
+524,59010,f,29-null,3.257534247,angry1_2,sad5,Sad_2_pause_2,option2,en es
+525,59010,f,30-null,3.257534247,angry6,sad6,Angry_1_pause_2,option1,en es
+526,59010,f,31-null,3.257534247,angry2,happy4,Angry_2_pause_2,option1,en es
+527,59010,f,32-null,3.257534247,sad1_2,scared6,Sad_2_pause_2,option2,en es
+528,59010,f,33-null,3.257534247,happy1,scared6,Scared_1_pause_2,option2,en es
+529,59010,f,34-null,3.257534247,happy6,sad3,Sad_1_pause_2,option2,en es
+530,59026,m,11-null,3.953424658,scared6,happy1,Happy_2_pause_2,option2,en
+531,59026,m,12-null,3.953424658,happy6,sad2_2,Sad_2_pause_2,option2,en
+532,59026,m,13-null,3.953424658,scared1,angry2,Scared_1_pause_2,option2,en
+533,59026,m,14-null,3.953424658,scared3,happy1,Scared_1_pause_2,option1,en
+534,59026,m,16-null,3.953424658,happy5,scared4,Scared_2_pause_2,option2,en
+535,59026,m,17-null,3.953424658,sad1_2,scared6,Scared_2_pause_2,option2,en
+536,59026,m,18-null,3.953424658,angry5_2,happy3_2,Angry_1_pause_2,option1,en
+537,59026,m,19-null,3.953424658,happy2,angry4,Happy_1_pause_2,option1,en
+538,59026,m,20-null,3.953424658,happy2,angry3,Angry_1_pause_2,option2,en
+539,59026,m,21-null,3.953424658,sad3,angry6,Angry_2_pause_2,option2,en
+540,59026,m,22-null,3.953424658,sad6,happy6,Happy_2_pause_2,option2,en
+541,59026,m,23-null,3.953424658,sad5,angry6,Sad_2_pause_2,option1,en
+542,59026,m,24-null,3.953424658,sad4,scared5,Scared_2_pause_2,option2,en
+543,59026,m,25-null,3.953424658,scared2,angry2,Angry_2_pause_2,option2,en
+544,59026,m,26-null,3.953424658,sad3,angry3,Sad_2_pause_2,option1,en
+545,59026,m,27-null,3.953424658,happy5,sad2_2,Happy_1_pause_2,option1,en
+546,59026,m,28-null,3.953424658,angry1_2,sad5,Angry_2_pause_2,option1,en
+547,59026,m,29-null,3.953424658,happy4,scared3,Happy_2_pause_2,option1,en
+548,59026,m,30-null,3.953424658,sad4,happy4,Sad_1_pause_2,option1,en
+549,59026,m,31-null,3.953424658,sad6,scared5,Sad_1_pause_2,option1,en
+550,59026,m,32-null,3.953424658,angry1_2,scared2,Scared_1_pause_2,option2,en
+551,59026,m,33-null,3.953424658,happy3_2,angry5_2,Happy_1_pause_2,option1,en
+552,59026,m,34-null,3.953424658,sad1_2,scared1,Sad_1_pause_2,option2,en
+553,59046,f,11-null,3.254794521,angry2,scared2,Scared_1_pause_2,option2,en
+554,59046,f,12-null,3.254794521,happy2,sad4,Sad_1_pause_2,option2,en
+555,59046,f,13-null,3.254794521,angry5_2,happy1,Happy_1_pause_2,option2,en
+556,59046,f,14-null,3.254794521,sad3,happy4,Sad_2_pause_2,option1,en
+557,59046,f,16-null,3.254794521,happy5,scared6,Happy_2_pause_2,option1,en
+558,59046,f,17-null,3.254794521,happy2,sad2_2,Happy_2_pause_2,option1,en
+559,59046,f,18-null,3.254794521,scared1,sad5,Scared_2_pause_2,option1,en
+560,59046,f,19-null,3.254794521,happy6,angry2,Angry_2_pause_2,option1,en
+561,59046,f,20-null,3.254794521,angry1_2,sad6,Sad_1_pause_2,option2,en
+562,59046,f,21-null,3.254794521,scared1,angry1_2,Angry_2_pause_2,option1,en
+563,59046,f,22-null,3.254794521,angry4,scared5,Angry_1_pause_2,option1,en
+564,59046,f,23-null,3.254794521,scared4,happy1,Scared_2_pause_2,option1,en
+565,59046,f,24-null,3.254794521,scared6,sad4,Scared_2_pause_2,option1,en
+566,59046,f,25-null,3.254794521,sad1_2,happy3_2,Happy_2_pause_2,option2,en
+567,59046,f,26-null,3.254794521,scared3,happy5,Scared_1_pause_2,option1,en
+568,59046,f,27-null,3.254794521,sad6,angry5_2,Angry_1_pause_2,option1,en
+569,59046,f,28-null,3.254794521,angry6,scared5,Scared_1_pause_2,option2,en
+570,59046,f,29-null,3.254794521,sad1_2,angry4,Sad_1_pause_2,option1,en
+571,59046,f,30-null,3.254794521,happy3_2,angry6,Angry_1_pause_2,option2,en
+572,59046,f,31-null,3.254794521,happy4,angry3,Happy_1_pause_2,option1,en
+573,59046,f,32-null,3.254794521,sad3,angry3,Angry_2_pause_2,option1,en
+574,59046,f,33-null,3.254794521,sad5,scared3,Sad_2_pause_2,option1,en
+575,59046,f,34-null,3.254794521,scared2,sad2_2,Sad_2_pause_2,option2,en
+576,59065,m,11-null,2.331506849,sad6,angry2,Sad_2_pause_2,option1,en
+577,59065,m,12-null,2.331506849,sad5,happy5,Happy_1_pause_2,option2,en
+578,59065,m,13-null,2.331506849,scared4,angry2,Angry_1_pause_2,option1,en
+579,59065,m,14-null,2.331506849,happy1,angry4,Angry_1_pause_2,option2,en
+580,59065,m,16-null,2.331506849,scared1,sad1_2,Sad_2_pause_2,option2,en
+581,59065,m,17-null,2.331506849,scared2,sad3,Sad_1_pause_2,option2,en
+582,59065,m,18-null,2.331506849,sad2_2,happy6,Sad_1_pause_2,option1,en
+583,59065,m,19-null,2.331506849,happy4,angry1_2,Angry_2_pause_2,option2,en
+584,59065,m,20-null,2.331506849,angry6,scared3,Scared_2_pause_2,option2,en
+585,59065,m,21-null,2.331506849,scared5,angry1_2,Scared_1_pause_2,option1,en
+586,59065,m,22-null,2.331506849,sad6,angry3,Angry_2_pause_2,option1,en
+587,59065,m,23-null,2.331506849,happy2,angry5_2,Happy_1_pause_2,option1,en
+588,59065,m,24-null,2.331506849,angry5_2,sad4,Angry_2_pause_2,option1,en
+589,59065,m,25-null,2.331506849,sad5,happy5,Sad_2_pause_2,option1,en
+590,59065,m,26-null,2.331506849,scared6,happy1,Happy_2_pause_2,option2,en
+591,59065,m,27-null,2.331506849,happy2,scared6,Scared_1_pause_2,option2,en
+592,59065,m,28-null,2.331506849,sad3,scared4,Scared_2_pause_2,option2,en
+593,59065,m,29-null,2.331506849,scared2,sad1_2,Scared_1_pause_2,option1,en
+594,59065,m,30-null,2.331506849,sad4,angry4,Sad_1_pause_2,option1,en
+595,59065,m,31-null,2.331506849,sad2_2,happy4,Happy_2_pause_2,option2,en
+596,59065,m,32-null,2.331506849,happy6,scared5,Happy_1_pause_2,option1,en
+597,59065,m,33-null,2.331506849,happy3_2,angry3,Happy_2_pause_2,option1,en
+598,59065,m,34-null,2.331506849,scared3,angry6,Angry_1_pause_2,option2,en
+599,59093,m,11-null,4.632876712,sad5,scared4,Scared_1_pause_2,option2,en
+600,59093,m,12-null,4.632876712,happy2,angry2,Happy_1_pause_2,option1,en
+601,59093,m,13-null,4.632876712,sad4,scared6,Scared_2_pause_2,option2,en
+602,59093,m,14-null,4.632876712,scared6,angry3,Angry_2_pause_2,option2,en
+603,59093,m,16-null,4.632876712,sad3,angry3,Sad_1_pause_2,option1,en
+604,59093,m,17-null,4.632876712,sad4,scared1,Sad_2_pause_2,option1,en
+605,59093,m,18-null,4.632876712,scared3,sad5,Sad_1_pause_2,option2,en
+606,59093,m,19-null,4.632876712,angry6,sad3,Angry_2_pause_2,option1,en
+607,59093,m,20-null,4.632876712,sad1_2,angry5_2,Angry_1_pause_2,option2,en
+608,59093,m,21-null,4.632876712,scared4,angry2,Angry_2_pause_2,option2,en
+609,59093,m,22-null,4.632876712,happy6,scared5,Happy_2_pause_2,option1,en
+610,59093,m,23-null,4.632876712,sad6,happy4,Happy_2_pause_2,option2,en
+611,59093,m,24-null,4.632876712,happy1,angry1_2,Happy_1_pause_2,option1,en
+612,59093,m,25-null,4.632876712,scared5,happy3_2,Scared_2_pause_2,option1,en
+613,59093,m,26-null,4.632876712,scared2,happy5,Happy_1_pause_2,option2,en
+614,59093,m,27-null,4.632876712,sad2_2,happy3_2,Happy_2_pause_2,option2,en
+615,59093,m,28-null,4.632876712,sad1_2,angry6,Sad_1_pause_2,option1,en
+616,59093,m,29-null,4.632876712,angry1_2,happy2,Angry_1_pause_2,option1,en
+617,59093,m,30-null,4.632876712,happy4,angry4,Angry_1_pause_2,option2,en
+618,59093,m,31-null,4.632876712,happy1,sad6,Sad_2_pause_2,option2,en
+619,59093,m,32-null,4.632876712,happy5,scared3,Scared_2_pause_2,option2,en
+620,59093,m,33-null,4.632876712,happy6,sad2_2,Sad_2_pause_2,option2,en
+621,59093,m,34-null,4.632876712,scared2,angry4,Scared_1_pause_2,option1,en
+622,59098,f,11-null,3.202739726,happy5,scared6,Scared_2_pause_2,option2,en
+623,59098,f,12-null,3.202739726,scared3,happy2,Happy_2_pause_2,option2,en
+624,59098,f,13-null,3.202739726,sad2_2,angry4,Sad_1_pause_2,option1,en
+625,59098,f,14-null,3.202739726,sad1_2,scared1,Sad_2_pause_2,option1,en
+626,59098,f,16-null,3.202739726,angry5_2,sad6,Sad_1_pause_2,option2,en
+627,59098,f,17-null,3.202739726,happy4,angry1_2,Happy_1_pause_2,option1,en
+628,59098,f,18-null,3.202739726,happy1,angry3,Happy_1_pause_2,option1,en
+629,59098,f,19-null,3.202739726,sad3,happy4,Sad_2_pause_2,option1,en
+630,59098,f,20-null,3.202739726,scared2,happy6,Scared_2_pause_2,option1,en
+631,59098,f,21-null,3.202739726,angry2,scared5,Scared_1_pause_2,option2,en
+632,59098,f,22-null,3.202739726,happy3_2,angry5_2,Angry_1_pause_2,option2,en
+633,59098,f,23-null,3.202739726,happy5,sad3,Happy_2_pause_2,option1,en
+634,59098,f,24-null,3.202739726,angry3,sad1_2,Angry_2_pause_2,option1,en
+635,59098,f,25-null,3.202739726,scared5,happy6,Happy_2_pause_2,option2,en
+636,59098,f,26-null,3.202739726,angry6,scared2,Angry_1_pause_2,option1,en
+637,59098,f,27-null,3.202739726,angry1_2,happy1,Angry_1_pause_2,option1,en
+638,59098,f,28-null,3.202739726,scared3,angry6,Scared_1_pause_2,option1,en
+639,59098,f,29-null,3.202739726,scared4,angry2,Angry_2_pause_2,option2,en
+640,59098,f,30-null,3.202739726,scared6,sad4,Sad_2_pause_2,option2,en
+641,59098,f,31-null,3.202739726,happy3_2,sad6,Happy_1_pause_2,option1,en
+642,59098,f,32-null,3.202739726,sad5,happy2,Sad_1_pause_2,option1,en
+643,59098,f,33-null,3.202739726,scared1,sad2_2,Scared_2_pause_2,option1,en
+644,59098,f,34-null,3.202739726,scared4,sad5,Scared_1_pause_2,option1,en
+645,59108,f,11-null,3.38630137,angry6,sad1_2,Sad_1_pause_2,option2,en
+646,59108,f,12-null,3.38630137,sad5,scared6,Scared_1_pause_2,option2,en
+647,59108,f,13-null,3.38630137,happy4,scared2,Scared_2_pause_2,option2,en
+648,59108,f,14-null,3.38630137,happy6,sad4,Sad_2_pause_2,option2,en
+649,59108,f,16-null,3.38630137,happy2,scared4,Happy_1_pause_2,option1,en
+650,59108,f,17-null,3.38630137,angry2,sad3,Sad_2_pause_2,option2,en
+651,59108,f,18-null,3.38630137,sad6,angry2,Angry_2_pause_2,option2,en
+652,59108,f,19-null,3.38630137,happy4,angry5_2,Happy_2_pause_2,option1,en
+653,59108,f,20-null,3.38630137,scared3,angry3,Angry_2_pause_2,option2,en
+654,59108,f,21-null,3.38630137,scared3,happy1,Scared_2_pause_2,option1,en
+655,59108,f,22-null,3.38630137,happy5,angry5_2,Angry_1_pause_2,option2,en
+656,59108,f,23-null,3.38630137,angry4,scared4,Scared_1_pause_2,option2,en
+657,59108,f,24-null,3.38630137,scared5,angry3,Scared_2_pause_2,option1,en
+658,59108,f,25-null,3.38630137,scared2,angry4,Angry_2_pause_2,option2,en
+659,59108,f,26-null,3.38630137,happy6,scared6,Happy_2_pause_2,option1,en
+660,59108,f,27-null,3.38630137,scared1,sad6,Sad_1_pause_2,option2,en
+661,59108,f,28-null,3.38630137,sad2_2,scared1,Scared_1_pause_2,option2,en
+662,59108,f,29-null,3.38630137,angry6,sad3,Angry_1_pause_2,option1,en
+663,59108,f,30-null,3.38630137,angry1_2,happy2,Angry_1_pause_2,option1,en
+664,59108,f,31-null,3.38630137,sad2_2,scared5,Sad_2_pause_2,option1,en
+665,59108,f,32-null,3.38630137,happy1,sad1_2,Happy_1_pause_2,option1,en
+666,59108,f,33-null,3.38630137,happy3_2,sad5,Sad_1_pause_2,option2,en
+667,59108,f,34-null,3.38630137,happy5,angry1_2,Happy_1_pause_2,option1,en
+668,59149,m,11-null,4.293150685,happy4,angry5_2,Happy_2_pause_2,option1,en
+669,59149,m,12-null,4.293150685,scared4,happy1,Scared_1_pause_2,option1,en
+670,59149,m,13-null,4.293150685,angry2,scared4,Angry_2_pause_2,option1,en
+671,59149,m,14-null,4.293150685,angry4,sad1_2,Angry_2_pause_2,option1,en
+672,59149,m,16-null,4.293150685,sad3,angry5_2,Angry_1_pause_2,option2,en
+673,59149,m,17-null,4.293150685,happy3_2,angry1_2,Angry_1_pause_2,option2,en
+674,59149,m,18-null,4.293150685,sad5,happy3_2,Happy_1_pause_2,option2,en
+675,59149,m,19-null,4.293150685,sad2_2,happy2,Sad_1_pause_2,option1,en
+676,59149,m,20-null,4.293150685,angry2,scared1,Scared_2_pause_2,option1,en
+677,59149,m,21-null,4.293150685,scared3,sad1_2,Sad_1_pause_2,option2,en
+678,59149,m,22-null,4.293150685,happy5,sad4,Happy_1_pause_2,option1,en
+679,59149,m,23-null,4.293150685,scared3,sad2_2,Scared_1_pause_2,option2,en
+680,59149,m,24-null,4.293150685,angry6,scared2,Angry_2_pause_2,option1,en
+681,59149,m,25-null,4.293150685,happy5,sad3,Sad_2_pause_2,option2,en
+682,59149,m,26-null,4.293150685,scared6,happy2,Happy_1_pause_2,option2,en
+683,59149,m,27-null,4.293150685,sad6,scared6,Scared_1_pause_2,option2,en
+684,59149,m,28-null,4.293150685,angry1_2,happy1,Happy_2_pause_2,option2,en
+685,59149,m,29-null,4.293150685,scared2,angry3,Scared_2_pause_2,option1,en
+686,59149,m,30-null,4.293150685,happy6,scared1,Happy_2_pause_2,option1,en
+687,59149,m,31-null,4.293150685,angry4,sad6,Sad_1_pause_2,option2,en
+688,59149,m,32-null,4.293150685,scared5,sad4,Sad_2_pause_2,option2,en
+689,59149,m,33-null,4.293150685,happy6,angry3,Angry_1_pause_2,option2,en
+690,59149,m,34-null,4.293150685,angry6,sad5,Sad_2_pause_2,option2,en
+691,59160,f,11-null,4.917808219,happy5,scared3,Happy_2_pause_2,option1,
+692,59160,f,12-null,4.917808219,angry2,sad5,Angry_1_pause_2,option1,
+693,59160,f,13-null,4.917808219,scared5,sad3,Sad_2_pause_2,option2,
+694,59160,f,14-null,4.917808219,happy2,sad4,Happy_1_pause_2,option1,
+695,59160,f,16-null,4.917808219,angry5_2,sad4,Sad_2_pause_2,option2,
+696,59160,f,17-null,4.917808219,angry5_2,scared6,Angry_1_pause_2,option1,
+697,59160,f,18-null,4.917808219,sad1_2,happy2,Sad_1_pause_2,option1,
+698,59160,f,19-null,4.917808219,angry3,scared1,Scared_1_pause_2,option2,
+699,59160,f,20-null,4.917808219,scared4,angry1_2,Scared_2_pause_2,option1,
+700,59160,f,21-null,4.917808219,angry4,sad5,Sad_1_pause_2,option2,
+701,59160,f,22-null,4.917808219,scared6,sad3,Scared_2_pause_2,option1,
+702,59160,f,23-null,4.917808219,angry2,happy3_2,Happy_1_pause_2,option2,
+703,59160,f,24-null,4.917808219,scared2,happy5,Scared_2_pause_2,option1,
+704,59160,f,25-null,4.917808219,angry6,happy3_2,Angry_1_pause_2,option1,
+705,59160,f,26-null,4.917808219,angry4,sad6,Angry_2_pause_2,option1,
+706,59160,f,27-null,4.917808219,happy4,scared1,Happy_2_pause_2,option1,
+707,59160,f,28-null,4.917808219,sad1_2,happy6,Happy_2_pause_2,option2,
+708,59160,f,29-null,4.917808219,scared4,angry3,Angry_2_pause_2,option2,
+709,59160,f,30-null,4.917808219,scared2,sad6,Sad_2_pause_2,option2,
+710,59160,f,31-null,4.917808219,sad2_2,scared3,Scared_1_pause_2,option2,
+711,59160,f,32-null,4.917808219,angry1_2,happy6,Angry_2_pause_2,option1,
+712,59160,f,33-null,4.917808219,angry6,happy1,Happy_1_pause_2,option2,
+713,59160,f,34-null,4.917808219,happy1,scared5,Scared_1_pause_2,option2,
+714,59181,m,11-null,3.175342466,angry3,happy5,Angry_1_pause_2,option1,
+715,59181,m,12-null,3.175342466,scared2,angry3,Scared_1_pause_2,option1,
+716,59181,m,13-null,3.175342466,scared5,sad6,Scared_2_pause_2,option1,
+717,59181,m,14-null,3.175342466,angry4,happy6,Happy_1_pause_2,option2,
+718,59181,m,16-null,3.175342466,angry5_2,happy3_2,Angry_1_pause_2,option1,
+719,59181,m,17-null,3.175342466,happy1,angry5_2,Happy_2_pause_2,option1,
+720,59181,m,18-null,3.175342466,scared6,happy2,Happy_1_pause_2,option1,
+721,59181,m,19-null,3.175342466,angry1_2,scared2,Angry_2_pause_2,option1,
+722,59181,m,20-null,3.175342466,sad5,angry6,Angry_2_pause_2,option2,
+723,59181,m,21-null,3.175342466,angry2,sad3,Angry_2_pause_2,option1,
+724,59181,m,22-null,3.175342466,sad5,happy6,Sad_2_pause_2,option1,
+725,59181,m,23-null,3.175342466,sad6,scared1,Sad_1_pause_2,option2,
+726,59181,m,24-null,3.175342466,sad2_2,angry1_2,Sad_1_pause_2,option1,
+727,59181,m,25-null,3.175342466,sad4,scared4,Sad_2_pause_2,option1,
+728,59181,m,26-null,3.175342466,angry2,sad1_2,Sad_1_pause_2,option2,
+729,59181,m,27-null,3.175342466,happy4,scared3,Happy_2_pause_2,option2,
+730,59181,m,28-null,3.175342466,happy2,scared4,Scared_1_pause_2,option2,
+731,59181,m,29-null,3.175342466,sad4,happy3_2,Happy_2_pause_2,option2,
+732,59181,m,30-null,3.175342466,angry4,scared5,Angry_1_pause_2,option1,
+733,59181,m,31-null,3.175342466,scared3,happy1,Scared_1_pause_2,option1,
+734,59181,m,32-null,3.175342466,scared6,angry6,Scared_2_pause_2,option1,
+735,59181,m,33-null,3.175342466,sad3,happy4,Sad_2_pause_2,option1,
+736,59181,m,34-null,3.175342466,happy5,sad1_2,Happy_1_pause_2,option1,
+737,59255,m,11-null,2.038356164,angry4,happy6,Angry_1_pause_2,option1,en
+738,59255,m,12-null,2.038356164,scared3,sad4,Scared_1_pause_2,option1,en
+739,59255,m,13-null,2.038356164,angry1_2,happy4,Angry_2_pause_2,option1,en
+740,59255,m,14-null,2.038356164,angry6,sad4,Sad_1_pause_2,option1,en
+741,59255,m,16-null,2.038356164,scared6,happy1,Happy_1_pause_2,option1,en
+742,59255,m,17-null,2.038356164,scared2,sad1_2,Scared_1_pause_2,option1,en
+743,59255,m,18-null,2.038356164,angry4,scared1,Scared_2_pause_2,option1,en
+744,59255,m,19-null,2.038356164,angry3,happy6,Happy_1_pause_2,option1,en
+745,59255,m,20-null,2.038356164,sad5,happy2,Happy_2_pause_2,option2,en
+746,59255,m,21-null,2.038356164,happy5,scared5,Scared_2_pause_2,option2,en
+747,59255,m,22-null,2.038356164,sad2_2,angry6,Angry_2_pause_2,option1,en
+748,59255,m,23-null,2.038356164,scared4,angry5_2,Angry_1_pause_2,option1,en
+749,59255,m,24-null,2.038356164,sad2_2,happy2,Sad_2_pause_2,option2,en
+750,59255,m,25-null,2.038356164,sad6,angry3,Angry_2_pause_2,option1,en
+751,59255,m,26-null,2.038356164,sad3,happy4,Happy_1_pause_2,option1,en
+752,59255,m,27-null,2.038356164,angry2,happy3_2,Happy_2_pause_2,option1,en
+753,59255,m,28-null,2.038356164,happy1,sad6,Sad_1_pause_2,option1,en
+754,59255,m,29-null,2.038356164,scared1,happy5,Happy_2_pause_2,option1,en
+755,59255,m,30-null,2.038356164,angry5_2,sad1_2,Sad_1_pause_2,option1,en
+756,59255,m,31-null,2.038356164,scared2,sad5,Sad_2_pause_2,option1,en
+757,59255,m,32-null,2.038356164,scared3,angry2,Angry_1_pause_2,option1,en
+758,59255,m,33-null,2.038356164,sad3,scared5,Sad_2_pause_2,option1,en
+759,59255,m,34-null,2.038356164,scared4,angry1_2,Scared_2_pause_2,option1,en
+760,59257,f,11-null,3.495890411,scared3,angry5_2,Angry_1_pause_2,option2,en
+761,59257,f,12-null,3.495890411,scared6,sad2_2,Sad_2_pause_2,option2,en
+762,59257,f,13-null,3.495890411,sad6,scared6,Scared_1_pause_2,option2,en
+763,59257,f,14-null,3.495890411,angry6,scared4,Scared_2_pause_2,option2,en
+764,59257,f,16-null,3.495890411,angry5_2,scared1,Scared_1_pause_2,option2,en
+765,59257,f,17-null,3.495890411,sad6,happy2,Sad_1_pause_2,option1,en
+766,59257,f,18-null,3.495890411,scared2,angry3,Angry_2_pause_2,option2,en
+767,59257,f,19-null,3.495890411,scared5,happy5,Happy_2_pause_2,option2,en
+768,59257,f,20-null,3.495890411,angry1_2,happy1,Angry_1_pause_2,option1,en
+769,59257,f,21-null,3.495890411,angry1_2,sad1_2,Sad_2_pause_2,option2,en
+770,59257,f,22-null,3.495890411,sad4,happy6,Sad_1_pause_2,option1,en
+771,59257,f,23-null,3.495890411,angry4,happy3_2,Angry_2_pause_2,option1,en
+772,59257,f,24-null,3.495890411,happy5,scared2,Scared_2_pause_2,option2,en
+773,59257,f,25-null,3.495890411,sad3,angry2,Sad_2_pause_2,option1,en
+774,59257,f,26-null,3.495890411,scared5,sad3,Scared_1_pause_2,option1,en
+775,59257,f,27-null,3.495890411,angry4,happy1,Happy_1_pause_2,option2,en
+776,59257,f,28-null,3.495890411,sad4,angry2,Angry_2_pause_2,option2,en
+777,59257,f,29-null,3.495890411,happy6,sad5,Happy_2_pause_2,option1,en
+778,59257,f,30-null,3.495890411,sad2_2,happy4,Happy_1_pause_2,option2,en
+779,59257,f,31-null,3.495890411,scared4,happy2,Happy_2_pause_2,option2,en
+780,59257,f,32-null,3.495890411,sad1_2,angry6,Angry_1_pause_2,option2,en
+781,59257,f,33-null,3.495890411,scared3,happy4,Scared_2_pause_2,option1,en
+782,59257,f,34-null,3.495890411,scared1,sad5,Sad_1_pause_2,option2,en
+783,59259,f,11-null,3.578082192,happy2,angry6,Happy_2_pause_2,option2,en
+784,59259,f,12-null,3.578082192,sad6,happy2,Sad_2_pause_2,option1,en
+785,59259,f,13-null,3.578082192,scared6,happy4,Scared_1_pause_2,option1,en
+786,59259,f,14-null,3.578082192,scared4,angry3,Scared_1_pause_2,option2,en
+787,59259,f,16-null,3.578082192,scared2,sad4,Scared_1_pause_2,option1,en
+788,59259,f,17-null,3.578082192,happy4,angry2,Happy_2_pause_2,option1,en
+789,59259,f,18-null,3.578082192,angry1_2,sad3,Sad_2_pause_2,option1,en
+790,59259,f,19-null,3.578082192,scared1,happy5,Happy_1_pause_2,option2,en
+791,59259,f,20-null,3.578082192,happy6,sad1_2,Happy_2_pause_2,option1,en
+792,59259,f,21-null,3.578082192,sad5,happy6,Sad_1_pause_2,option1,en
+793,59259,f,22-null,3.578082192,angry5_2,scared3,Scared_2_pause_2,option2,en
+794,59259,f,23-null,3.578082192,scared2,sad4,Sad_2_pause_2,option2,en
+795,59259,f,24-null,3.578082192,scared6,happy1,Happy_1_pause_2,I_dont_know,en
+796,59259,f,25-null,3.578082192,scared4,sad2_2,Sad_1_pause_2,I_dont_know,en
+797,59259,f,26-null,3.578082192,angry4,sad1_2,Sad_1_pause_2,I_dont_know,en
+798,59259,f,27-null,3.578082192,scared5,angry4,Angry_1_pause_2,I_dont_know,en
+799,59259,f,28-null,3.578082192,scared3,angry5_2,Angry_2_pause_2,I_dont_know,en
+800,59259,f,29-null,3.578082192,angry2,sad5,Angry_1_pause_2,I_dont_know,en
+801,59259,f,30-null,3.578082192,sad3,scared1,Scared_2_pause_2,I_dont_know,en
+802,59259,f,31-null,3.578082192,happy1,angry1_2,Angry_2_pause_2,I_dont_know,en
+803,59259,f,32-null,3.578082192,sad6,angry3,Angry_2_pause_2,I_dont_know,en
+804,59259,f,33-null,3.578082192,scared5,happy5,Scared_2_pause_2,option2,en
+805,59259,f,34-null,3.578082192,happy3_2,sad2_2,Happy_1_pause_2,option2,en
+806,59260,f,11-null,2.449315068,angry4,happy5,Happy_1_pause_2,option2,en
+807,59260,f,12-null,2.449315068,happy4,sad1_2,Sad_2_pause_2,option2,en
+808,59260,f,13-null,2.449315068,scared1,sad3,Sad_2_pause_2,option2,en
+809,59260,f,14-null,2.449315068,angry2,sad6,Sad_1_pause_2,option2,en
+810,59260,f,16-null,2.449315068,happy1,sad3,Happy_2_pause_2,I_dont_know,en
+811,59260,f,17-null,2.449315068,happy1,angry3,Angry_2_pause_2,option2,en
+812,59260,f,18-null,2.449315068,scared6,angry1_2,Angry_1_pause_2,I_dont_know,en
+813,59260,f,19-null,2.449315068,sad1_2,angry5_2,Angry_1_pause_2,I_dont_know,en
+814,59260,f,20-null,2.449315068,scared4,sad4,Sad_2_pause_2,option2,en
+815,59260,f,21-null,2.449315068,sad5,angry5_2,Sad_1_pause_2,I_dont_know,en
+816,59260,f,22-null,2.449315068,scared3,angry2,Angry_2_pause_2,option1,en
+817,59260,f,23-null,2.449315068,angry3,scared4,Scared_1_pause_2,option1,en
+818,59260,f,24-null,2.449315068,happy6,scared5,Scared_2_pause_2,option2,en
+819,59260,f,25-null,2.449315068,happy2,scared2,Happy_1_pause_2,option1,en
+820,59260,f,26-null,2.449315068,scared3,angry1_2,Scared_1_pause_2,I_dont_know,en
+821,59260,f,27-null,2.449315068,scared2,happy5,Scared_1_pause_2,I_dont_know,en
+822,59260,f,28-null,2.449315068,sad2_2,angry4,Angry_1_pause_2,I_dont_know,en
+823,59260,f,29-null,2.449315068,scared6,sad6,Scared_2_pause_2,option1,en
+824,59260,f,30-null,2.449315068,angry6,happy3_2,Angry_2_pause_2,option1,en
+825,59260,f,31-null,2.449315068,scared5,happy4,Happy_1_pause_2,option1,en
+826,59260,f,32-null,2.449315068,sad2_2,happy2,Sad_1_pause_2,option1,en
+827,59260,f,33-null,2.449315068,scared1,sad5,Scared_2_pause_2,option2,en
+828,59260,f,34-null,2.449315068,happy6,angry6,Happy_2_pause_2,option2,en
+829,59263,f,11-null,4.556164384,happy2,sad4,Happy_2_pause_2,option1,
+830,59263,f,12-null,4.556164384,sad5,scared5,Sad_1_pause_2,option1,
+831,59263,f,13-null,4.556164384,happy6,angry2,Angry_1_pause_2,option2,
+832,59263,f,14-null,4.556164384,sad1_2,happy5,Sad_1_pause_2,option1,
+833,59263,f,16-null,4.556164384,scared1,sad2_2,Sad_2_pause_2,option2,
+834,59263,f,17-null,4.556164384,scared5,happy2,Scared_2_pause_2,option1,
+835,59263,f,18-null,4.556164384,scared4,angry2,Scared_2_pause_2,option1,
+836,59263,f,19-null,4.556164384,angry5_2,scared6,Angry_2_pause_2,option1,
+837,59263,f,20-null,4.556164384,scared3,happy3_2,Happy_2_pause_2,option2,
+838,59263,f,21-null,4.556164384,angry1_2,scared4,Angry_1_pause_2,option1,
+839,59263,f,22-null,4.556164384,sad3,scared3,Scared_2_pause_2,option2,
+840,59263,f,23-null,4.556164384,happy4,sad5,Happy_1_pause_2,option1,
+841,59263,f,24-null,4.556164384,angry4,scared6,Scared_1_pause_2,option2,
+842,59263,f,25-null,4.556164384,angry6,sad3,Sad_2_pause_2,option2,
+843,59263,f,26-null,4.556164384,sad2_2,scared1,Scared_1_pause_2,option2,
+844,59263,f,27-null,4.556164384,happy1,angry5_2,Happy_2_pause_2,option1,
+845,59263,f,28-null,4.556164384,angry4,sad6,Angry_2_pause_2,option2,
+846,59263,f,29-null,4.556164384,angry3,happy6,Happy_1_pause_2,option2,
+847,59263,f,30-null,4.556164384,angry3,happy4,Angry_1_pause_2,option1,
+848,59263,f,31-null,4.556164384,angry6,sad1_2,Angry_2_pause_2,option1,
+849,59263,f,32-null,4.556164384,sad6,angry1_2,Sad_1_pause_2,option1,
+850,59263,f,33-null,4.556164384,happy1,sad4,Sad_2_pause_2,option2,
+851,59263,f,34-null,4.556164384,scared2,happy3_2,Scared_1_pause_2,option1,
+852,59453,f,11-null,2.317808219,happy6,scared1,Scared_1_pause_2,option2,en
+853,59453,f,12-null,2.317808219,happy5,sad1_2,Happy_2_pause_2,option1,en
+854,59453,f,13-null,2.317808219,angry1_2,happy4,Angry_2_pause_2,option1,en
+855,59453,f,14-null,2.317808219,scared1,happy4,Happy_1_pause_2,option2,en
+856,59453,f,16-null,2.317808219,sad1_2,happy3_2,Sad_2_pause_2,option1,en
+857,59453,f,17-null,2.317808219,angry6,scared2,Angry_2_pause_2,option1,en
+858,59453,f,18-null,2.317808219,scared6,happy3_2,Happy_1_pause_2,option2,en
+859,59453,f,19-null,2.317808219,sad4,scared2,Scared_2_pause_2,option2,en
+860,59453,f,20-null,2.317808219,angry1_2,sad3,Sad_1_pause_2,option1,en
+861,59453,f,21-null,2.317808219,angry2,sad4,Sad_1_pause_2,option1,en
+862,59453,f,22-null,2.317808219,happy2,angry3,Angry_2_pause_2,option2,en
+863,59453,f,23-null,2.317808219,angry6,scared6,Scared_1_pause_2,option1,en
+864,59453,f,24-null,2.317808219,sad5,happy5,Sad_2_pause_2,option1,en
+865,59453,f,25-null,2.317808219,angry2,scared3,Angry_1_pause_2,option1,en
+866,59453,f,26-null,2.317808219,sad2_2,angry5_2,Angry_1_pause_2,option2,en
+867,59453,f,27-null,2.317808219,happy1,scared5,Scared_2_pause_2,option2,en
+868,59453,f,28-null,2.317808219,happy1,angry4,Happy_2_pause_2,option1,en
+869,59453,f,29-null,2.317808219,scared4,sad6,Sad_2_pause_2,option1,en
+870,59453,f,30-null,2.317808219,scared5,sad2_2,Sad_1_pause_2,option1,en
+871,59453,f,31-null,2.317808219,happy2,sad5,Happy_1_pause_2,option1,en
+872,59453,f,32-null,2.317808219,angry4,sad3,Angry_1_pause_2,option1,en
+873,59453,f,33-null,2.317808219,scared4,sad6,Scared_2_pause_2,option1,en
+874,59453,f,34-null,2.317808219,angry5_2,scared3,Scared_1_pause_2,option1,en
+875,59459,f,11-null,2.394520548,scared4,sad1_2,Scared_2_pause_2,option1,en
+876,59459,f,12-null,2.394520548,sad5,happy6,Sad_2_pause_2,option1,en
+877,59459,f,13-null,2.394520548,scared3,happy1,Happy_1_pause_2,option2,en
+878,59459,f,14-null,2.394520548,sad3,angry6,Angry_2_pause_2,option2,en
+879,59459,f,16-null,2.394520548,sad5,angry5_2,Angry_1_pause_2,option2,en
+880,59459,f,17-null,2.394520548,sad6,happy6,Happy_2_pause_2,option2,en
+881,59459,f,18-null,2.394520548,happy3_2,scared2,Happy_1_pause_2,option1,en
+882,59459,f,19-null,2.394520548,happy5,sad2_2,Happy_1_pause_2,option2,en
+883,59459,f,20-null,2.394520548,angry6,scared1,Scared_1_pause_2,option1,en
+884,59459,f,21-null,2.394520548,happy1,scared2,Scared_1_pause_2,option2,en
+885,59459,f,22-null,2.394520548,happy2,angry3,Happy_2_pause_2,option2,en
+886,59459,f,23-null,2.394520548,scared5,happy2,Scared_2_pause_2,option1,en
+887,59459,f,24-null,2.394520548,happy4,angry2,Happy_2_pause_2,option1,en
+888,59459,f,25-null,2.394520548,angry5_2,sad1_2,Sad_2_pause_2,option2,en
+889,59459,f,26-null,2.394520548,sad2_2,angry1_2,Sad_1_pause_2,option1,en
+890,59459,f,27-null,2.394520548,angry1_2,scared4,Angry_2_pause_2,option2,en
+891,59459,f,28-null,2.394520548,scared3,sad4,Scared_1_pause_2,option1,en
+892,59459,f,29-null,2.394520548,scared6,angry4,Scared_2_pause_2,option2,en
+893,59459,f,30-null,2.394520548,sad6,scared6,Sad_1_pause_2,option2,en
+894,59459,f,31-null,2.394520548,sad3,happy4,Sad_2_pause_2,option1,en
+895,59459,f,32-null,2.394520548,scared1,sad4,Sad_1_pause_2,option1,en
+896,59459,f,33-null,2.394520548,scared5,angry3,Angry_1_pause_2,option2,en
+897,59459,f,34-null,2.394520548,happy5,angry4,Angry_2_pause_2,option1,en
+898,59540,f,11-null,2.556164384,happy3_2,scared3,Scared_2_pause_2,option2,en
+899,59540,f,12-null,2.556164384,sad5,scared2,Sad_1_pause_2,option1,en
+900,59540,f,13-null,2.556164384,happy6,scared3,Happy_1_pause_2,option1,en
+901,59540,f,14-null,2.556164384,sad6,angry5_2,Sad_2_pause_2,option2,en
+902,59540,f,16-null,2.556164384,angry4,happy1,Happy_2_pause_2,option1,en
+903,59540,f,17-null,2.556164384,happy4,scared4,Scared_1_pause_2,option2,en
+904,59540,f,18-null,2.556164384,sad1_2,angry2,Sad_1_pause_2,option1,en
+905,59540,f,19-null,2.556164384,scared1,angry6,Scared_2_pause_2,option1,en
+906,59540,f,20-null,2.556164384,scared5,angry3,Scared_1_pause_2,option2,en
+907,59540,f,21-null,2.556164384,sad2_2,happy2,Sad_1_pause_2,option1,en
+908,59540,f,22-null,2.556164384,angry2,sad2_2,Angry_1_pause_2,option1,en
+909,59540,f,23-null,2.556164384,happy1,angry1_2,Angry_2_pause_2,option2,en
+910,59540,f,24-null,2.556164384,angry1_2,happy4,Happy_2_pause_2,option1,en
+911,59540,f,25-null,2.556164384,scared6,angry5_2,Angry_2_pause_2,option1,en
+912,59540,f,26-null,2.556164384,angry3,scared4,Angry_2_pause_2,option1,en
+913,59540,f,27-null,2.556164384,happy3_2,sad6,Happy_1_pause_2,I_dont_know,en
+914,59540,f,28-null,2.556164384,sad4,happy5,Happy_1_pause_2,option2,en
+915,59540,f,29-null,2.556164384,sad1_2,scared6,Scared_2_pause_2,option1,en
+916,59540,f,30-null,2.556164384,scared2,sad3,Scared_1_pause_2,option1,en
+917,59540,f,31-null,2.556164384,happy2,scared1,Happy_2_pause_2,option2,en
+918,59540,f,32-null,2.556164384,scared5,sad3,Sad_2_pause_2,option2,en
+919,59540,f,33-null,2.556164384,sad4,happy6,Sad_2_pause_2,option1,en
+920,59540,f,34-null,2.556164384,happy5,angry4,Angry_1_pause_2,option2,en
+921,59553,m,11-null,2.375342466,scared5,angry5_2,Scared_2_pause_2,option2,en
+922,59553,m,12-null,2.375342466,angry1_2,scared6,Angry_2_pause_2,option2,en
+923,59553,m,13-null,2.375342466,sad6,scared3,Sad_2_pause_2,option1,en
+924,59553,m,14-null,2.375342466,sad2_2,angry4,Sad_1_pause_2,option1,en
+925,59553,m,16-null,2.375342466,angry6,scared3,Scared_1_pause_2,option1,en
+926,59553,m,17-null,2.375342466,happy4,scared2,Scared_1_pause_2,option1,en
+927,59553,m,18-null,2.375342466,sad6,angry6,Angry_1_pause_2,option2,en
+928,59553,m,19-null,2.375342466,happy5,sad3,Sad_1_pause_2,option2,en
+929,59553,m,20-null,2.375342466,scared1,angry3,Angry_2_pause_2,option2,en
+930,59553,m,21-null,2.375342466,happy1,angry5_2,Angry_2_pause_2,option2,en
+931,59553,m,22-null,2.375342466,happy6,angry4,Angry_1_pause_2,option2,en
+932,59553,m,23-null,2.375342466,sad3,happy3_2,Happy_2_pause_2,option2,en
+933,59553,m,24-null,2.375342466,angry2,sad5,Sad_1_pause_2,option2,en
+934,59553,m,25-null,2.375342466,sad4,scared2,Sad_2_pause_2,option2,en
+935,59553,m,26-null,2.375342466,angry1_2,happy5,Happy_1_pause_2,I_dont_know,en
+936,59553,m,27-null,2.375342466,happy4,sad1_2,Happy_2_pause_2,option2,en
+937,59553,m,28-null,2.375342466,angry3,happy1,Happy_2_pause_2,I_dont_know,en
+938,59553,m,29-null,2.375342466,sad2_2,scared1,Scared_2_pause_2,option1,en
+939,59553,m,30-null,2.375342466,happy2,scared4,Scared_2_pause_2,option2,en
+940,59586,f,11-null,2.378082192,angry2,sad3,Sad_1_pause_2,option2,en
+941,59586,f,12-null,2.378082192,happy5,scared3,Happy_1_pause_2,option1,en
+942,59586,f,13-null,2.378082192,happy1,scared1,Scared_2_pause_2,option2,en
+943,59586,f,14-null,2.378082192,sad1_2,angry4,Angry_1_pause_2,option2,en
+944,59586,f,16-null,2.378082192,sad2_2,happy4,Happy_2_pause_2,option2,en
+945,59586,f,17-null,2.378082192,angry2,happy3_2,Angry_1_pause_2,option1,en
+946,59586,f,18-null,2.378082192,happy2,angry6,Angry_2_pause_2,option2,en
+947,59586,f,19-null,2.378082192,sad4,happy6,Sad_1_pause_2,option1,en
+948,59586,f,20-null,2.378082192,happy5,scared3,Scared_2_pause_2,option2,en
+949,59586,f,21-null,2.378082192,angry3,scared4,Angry_2_pause_2,option1,en
+950,59586,f,22-null,2.378082192,sad1_2,scared2,Sad_2_pause_2,option2,en
+951,59586,f,23-null,2.378082192,scared5,sad3,Scared_1_pause_2,option1,en
+952,59586,f,24-null,2.378082192,scared6,happy2,Happy_1_pause_2,I_dont_know,en
+953,59586,f,25-null,2.378082192,sad2_2,happy4,Sad_2_pause_2,option1,en
+954,59586,f,26-null,2.378082192,sad4,scared2,Scared_1_pause_2,option2,en
+955,59586,f,27-null,2.378082192,scared5,angry5_2,Angry_2_pause_2,option2,en
+956,59586,f,28-null,2.378082192,scared1,sad6,Sad_1_pause_2,option2,en
+957,59586,f,29-null,2.378082192,angry5_2,happy1,Happy_2_pause_2,option2,en
+958,59586,f,30-null,2.378082192,happy3_2,sad5,Happy_2_pause_2,option1,en
+959,59586,f,31-null,2.378082192,angry1_2,sad6,Angry_1_pause_2,option1,en
+960,59586,f,32-null,2.378082192,happy6,angry6,Happy_1_pause_2,option1,en
+961,59586,f,33-null,2.378082192,angry1_2,sad5,Sad_2_pause_2,option2,en
+962,59586,f,34-null,2.378082192,scared4,angry3,Scared_1_pause_2,I_dont_know,en
+963,59609,f,11-null,2.087671233,angry3,happy2,Happy_2_pause_2,option1,en
+964,59609,f,12-null,2.087671233,scared4,sad2_2,Sad_1_pause_2,option1,en
+965,59609,f,13-null,2.087671233,happy3_2,sad3,Sad_2_pause_2,option1,en
+966,59609,f,14-null,2.087671233,angry2,scared1,Scared_2_pause_2,option2,en
+967,59609,f,16-null,2.087671233,happy6,scared2,Scared_1_pause_2,option1,en
+968,59609,f,17-null,2.087671233,happy1,scared3,Happy_1_pause_2,option2,en
+969,59609,f,18-null,2.087671233,scared4,happy5,Scared_1_pause_2,option1,en
+970,59609,f,19-null,2.087671233,scared6,sad6,Scared_1_pause_2,option1,en
+971,59609,f,20-null,2.087671233,happy1,angry2,Angry_2_pause_2,option2,en
+972,59609,f,21-null,2.087671233,scared5,angry4,Angry_2_pause_2,option2,en
+973,59609,f,22-null,2.087671233,sad4,scared2,Sad_2_pause_2,option1,en
+974,59609,f,23-null,2.087671233,scared1,angry6,Angry_1_pause_2,option1,en
+975,59609,f,24-null,2.087671233,happy2,sad6,Sad_1_pause_2,option2,en
+976,59609,f,25-null,2.087671233,scared5,angry5_2,Scared_2_pause_2,option2,en
+977,59609,f,26-null,2.087671233,sad4,scared3,Scared_2_pause_2,option1,en
+978,59609,f,27-null,2.087671233,angry1_2,sad1_2,Sad_2_pause_2,option2,en
+979,59609,f,28-null,2.087671233,angry1_2,sad1_2,Angry_1_pause_2,option1,en
+980,59609,f,29-null,2.087671233,happy4,angry3,Angry_2_pause_2,option2,en
+981,59609,f,30-null,2.087671233,sad3,happy6,Happy_1_pause_2,option1,en
+982,59609,f,31-null,2.087671233,sad5,angry4,Sad_1_pause_2,option1,en
+983,59609,f,32-null,2.087671233,sad5,happy4,Happy_2_pause_2,option2,en
+984,59609,f,33-null,2.087671233,angry5_2,sad2_2,Angry_1_pause_2,option2,en
+985,59609,f,34-null,2.087671233,happy5,scared6,Happy_1_pause_2,I_dont_know,en
+986,59646,f,11-null,2.950684932,scared5,angry4,Angry_2_pause_2,option2,en fr
+987,59646,f,12-null,2.950684932,angry2,happy4,Angry_2_pause_2,option1,en fr
+988,59646,f,13-null,2.950684932,scared1,sad2_2,Sad_1_pause_2,option2,en fr
+989,59646,f,14-null,2.950684932,angry6,sad1_2,Angry_1_pause_2,option1,en fr
+990,59646,f,16-null,2.950684932,happy1,angry5_2,Angry_1_pause_2,option2,en fr
+991,59646,f,17-null,2.950684932,sad3,happy6,Sad_2_pause_2,option1,en fr
+992,59646,f,18-null,2.950684932,angry1_2,sad6,Angry_1_pause_2,option1,en fr
+993,59646,f,19-null,2.950684932,sad5,happy4,Happy_2_pause_2,option2,en fr
+994,59646,f,20-null,2.950684932,happy5,scared6,Happy_2_pause_2,option1,en fr
+995,59646,f,21-null,2.950684932,angry3,sad5,Sad_1_pause_2,option2,en fr
+996,59646,f,22-null,2.950684932,angry2,sad1_2,Sad_2_pause_2,option1,en fr
+997,59646,f,23-null,2.950684932,sad6,scared2,Sad_2_pause_2,option1,en fr
+998,59646,f,24-null,2.950684932,angry1_2,scared4,Scared_1_pause_2,option2,en fr
+999,59646,f,25-null,2.950684932,scared6,happy3_2,Scared_2_pause_2,option1,en fr
+1000,59646,f,26-null,2.950684932,angry3,scared3,Angry_2_pause_2,option1,en fr
+1001,59646,f,27-null,2.950684932,scared1,sad3,Scared_2_pause_2,option2,en fr
+1002,59646,f,28-null,2.950684932,sad4,happy5,Sad_1_pause_2,option1,en fr
+1003,59646,f,29-null,2.950684932,scared3,sad2_2,Scared_1_pause_2,option1,en fr
+1004,59646,f,30-null,2.950684932,happy2,angry4,Happy_1_pause_2,option1,en fr
+1005,59646,f,31-null,2.950684932,sad4,happy3_2,Happy_1_pause_2,option2,en fr
+1006,59646,f,32-null,2.950684932,scared5,angry6,Scared_1_pause_2,option1,en fr
+1007,59646,f,33-null,2.950684932,happy1,scared4,Happy_1_pause_2,option1,en fr
+1008,59646,f,34-null,2.950684932,angry5_2,happy6,Happy_2_pause_2,option2,en fr
+1009,59751,m,11-null,4.797260274,sad2_2,angry5_2,Sad_2_pause_2,option1,en ko
+1010,59751,m,12-null,4.797260274,sad6,happy1,Happy_1_pause_2,option2,en ko
+1011,59751,m,13-null,4.797260274,scared4,angry2,Scared_1_pause_2,option1,en ko
+1012,59751,m,14-null,4.797260274,happy2,scared6,Happy_2_pause_2,option1,en ko
+1013,59751,m,16-null,4.797260274,happy4,angry5_2,Angry_2_pause_2,option2,en ko
+1014,59751,m,17-null,4.797260274,scared1,sad1_2,Scared_1_pause_2,option1,en ko
+1015,59751,m,18-null,4.797260274,scared2,angry3,Angry_1_pause_2,option2,en ko
+1016,59751,m,19-null,4.797260274,happy5,scared1,Happy_1_pause_2,option1,en ko
+1017,59751,m,20-null,4.797260274,happy5,sad6,Sad_1_pause_2,option2,en ko
+1018,59751,m,21-null,4.797260274,angry4,happy2,Angry_2_pause_2,option1,en ko
+1019,59751,m,22-null,4.797260274,scared5,sad4,Sad_1_pause_2,option2,en ko
+1020,59751,m,23-null,4.797260274,sad3,angry4,Sad_1_pause_2,option1,en ko
+1021,59751,m,24-null,4.797260274,happy3_2,sad5,Sad_2_pause_2,option2,en ko
+1022,59751,m,25-null,4.797260274,scared5,happy6,Scared_1_pause_2,option1,en ko
+1023,59751,m,26-null,4.797260274,angry1_2,scared6,Scared_2_pause_2,option2,en ko
+1024,59751,m,27-null,4.797260274,scared3,sad1_2,Sad_2_pause_2,option1,en ko
+1025,59751,m,28-null,4.797260274,scared2,sad3,Scared_2_pause_2,option1,en ko
+1026,59751,m,29-null,4.797260274,angry1_2,sad5,Angry_1_pause_2,option1,en ko
+1027,59751,m,30-null,4.797260274,angry6,sad4,Angry_1_pause_2,option1,en ko
+1028,59751,m,31-null,4.797260274,angry6,happy3_2,Happy_2_pause_2,option2,en ko
+1029,59751,m,32-null,4.797260274,angry2,scared4,Angry_2_pause_2,option1,en ko
+1030,59751,m,33-null,4.797260274,happy4,angry3,Happy_2_pause_2,option1,en ko
+1031,59751,m,34-null,4.797260274,happy6,sad2_2,Happy_1_pause_2,option1,en ko
+1032,59801,f,11-null,4.865753425,angry4,happy3_2,Angry_1_pause_2,option1,
+1033,59801,f,12-null,4.865753425,sad3,scared3,Sad_2_pause_2,option1,
+1034,59801,f,13-null,4.865753425,angry6,scared2,Scared_1_pause_2,option2,
+1035,59801,f,14-null,4.865753425,sad5,scared2,Sad_2_pause_2,option1,
+1036,59801,f,16-null,4.865753425,angry1_2,sad6,Sad_1_pause_2,option2,
+1037,59801,f,17-null,4.865753425,happy1,sad1_2,Sad_2_pause_2,option2,
+1038,59801,f,18-null,4.865753425,angry4,scared3,Scared_2_pause_2,option2,
+1039,59801,f,19-null,4.865753425,scared4,happy4,Scared_1_pause_2,option1,
+1040,59801,f,20-null,4.865753425,scared1,happy6,Scared_1_pause_2,option1,
+1041,59801,f,21-null,4.865753425,sad4,scared6,Scared_2_pause_2,option2,
+1042,59801,f,22-null,4.865753425,happy1,sad1_2,Happy_2_pause_2,option1,
+1043,59801,f,23-null,4.865753425,happy2,scared1,Happy_2_pause_2,option1,
+1044,59801,f,24-null,4.865753425,angry5_2,happy5,Angry_2_pause_2,option1,
+1045,59801,f,25-null,4.865753425,sad2_2,angry2,Angry_1_pause_2,option2,
+1046,59801,f,26-null,4.865753425,angry3,happy6,Happy_1_pause_2,option2,
+1047,59801,f,27-null,4.865753425,angry1_2,sad6,Angry_1_pause_2,option1,
+1048,59801,f,28-null,4.865753425,happy3_2,scared6,Happy_1_pause_2,option1,
+1049,59801,f,29-null,4.865753425,angry3,scared5,Angry_2_pause_2,option1,
+1050,59801,f,30-null,4.865753425,happy4,angry5_2,Happy_1_pause_2,option1,
+1051,59801,f,31-null,4.865753425,happy2,sad4,Sad_1_pause_2,option2,
+1052,59801,f,32-null,4.865753425,angry6,scared4,Angry_2_pause_2,option1,
+1053,59801,f,33-null,4.865753425,sad2_2,angry2,Sad_1_pause_2,option1,
+1054,59801,f,34-null,4.865753425,happy5,sad5,Happy_2_pause_2,option1,
+1055,59855,f,11-null,4.753424658,sad6,happy6,Happy_2_pause_2,option2,en es
+1056,59855,f,12-null,4.753424658,happy4,sad2_2,Sad_2_pause_2,option2,en es
+1057,59855,f,13-null,4.753424658,scared1,angry1_2,Angry_1_pause_2,option2,en es
+1058,59855,f,14-null,4.753424658,angry1_2,scared4,Scared_2_pause_2,option2,en es
+1059,59855,f,16-null,4.753424658,sad1_2,scared4,Sad_2_pause_2,option1,en es
+1060,59855,f,17-null,4.753424658,scared5,sad1_2,Scared_1_pause_2,option1,en es
+1061,59855,f,18-null,4.753424658,happy3_2,sad5,Sad_2_pause_2,option2,en es
+1062,59855,f,19-null,4.753424658,happy4,sad2_2,Happy_2_pause_2,option1,en es
+1063,59855,f,20-null,4.753424658,scared3,happy5,Scared_2_pause_2,option1,en es
+1064,59855,f,21-null,4.753424658,scared3,happy2,Happy_1_pause_2,option2,en es
+1065,59855,f,22-null,4.753424658,sad6,angry5_2,Sad_1_pause_2,option1,en es
+1066,59855,f,23-null,4.753424658,happy3_2,angry2,Happy_2_pause_2,option1,en es
+1067,59855,f,24-null,4.753424658,scared6,happy5,Happy_1_pause_2,option2,en es
+1068,59855,f,25-null,4.753424658,angry3,sad4,Sad_1_pause_2,option2,en es
+1069,59855,f,26-null,4.753424658,angry6,sad3,Angry_1_pause_2,option1,en es
+1070,59855,f,27-null,4.753424658,angry6,happy1,Happy_1_pause_2,option2,en es
+1071,59855,f,28-null,4.753424658,scared5,sad3,Sad_1_pause_2,option2,en es
+1072,59855,f,29-null,4.753424658,scared2,angry4,Scared_1_pause_2,option1,en es
+1073,59855,f,30-null,4.753424658,angry5_2,sad5,Angry_2_pause_2,option1,en es
+1074,59855,f,31-null,4.753424658,scared1,sad4,Scared_1_pause_2,option1,en es
+1075,59855,f,32-null,4.753424658,happy2,angry2,Angry_2_pause_2,option2,en es
+1076,59855,f,33-null,4.753424658,scared6,happy6,Scared_2_pause_2,option1,en es
+1077,59855,f,34-null,4.753424658,scared2,angry4,Angry_1_pause_2,option2,en es
+1078,59860,m,11-null,4.194520548,angry6,sad3,Sad_1_pause_2,option2,
+1079,59860,m,12-null,4.194520548,sad4,scared5,Scared_1_pause_2,option1,
+1080,59860,m,13-null,4.194520548,angry4,sad3,Angry_1_pause_2,option1,
+1081,59860,m,14-null,4.194520548,scared4,sad5,Sad_2_pause_2,option2,
+1082,59860,m,16-null,4.194520548,angry1_2,sad4,Sad_2_pause_2,option2,
+1083,59860,m,17-null,4.194520548,happy4,scared1,Happy_2_pause_2,option1,
+1084,59860,m,18-null,4.194520548,happy6,angry6,Angry_2_pause_2,option2,
+1085,59860,m,19-null,4.194520548,scared2,angry1_2,Angry_2_pause_2,option2,
+1086,59860,m,20-null,4.194520548,scared2,sad5,Scared_1_pause_2,option1,
+1087,59860,m,21-null,4.194520548,angry2,happy1,Happy_2_pause_2,option1,
+1088,59860,m,22-null,4.194520548,sad1_2,happy2,Sad_1_pause_2,option1,
+1089,59860,m,23-null,4.194520548,happy1,angry3,Angry_1_pause_2,option1,
+1090,59860,m,24-null,4.194520548,happy3_2,scared6,Happy_2_pause_2,option2,
+1091,59860,m,25-null,4.194520548,angry5_2,scared5,Angry_1_pause_2,option1,
+1092,59860,m,26-null,4.194520548,angry5_2,scared1,Scared_2_pause_2,option1,
+1093,59860,m,27-null,4.194520548,scared3,happy3_2,Scared_1_pause_2,option2,
+1094,59860,m,28-null,4.194520548,sad2_2,scared3,Sad_1_pause_2,option2,
+1095,59860,m,29-null,4.194520548,sad6,happy4,Sad_2_pause_2,option2,
+1096,59860,m,30-null,4.194520548,happy6,sad6,Happy_1_pause_2,option2,
+1097,59860,m,31-null,4.194520548,happy5,scared4,Scared_2_pause_2,option1,
+1098,59860,m,32-null,4.194520548,scared6,angry3,Scared_2_pause_2,option2,
+1099,59860,m,33-null,4.194520548,angry2,sad2_2,Angry_2_pause_2,option2,
+1100,59860,m,34-null,4.194520548,sad1_2,happy5,Happy_1_pause_2,option1,
+1101,59872,m,11-null,4.147945205,angry4,scared6,Scared_2_pause_2,option1,en it cmn
+1102,59872,m,12-null,4.147945205,scared3,angry4,Angry_1_pause_2,option2,en it cmn
+1103,59872,m,13-null,4.147945205,sad1_2,angry1_2,Angry_1_pause_2,option2,en it cmn
+1104,59872,m,14-null,4.147945205,sad4,scared5,Scared_2_pause_2,option2,en it cmn
+1105,59872,m,16-null,4.147945205,angry5_2,sad6,Angry_2_pause_2,option1,en it cmn
+1106,59872,m,17-null,4.147945205,happy4,sad2_2,Sad_2_pause_2,option2,en it cmn
+1107,59872,m,18-null,4.147945205,scared2,sad5,Scared_1_pause_2,option1,en it cmn
+1108,59872,m,19-null,4.147945205,angry2,scared4,Angry_2_pause_2,option1,en it cmn
+1109,59872,m,20-null,4.147945205,sad3,happy4,Happy_2_pause_2,option2,en it cmn
+1110,59872,m,21-null,4.147945205,angry2,sad4,Sad_1_pause_2,option2,en it cmn
+1111,59872,m,22-null,4.147945205,sad6,scared5,Sad_2_pause_2,option1,en it cmn
+1112,59872,m,23-null,4.147945205,sad5,happy1,Sad_2_pause_2,option1,en it cmn
+1113,59872,m,24-null,4.147945205,angry3,happy6,Angry_2_pause_2,option1,en it cmn
+1114,59872,m,25-null,4.147945205,happy2,angry6,Angry_1_pause_2,option2,en it cmn
+1115,59872,m,26-null,4.147945205,scared6,happy5,Happy_1_pause_2,option2,en it cmn
+1116,59872,m,27-null,4.147945205,angry6,scared1,Scared_1_pause_2,option2,en it cmn
+1117,59872,m,28-null,4.147945205,happy3_2,angry3,Happy_1_pause_2,option1,en it cmn
+1118,59872,m,29-null,4.147945205,scared3,happy5,Scared_1_pause_2,option1,en it cmn
+1119,59872,m,30-null,4.147945205,angry5_2,happy2,Happy_2_pause_2,option2,en it cmn
+1120,59872,m,31-null,4.147945205,angry1_2,sad1_2,Sad_1_pause_2,option2,en it cmn
+1121,59872,m,32-null,4.147945205,scared2,sad3,Sad_1_pause_2,option2,en it cmn
+1122,59872,m,33-null,4.147945205,happy6,scared1,Happy_2_pause_2,option1,en it cmn
+1123,59872,m,34-null,4.147945205,happy1,sad2_2,Happy_1_pause_2,option1,en it cmn

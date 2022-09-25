@@ -1,0 +1,1100 @@
+,subid,gender,test_trial,age_in_years,exp_start,option1,option2,trial_audio,selected_image,lang
+1,66502,m,11-null,2.183561644,12/29/21 14:35,scared4,happy1,Scared_2_pause_2,option1,en es
+2,66502,m,12-null,2.183561644,12/29/21 14:35,happy6,angry2,Happy_2_pause_2,option1,en es
+3,66502,m,13-null,2.183561644,12/29/21 14:35,angry3,sad1,Sad_1_pause_2,option2,en es
+4,66502,m,14-null,2.183561644,12/29/21 14:35,angry5,scared6,Angry_2_pause_2,option1,en es
+5,66502,m,16-null,2.183561644,12/29/21 14:35,angry3,sad5,Angry_2_pause_2,option2,en es
+6,66502,m,17-null,2.183561644,12/29/21 14:35,scared5,happy1,Happy_1_pause_2,option2,en es
+7,66502,m,18-null,2.183561644,12/29/21 14:35,scared1,angry1,Scared_1_pause_2,option2,en es
+8,66502,m,19-null,2.183561644,12/29/21 14:35,scared2,sad2,Sad_1_pause_2,option2,en es
+9,66502,m,20-null,2.183561644,12/29/21 14:35,scared3,sad3,Sad_2_pause_2,option1,en es
+10,66502,m,21-null,2.183561644,12/29/21 14:35,happy2,angry4,Angry_2_pause_2,option2,en es
+11,66502,m,22-null,2.183561644,12/29/21 14:35,happy4,sad4,Sad_2_pause_2,option2,en es
+12,66502,m,23-null,2.183561644,12/29/21 14:35,sad1,angry6,Angry_1_pause_2,option2,en es
+13,66502,m,24-null,2.183561644,12/29/21 14:35,sad6,scared6,Scared_2_pause_2,option2,en es
+14,66502,m,25-null,2.183561644,12/29/21 14:35,angry4,happy3,Happy_1_pause_2,option2,en es
+15,66502,m,26-null,2.183561644,12/29/21 14:35,sad4,happy2,Happy_2_pause_2,I_dont_know,en es
+16,66502,m,27-null,2.183561644,12/29/21 14:35,angry2,happy5,Angry_1_pause_2,I_dont_know,en es
+17,66502,m,28-null,2.183561644,12/29/21 14:35,angry1,scared4,Angry_1_pause_2,I_dont_know,en es
+18,66502,m,29-null,2.183561644,12/29/21 14:35,sad5,angry6,Sad_2_pause_2,I_dont_know,en es
+19,66502,m,30-null,2.183561644,12/29/21 14:35,happy5,scared1,Happy_1_pause_2,I_dont_know,en es
+20,66502,m,31-null,2.183561644,12/29/21 14:35,happy3,scared5,Scared_1_pause_2,option1,en es
+21,66502,m,32-null,2.183561644,12/29/21 14:35,angry5,scared2,Scared_2_pause_2,I_dont_know,en es
+22,66502,m,33-null,2.183561644,12/29/21 14:35,happy4,sad2,Happy_2_pause_2,option2,en es
+23,66502,m,34-null,2.183561644,12/29/21 14:35,happy6,sad6,Sad_1_pause_2,I_dont_know,en es
+24,66554,m,11-null,4.065753425,12/30/21 12:22,happy4,scared2,Happy_2_pause_2,option1,en
+25,66554,m,12-null,4.065753425,12/30/21 12:22,happy6,angry1,Angry_2_pause_2,option2,en
+26,66554,m,13-null,4.065753425,12/30/21 12:22,angry5,happy6,Happy_1_pause_2,option2,en
+27,66554,m,14-null,4.065753425,12/30/21 12:22,angry6,scared3,Angry_2_pause_2,option1,en
+28,66554,m,16-null,4.065753425,12/30/21 12:22,happy2,angry4,Happy_2_pause_2,option1,en
+29,66554,m,17-null,4.065753425,12/30/21 12:22,sad3,scared5,Sad_1_pause_2,option1,en
+30,66554,m,18-null,4.065753425,12/30/21 12:22,scared6,sad4,Scared_1_pause_2,option1,en
+31,66554,m,19-null,4.065753425,12/30/21 12:22,scared1,happy2,Scared_2_pause_2,option1,en
+32,66554,m,20-null,4.065753425,12/30/21 12:22,angry2,scared2,Scared_1_pause_2,option2,en
+33,66554,m,21-null,4.065753425,12/30/21 12:22,scared3,angry3,Scared_2_pause_2,option2,en
+34,66554,m,22-null,4.065753425,12/30/21 12:22,angry5,scared4,Angry_2_pause_2,option1,en
+35,66554,m,23-null,4.065753425,12/30/21 12:22,sad1,angry2,Angry_1_pause_2,option2,en
+36,66554,m,24-null,4.065753425,12/30/21 12:22,happy3,scared5,Scared_2_pause_2,option2,en
+37,66554,m,25-null,4.065753425,12/30/21 12:22,angry3,happy5,Angry_1_pause_2,option1,en
+38,66554,m,26-null,4.065753425,12/30/21 12:22,angry6,sad4,Sad_2_pause_2,option2,en
+39,66554,m,27-null,4.065753425,12/30/21 12:22,scared1,sad1,Sad_2_pause_2,option2,en
+40,66554,m,28-null,4.065753425,12/30/21 12:22,sad6,angry4,Angry_1_pause_2,option2,en
+41,66554,m,29-null,4.065753425,12/30/21 12:22,sad2,happy1,Sad_1_pause_2,option1,en
+42,66554,m,30-null,4.065753425,12/30/21 12:22,sad3,happy5,Happy_2_pause_2,option2,en
+43,66554,m,31-null,4.065753425,12/30/21 12:22,happy1,scared6,Happy_1_pause_2,option1,en
+44,66554,m,32-null,4.065753425,12/30/21 12:22,sad5,happy4,Sad_1_pause_2,option1,en
+45,66554,m,33-null,4.065753425,12/30/21 12:22,scared4,sad2,Scared_1_pause_2,option1,en
+46,66554,m,34-null,4.065753425,12/30/21 12:22,sad6,angry1,Sad_2_pause_2,option1,en
+47,66564,m,11-null,3.04109589,12/30/21 14:17,sad4,happy6,Happy_1_pause_2,option2,en
+48,66564,m,12-null,3.04109589,12/30/21 14:17,sad5,scared2,Sad_2_pause_2,option1,en
+49,66564,m,13-null,3.04109589,12/30/21 14:17,scared4,sad5,Scared_1_pause_2,option1,en
+50,66564,m,14-null,3.04109589,12/30/21 14:17,sad6,scared5,Sad_2_pause_2,option1,en
+51,66564,m,16-null,3.04109589,12/30/21 14:17,angry2,scared6,Scared_2_pause_2,option2,en
+52,66564,m,17-null,3.04109589,12/30/21 14:17,sad2,scared3,Scared_1_pause_2,option2,en
+53,66564,m,18-null,3.04109589,12/30/21 14:17,angry3,happy2,Happy_2_pause_2,option2,en
+54,66564,m,19-null,3.04109589,12/30/21 14:17,sad4,happy1,Sad_1_pause_2,option1,en
+55,66564,m,20-null,3.04109589,12/30/21 14:17,sad3,angry4,Angry_2_pause_2,option2,en
+56,66564,m,21-null,3.04109589,12/30/21 14:17,angry5,scared3,Angry_1_pause_2,option1,en
+57,66564,m,22-null,3.04109589,12/30/21 14:17,happy3,scared1,Happy_2_pause_2,option1,en
+58,66564,m,23-null,3.04109589,12/30/21 14:17,sad3,happy5,Sad_1_pause_2,option1,en
+59,66564,m,24-null,3.04109589,12/30/21 14:17,angry5,sad1,Sad_2_pause_2,option1,en
+60,66564,m,25-null,3.04109589,12/30/21 14:17,happy4,scared4,Happy_2_pause_2,option1,en
+61,66564,m,26-null,3.04109589,12/30/21 14:17,scared6,angry3,Angry_2_pause_2,option2,en
+62,66564,m,27-null,3.04109589,12/30/21 14:17,angry4,happy5,Happy_1_pause_2,option2,en
+63,66564,m,28-null,3.04109589,12/30/21 14:17,angry2,sad1,Angry_2_pause_2,option1,en
+64,66564,m,29-null,3.04109589,12/30/21 14:17,angry6,happy4,Angry_1_pause_2,option1,en
+65,66564,m,30-null,3.04109589,12/30/21 14:17,angry6,scared5,Scared_2_pause_2,option2,en
+66,66564,m,31-null,3.04109589,12/30/21 14:17,sad2,angry1,Sad_1_pause_2,option2,en
+67,66564,m,32-null,3.04109589,12/30/21 14:17,happy3,angry1,Angry_1_pause_2,option2,en
+68,66564,m,33-null,3.04109589,12/30/21 14:17,sad6,happy1,Happy_1_pause_2,option2,en
+69,66564,m,34-null,3.04109589,12/30/21 14:17,scared2,happy2,Scared_1_pause_2,option1,en
+70,66604,f,11-null,4.495890411,12/30/21 17:20,happy2,angry2,Happy_1_pause_2,option1,en ru
+71,66604,f,12-null,4.495890411,12/30/21 17:20,happy6,scared4,Scared_1_pause_2,option2,en ru
+72,66604,f,13-null,4.495890411,12/30/21 17:20,happy3,scared6,Scared_2_pause_2,option2,en ru
+73,66604,f,14-null,4.495890411,12/30/21 17:20,scared3,sad2,Sad_1_pause_2,option2,en ru
+74,66604,f,16-null,4.495890411,12/30/21 17:20,sad3,happy5,Happy_2_pause_2,option2,en ru
+75,66604,f,17-null,4.495890411,12/30/21 17:20,sad4,angry6,Sad_2_pause_2,option1,en ru
+76,66604,f,18-null,4.495890411,12/30/21 17:20,sad5,scared3,Scared_1_pause_2,option2,en ru
+77,66604,f,19-null,4.495890411,12/30/21 17:20,happy1,sad1,Sad_1_pause_2,option2,en ru
+78,66604,f,20-null,4.495890411,12/30/21 17:20,scared2,sad6,Scared_1_pause_2,option1,en ru
+79,66604,f,21-null,4.495890411,12/30/21 17:20,scared5,angry4,Scared_2_pause_2,option1,en ru
+80,66604,f,22-null,4.495890411,12/30/21 17:20,sad6,scared4,Sad_2_pause_2,option1,en ru
+81,66604,f,23-null,4.495890411,12/30/21 17:20,sad3,happy5,Sad_2_pause_2,option1,en ru
+82,66604,f,24-null,4.495890411,12/30/21 17:20,sad2,angry6,Angry_1_pause_2,option2,en ru
+83,66604,f,25-null,4.495890411,12/30/21 17:20,sad1,angry2,Angry_2_pause_2,option2,en ru
+84,66604,f,26-null,4.495890411,12/30/21 17:20,happy4,angry4,Angry_2_pause_2,option2,en ru
+85,66604,f,27-null,4.495890411,12/30/21 17:20,angry5,scared6,Angry_1_pause_2,option1,en ru
+86,66604,f,28-null,4.495890411,12/30/21 17:20,scared1,angry5,Scared_2_pause_2,option1,en ru
+87,66604,f,29-null,4.495890411,12/30/21 17:20,happy3,sad4,Happy_1_pause_2,option1,en ru
+88,66604,f,30-null,4.495890411,12/30/21 17:20,happy4,angry1,Happy_2_pause_2,option2,en ru
+89,66604,f,31-null,4.495890411,12/30/21 17:20,scared5,happy1,Happy_1_pause_2,option2,en ru
+90,66604,f,32-null,4.495890411,12/30/21 17:20,happy6,scared1,Happy_2_pause_2,option1,en ru
+91,66604,f,33-null,4.495890411,12/30/21 17:20,angry1,scared2,Angry_1_pause_2,option1,en ru
+92,66604,f,34-null,4.495890411,12/30/21 17:20,angry3,sad5,Sad_1_pause_2,option2,en ru
+93,66609,m,11-null,4.523287671,12/30/21 17:28,scared1,happy2,Scared_2_pause_2,option1,
+94,66609,m,12-null,4.523287671,12/30/21 17:28,angry1,sad2,Angry_1_pause_2,option1,
+95,66609,m,13-null,4.523287671,12/30/21 17:28,happy6,angry6,Happy_1_pause_2,option1,
+96,66609,m,14-null,4.523287671,12/30/21 17:28,sad4,scared3,Sad_2_pause_2,option1,
+97,66609,m,16-null,4.523287671,12/30/21 17:28,sad2,happy6,Sad_1_pause_2,option1,
+98,66609,m,17-null,4.523287671,12/30/21 17:28,sad6,angry4,Angry_2_pause_2,option2,
+99,66609,m,18-null,4.523287671,12/30/21 17:28,sad1,angry5,Sad_2_pause_2,option1,
+100,66609,m,19-null,4.523287671,12/30/21 17:28,angry3,scared3,Scared_1_pause_2,option2,
+101,66609,m,20-null,4.523287671,12/30/21 17:28,angry1,scared5,Scared_2_pause_2,option2,
+102,66609,m,21-null,4.523287671,12/30/21 17:28,sad4,happy2,Happy_1_pause_2,option2,
+103,66609,m,22-null,4.523287671,12/30/21 17:28,scared1,angry2,Angry_2_pause_2,option2,
+104,66609,m,23-null,4.523287671,12/30/21 17:28,happy5,scared5,Happy_2_pause_2,option1,
+105,66609,m,24-null,4.523287671,12/30/21 17:28,happy1,angry6,Angry_1_pause_2,option2,
+106,66609,m,25-null,4.523287671,12/30/21 17:28,angry5,scared2,Angry_1_pause_2,option1,
+107,66609,m,26-null,4.523287671,12/30/21 17:28,sad6,scared4,Sad_2_pause_2,option1,
+108,66609,m,27-null,4.523287671,12/30/21 17:28,scared6,happy4,Happy_2_pause_2,option2,
+109,66609,m,28-null,4.523287671,12/30/21 17:28,happy5,sad5,Sad_1_pause_2,option2,
+110,66609,m,29-null,4.523287671,12/30/21 17:28,angry3,happy3,Angry_2_pause_2,option1,
+111,66609,m,30-null,4.523287671,12/30/21 17:28,sad1,scared2,Scared_1_pause_2,option2,
+112,66609,m,31-null,4.523287671,12/30/21 17:28,angry4,sad3,Sad_1_pause_2,option2,
+113,66609,m,32-null,4.523287671,12/30/21 17:28,angry2,happy1,Happy_2_pause_2,option2,
+114,66609,m,33-null,4.523287671,12/30/21 17:28,happy4,scared6,Scared_2_pause_2,option2,
+115,66609,m,34-null,4.523287671,12/30/21 17:28,sad3,scared4,Scared_1_pause_2,option2,
+116,66620,f,11-null,3.084931507,12/30/21 20:04,scared4,sad6,Scared_1_pause_2,option1,en hi
+117,66620,f,12-null,3.084931507,12/30/21 20:04,sad4,angry4,Angry_2_pause_2,option2,en hi
+118,66620,f,13-null,3.084931507,12/30/21 20:04,sad6,happy4,Sad_2_pause_2,option1,en hi
+119,66620,f,14-null,3.084931507,12/30/21 20:04,scared6,happy5,Happy_2_pause_2,option2,en hi
+120,66620,f,16-null,3.084931507,12/30/21 20:04,angry5,scared5,Angry_1_pause_2,option1,en hi
+121,66620,f,17-null,3.084931507,12/30/21 20:04,angry3,sad2,Sad_1_pause_2,option2,en hi
+122,66620,f,18-null,3.084931507,12/30/21 20:04,scared4,happy4,Happy_1_pause_2,option2,en hi
+123,66620,f,19-null,3.084931507,12/30/21 20:04,sad1,happy1,Happy_1_pause_2,option2,en hi
+124,66620,f,20-null,3.084931507,12/30/21 20:04,happy3,sad5,Sad_1_pause_2,option2,en hi
+125,66620,f,21-null,3.084931507,12/30/21 20:04,angry4,scared1,Scared_1_pause_2,option2,en hi
+126,66620,f,22-null,3.084931507,12/30/21 20:04,sad2,happy6,Happy_1_pause_2,option2,en hi
+127,66620,f,23-null,3.084931507,12/30/21 20:04,happy1,scared6,Scared_2_pause_2,option2,en hi
+128,66620,f,24-null,3.084931507,12/30/21 20:04,angry1,happy2,Angry_2_pause_2,option1,en hi
+129,66620,f,25-null,3.084931507,12/30/21 20:04,angry5,sad4,Sad_2_pause_2,option2,en hi
+130,66620,f,26-null,3.084931507,12/30/21 20:04,sad3,scared5,Scared_2_pause_2,option1,en hi
+131,66620,f,27-null,3.084931507,12/30/21 20:04,scared2,sad3,Sad_1_pause_2,option2,en hi
+132,66620,f,28-null,3.084931507,12/30/21 20:04,happy2,angry2,Happy_2_pause_2,option1,en hi
+133,66620,f,29-null,3.084931507,12/30/21 20:04,angry6,happy3,Happy_2_pause_2,option2,en hi
+134,66620,f,30-null,3.084931507,12/30/21 20:04,scared3,angry1,Scared_2_pause_2,option1,en hi
+135,66620,f,31-null,3.084931507,12/30/21 20:04,happy5,angry3,Angry_2_pause_2,option2,en hi
+136,66620,f,32-null,3.084931507,12/30/21 20:04,sad5,angry2,Angry_1_pause_2,option2,en hi
+137,66620,f,33-null,3.084931507,12/30/21 20:04,sad1,scared1,Sad_2_pause_2,option1,en hi
+138,66620,f,34-null,3.084931507,12/30/21 20:04,scared3,angry6,Angry_1_pause_2,option2,en hi
+139,66629,f,11-null,3.575342466,12/30/21 17:52,angry3,happy1,Angry_1_pause_2,option1,en
+140,66629,f,12-null,3.575342466,12/30/21 17:52,scared3,sad6,Sad_2_pause_2,option2,en
+141,66629,f,13-null,3.575342466,12/30/21 17:52,happy4,sad5,Happy_2_pause_2,option1,en
+142,66629,f,14-null,3.575342466,12/30/21 17:52,scared2,happy5,Happy_2_pause_2,option2,en
+143,66629,f,16-null,3.575342466,12/30/21 17:52,angry5,sad2,Sad_2_pause_2,option2,en
+144,66629,f,17-null,3.575342466,12/30/21 17:52,happy2,angry4,Happy_1_pause_2,option1,en
+145,66629,f,18-null,3.575342466,12/30/21 17:52,angry1,scared3,Scared_1_pause_2,option2,en
+146,66629,f,19-null,3.575342466,12/30/21 17:52,sad5,happy2,Sad_2_pause_2,option1,en
+147,66629,f,20-null,3.575342466,12/30/21 17:52,angry3,sad3,Sad_1_pause_2,option2,en
+148,66629,f,21-null,3.575342466,12/30/21 17:52,sad2,scared1,Scared_2_pause_2,option2,en
+149,66629,f,22-null,3.575342466,12/30/21 17:52,sad1,happy5,Sad_1_pause_2,option1,en
+150,66629,f,23-null,3.575342466,12/30/21 17:52,scared5,happy6,Happy_1_pause_2,option2,en
+151,66629,f,24-null,3.575342466,12/30/21 17:52,sad1,angry5,Angry_2_pause_2,option2,en
+152,66629,f,25-null,3.575342466,12/30/21 17:52,scared6,sad4,Sad_1_pause_2,option2,en
+153,66629,f,26-null,3.575342466,12/30/21 17:52,happy3,sad4,Happy_2_pause_2,option1,en
+154,66629,f,27-null,3.575342466,12/30/21 17:52,happy4,scared2,Scared_2_pause_2,option2,en
+155,66629,f,28-null,3.575342466,12/30/21 17:52,happy3,scared4,Scared_1_pause_2,option2,en
+156,66629,f,29-null,3.575342466,12/30/21 17:52,sad6,angry6,Angry_1_pause_2,option2,en
+157,66629,f,30-null,3.575342466,12/30/21 17:52,scared4,angry1,Angry_1_pause_2,option2,en
+158,66629,f,31-null,3.575342466,12/30/21 17:52,scared6,sad3,Scared_1_pause_2,option1,en
+159,66629,f,32-null,3.575342466,12/30/21 17:52,angry2,happy6,Angry_2_pause_2,option1,en
+160,66629,f,33-null,3.575342466,12/30/21 17:52,scared1,angry4,Angry_2_pause_2,option2,en
+161,66629,f,34-null,3.575342466,12/30/21 17:52,angry2,happy1,Happy_1_pause_2,option2,en
+162,66634,f,11-null,3.232876712,12/31/21 11:28,angry3,happy4,Angry_2_pause_2,option1,en
+163,66634,f,12-null,3.232876712,12/31/21 11:28,angry3,scared1,Scared_1_pause_2,option2,en
+164,66634,f,13-null,3.232876712,12/31/21 11:28,sad1,scared1,Sad_2_pause_2,option1,en
+165,66634,f,14-null,3.232876712,12/31/21 11:28,happy6,angry2,Happy_2_pause_2,option1,en
+166,66634,f,16-null,3.232876712,12/31/21 11:28,sad5,happy2,Happy_1_pause_2,option2,en
+167,66634,f,17-null,3.232876712,12/31/21 11:28,scared3,happy3,Happy_1_pause_2,option2,en
+168,66634,f,18-null,3.232876712,12/31/21 11:28,angry6,sad1,Angry_1_pause_2,option2,en
+169,66634,f,19-null,3.232876712,12/31/21 11:28,angry4,happy5,Happy_1_pause_2,option2,en
+170,66634,f,20-null,3.232876712,12/31/21 11:28,sad4,scared4,Sad_1_pause_2,option1,en
+171,66634,f,21-null,3.232876712,12/31/21 11:28,angry5,sad2,Angry_1_pause_2,option2,en
+172,66634,f,22-null,3.232876712,12/31/21 11:28,happy1,scared5,Happy_2_pause_2,option2,en
+173,66634,f,23-null,3.232876712,12/31/21 11:28,scared4,happy2,Scared_2_pause_2,option1,en
+174,66634,f,24-null,3.232876712,12/31/21 11:28,happy6,angry4,Angry_1_pause_2,option1,en
+175,66634,f,25-null,3.232876712,12/31/21 11:28,scared5,sad4,Scared_2_pause_2,option2,en
+176,66634,f,26-null,3.232876712,12/31/21 11:28,sad6,scared3,Scared_2_pause_2,option1,en
+177,66634,f,27-null,3.232876712,12/31/21 11:28,happy1,scared2,Scared_1_pause_2,option1,en
+178,66634,f,28-null,3.232876712,12/31/21 11:28,angry5,scared6,Scared_1_pause_2,option2,en
+179,66634,f,29-null,3.232876712,12/31/21 11:28,scared2,angry2,Angry_2_pause_2,option2,en
+180,66634,f,30-null,3.232876712,12/31/21 11:28,sad5,happy5,Sad_2_pause_2,option1,en
+181,66634,f,31-null,3.232876712,12/31/21 11:28,sad3,happy4,Happy_2_pause_2,option1,en
+182,66634,f,32-null,3.232876712,12/31/21 11:28,scared6,angry1,Angry_2_pause_2,option1,en
+183,66634,f,33-null,3.232876712,12/31/21 11:28,happy3,sad6,Sad_1_pause_2,option2,en
+184,66634,f,34-null,3.232876712,12/31/21 11:28,sad2,angry1,Sad_2_pause_2,option2,en
+185,66639,m,11-null,2.520547945,12/31/21 11:46,angry4,happy3,Angry_1_pause_2,option1,en
+186,66639,m,12-null,2.520547945,12/31/21 11:46,scared2,happy2,Scared_1_pause_2,option1,en
+187,66639,m,13-null,2.520547945,12/31/21 11:46,sad5,happy1,Happy_1_pause_2,option2,en
+188,66639,m,14-null,2.520547945,12/31/21 11:46,scared5,angry1,Scared_2_pause_2,option1,en
+189,66639,m,16-null,2.520547945,12/31/21 11:46,angry3,sad1,Angry_2_pause_2,option2,en
+190,66639,m,17-null,2.520547945,12/31/21 11:46,scared5,sad2,Sad_2_pause_2,option1,en
+191,66639,m,18-null,2.520547945,12/31/21 11:46,scared4,angry1,Angry_2_pause_2,option2,en
+192,66639,m,19-null,2.520547945,12/31/21 11:46,angry5,sad4,Angry_2_pause_2,option2,en
+193,66639,m,20-null,2.520547945,12/31/21 11:46,sad6,scared6,Scared_2_pause_2,option2,en
+194,66639,m,21-null,2.520547945,12/31/21 11:46,angry6,scared3,Scared_1_pause_2,option2,en
+195,66639,m,22-null,2.520547945,12/31/21 11:46,angry2,happy1,Angry_1_pause_2,option2,en
+196,66639,m,23-null,2.520547945,12/31/21 11:46,sad5,angry3,Sad_1_pause_2,option2,en
+197,66639,m,24-null,2.520547945,12/31/21 11:46,angry4,sad6,Sad_1_pause_2,option1,en
+198,66639,m,25-null,2.520547945,12/31/21 11:46,happy4,sad1,Sad_2_pause_2,option2,en
+199,66639,m,26-null,2.520547945,12/31/21 11:46,angry5,happy5,Happy_2_pause_2,option2,en
+200,66639,m,27-null,2.520547945,12/31/21 11:46,scared4,sad2,Scared_2_pause_2,option1,en
+201,66639,m,28-null,2.520547945,12/31/21 11:46,scared3,happy6,Happy_1_pause_2,option2,en
+202,66639,m,29-null,2.520547945,12/31/21 11:46,scared1,sad4,Sad_2_pause_2,option1,en
+203,66673,f,11-null,3.216438356,12/31/21 13:26,scared2,sad1,Scared_2_pause_2,option1,en es
+204,66673,f,12-null,3.216438356,12/31/21 13:26,happy1,angry2,Angry_2_pause_2,option2,en es
+205,66673,f,13-null,3.216438356,12/31/21 13:26,angry1,happy4,Happy_2_pause_2,option2,en es
+206,66673,f,14-null,3.216438356,12/31/21 13:26,scared1,sad4,Sad_2_pause_2,option2,en es
+207,66673,f,16-null,3.216438356,12/31/21 13:26,happy2,sad2,Sad_1_pause_2,option2,en es
+208,66673,f,17-null,3.216438356,12/31/21 13:26,scared6,angry6,Scared_2_pause_2,option1,en es
+209,66673,f,18-null,3.216438356,12/31/21 13:26,scared5,happy5,Scared_2_pause_2,option1,en es
+210,66673,f,19-null,3.216438356,12/31/21 13:26,happy4,sad3,Sad_1_pause_2,option2,en es
+211,66673,f,20-null,3.216438356,12/31/21 13:26,scared3,happy3,Happy_1_pause_2,option2,en es
+212,66673,f,21-null,3.216438356,12/31/21 13:26,sad5,angry2,Sad_1_pause_2,option1,en es
+213,66673,f,22-null,3.216438356,12/31/21 13:26,sad3,happy5,Happy_2_pause_2,option2,en es
+214,66673,f,23-null,3.216438356,12/31/21 13:26,scared3,sad2,Scared_1_pause_2,option1,en es
+215,66673,f,24-null,3.216438356,12/31/21 13:26,happy1,sad6,Happy_1_pause_2,option1,en es
+216,66673,f,25-null,3.216438356,12/31/21 13:26,angry4,sad4,Angry_1_pause_2,I_dont_know,en es
+217,66673,f,26-null,3.216438356,12/31/21 13:26,sad5,angry3,Angry_2_pause_2,option2,en es
+218,66673,f,27-null,3.216438356,12/31/21 13:26,scared4,angry5,Scared_1_pause_2,option1,en es
+219,66673,f,28-null,3.216438356,12/31/21 13:26,sad1,angry3,Sad_2_pause_2,option1,en es
+220,66673,f,29-null,3.216438356,12/31/21 13:26,happy6,scared2,Happy_1_pause_2,option1,en es
+221,66673,f,30-null,3.216438356,12/31/21 13:26,scared5,sad6,Sad_2_pause_2,option2,en es
+222,66673,f,31-null,3.216438356,12/31/21 13:26,scared6,angry1,Angry_2_pause_2,option2,en es
+223,66673,f,32-null,3.216438356,12/31/21 13:26,happy6,angry6,Angry_1_pause_2,option2,en es
+224,66673,f,33-null,3.216438356,12/31/21 13:26,scared4,angry5,Angry_1_pause_2,option1,en es
+225,66673,f,34-null,3.216438356,12/31/21 13:26,angry4,happy2,Happy_2_pause_2,option2,en es
+226,66699,f,11-null,4.824657534,12/31/21 14:31,angry3,sad2,Angry_1_pause_2,option1,
+227,66699,f,12-null,4.824657534,12/31/21 14:31,happy3,angry4,Happy_2_pause_2,option1,
+228,66699,f,13-null,4.824657534,12/31/21 14:31,angry4,scared1,Angry_2_pause_2,option1,
+229,66699,f,14-null,4.824657534,12/31/21 14:31,angry6,scared2,Scared_2_pause_2,option2,
+230,66699,f,16-null,4.824657534,12/31/21 14:31,scared5,happy5,Happy_2_pause_2,option2,
+231,66699,f,17-null,4.824657534,12/31/21 14:31,sad3,scared1,Scared_1_pause_2,option2,
+232,66699,f,18-null,4.824657534,12/31/21 14:31,happy6,scared4,Scared_2_pause_2,option2,
+233,66699,f,19-null,4.824657534,12/31/21 14:31,sad6,happy3,Sad_1_pause_2,option1,
+234,66699,f,20-null,4.824657534,12/31/21 14:31,angry5,happy5,Angry_2_pause_2,option1,
+235,66699,f,21-null,4.824657534,12/31/21 14:31,sad6,happy4,Happy_1_pause_2,option2,
+236,66699,f,22-null,4.824657534,12/31/21 14:31,sad5,angry1,Angry_2_pause_2,option2,
+237,66699,f,23-null,4.824657534,12/31/21 14:31,scared4,sad1,Sad_1_pause_2,option2,
+238,66699,f,24-null,4.824657534,12/31/21 14:31,angry5,happy1,Happy_2_pause_2,option2,
+239,66699,f,25-null,4.824657534,12/31/21 14:31,happy4,sad2,Sad_2_pause_2,option2,
+240,66699,f,26-null,4.824657534,12/31/21 14:31,happy2,scared3,Happy_1_pause_2,option1,
+241,66699,f,27-null,4.824657534,12/31/21 14:31,angry1,scared5,Scared_2_pause_2,option2,
+242,66699,f,28-null,4.824657534,12/31/21 14:31,scared3,happy2,Scared_1_pause_2,option1,
+243,66699,f,29-null,4.824657534,12/31/21 14:31,angry2,sad4,Sad_2_pause_2,option2,
+244,66699,f,30-null,4.824657534,12/31/21 14:31,sad3,scared6,Sad_2_pause_2,option1,
+245,66699,f,31-null,4.824657534,12/31/21 14:31,scared6,sad1,Scared_1_pause_2,option1,
+246,66699,f,32-null,4.824657534,12/31/21 14:31,angry2,scared2,Angry_1_pause_2,option1,
+247,66699,f,33-null,4.824657534,12/31/21 14:31,angry3,sad5,Sad_1_pause_2,option2,
+248,66699,f,34-null,4.824657534,12/31/21 14:31,happy6,sad4,Happy_1_pause_2,option1,
+249,66700,f,11-null,4.246575342,12/31/21 14:32,sad4,happy3,Sad_2_pause_2,option1,en
+250,66700,f,12-null,4.246575342,12/31/21 14:32,sad1,scared3,Scared_2_pause_2,option2,en
+251,66700,f,13-null,4.246575342,12/31/21 14:32,sad6,happy1,Sad_2_pause_2,option1,en
+252,66700,f,14-null,4.246575342,12/31/21 14:32,scared2,sad1,Sad_1_pause_2,option2,en
+253,66700,f,16-null,4.246575342,12/31/21 14:32,happy3,angry2,Happy_2_pause_2,option1,en
+254,66700,f,17-null,4.246575342,12/31/21 14:32,angry1,scared4,Angry_1_pause_2,option1,en
+255,66700,f,18-null,4.246575342,12/31/21 14:32,angry4,sad2,Angry_1_pause_2,option1,en
+256,66700,f,19-null,4.246575342,12/31/21 14:32,sad3,angry3,Sad_1_pause_2,option1,en
+257,66700,f,20-null,4.246575342,12/31/21 14:32,scared6,happy4,Scared_1_pause_2,option1,en
+258,66700,f,21-null,4.246575342,12/31/21 14:32,sad4,scared1,Scared_1_pause_2,option2,en
+259,66700,f,22-null,4.246575342,12/31/21 14:32,scared5,angry5,Angry_2_pause_2,option2,en
+260,66700,f,23-null,4.246575342,12/31/21 14:32,happy5,scared1,Happy_1_pause_2,option1,en
+261,66700,f,24-null,4.246575342,12/31/21 14:32,angry6,sad6,Angry_2_pause_2,option1,en
+262,66700,f,25-null,4.246575342,12/31/21 14:32,angry3,happy6,Angry_2_pause_2,option1,en
+263,66700,f,26-null,4.246575342,12/31/21 14:32,angry1,scared4,Scared_2_pause_2,option2,en
+264,66700,f,27-null,4.246575342,12/31/21 14:32,happy6,sad3,Happy_2_pause_2,option1,en
+265,66700,f,28-null,4.246575342,12/31/21 14:32,scared3,happy2,Happy_2_pause_2,option2,en
+266,66700,f,29-null,4.246575342,12/31/21 14:32,sad2,scared6,Sad_2_pause_2,option1,en
+267,66700,f,30-null,4.246575342,12/31/21 14:32,angry4,scared2,Scared_2_pause_2,option2,en
+268,66700,f,31-null,4.246575342,12/31/21 14:32,angry5,sad5,Sad_1_pause_2,option2,en
+269,66700,f,32-null,4.246575342,12/31/21 14:32,angry6,happy1,Happy_1_pause_2,option2,en
+270,66700,f,33-null,4.246575342,12/31/21 14:32,angry2,happy5,Angry_1_pause_2,option1,en
+271,66700,f,34-null,4.246575342,12/31/21 14:32,happy4,sad5,Happy_1_pause_2,option1,en
+272,66703,m,11-null,3.410958904,12/31/21 14:51,angry5,scared4,Angry_1_pause_2,option1,en de
+273,66703,m,12-null,3.410958904,12/31/21 14:51,angry3,happy6,Happy_2_pause_2,option2,en de
+274,66703,m,13-null,3.410958904,12/31/21 14:51,angry1,scared4,Scared_2_pause_2,option2,en de
+275,66703,m,14-null,3.410958904,12/31/21 14:51,angry2,happy2,Angry_2_pause_2,option1,en de
+276,66703,m,16-null,3.410958904,12/31/21 14:51,sad5,happy5,Sad_2_pause_2,option1,en de
+277,66703,m,17-null,3.410958904,12/31/21 14:51,angry2,sad6,Sad_1_pause_2,option2,en de
+278,66703,m,18-null,3.410958904,12/31/21 14:51,sad4,scared3,Sad_2_pause_2,option1,en de
+279,66703,m,19-null,3.410958904,12/31/21 14:51,happy2,angry4,Happy_2_pause_2,option1,en de
+280,66703,m,20-null,3.410958904,12/31/21 14:51,scared1,angry4,Angry_1_pause_2,option2,en de
+281,66703,m,21-null,3.410958904,12/31/21 14:51,happy4,scared1,Scared_2_pause_2,option2,en de
+282,66703,m,22-null,3.410958904,12/31/21 14:51,happy1,scared2,Happy_2_pause_2,option1,en de
+283,66703,m,23-null,3.410958904,12/31/21 14:51,happy6,scared6,Scared_1_pause_2,option2,en de
+284,66703,m,24-null,3.410958904,12/31/21 14:51,happy3,angry3,Angry_2_pause_2,option2,en de
+285,66703,m,25-null,3.410958904,12/31/21 14:51,sad1,angry5,Sad_2_pause_2,option2,en de
+286,66703,m,26-null,3.410958904,12/31/21 14:51,sad5,angry6,Angry_1_pause_2,option1,en de
+287,66703,m,27-null,3.410958904,12/31/21 14:51,happy4,sad3,Happy_1_pause_2,option1,en de
+288,66703,m,28-null,3.410958904,12/31/21 14:51,scared5,sad1,Scared_2_pause_2,option1,en de
+289,66703,m,29-null,3.410958904,12/31/21 14:51,happy1,sad3,Sad_1_pause_2,option1,en de
+290,66703,m,30-null,3.410958904,12/31/21 14:51,happy5,sad4,Happy_1_pause_2,option2,en de
+291,66703,m,31-null,3.410958904,12/31/21 14:51,angry1,sad2,Angry_2_pause_2,option1,en de
+292,66703,m,32-null,3.410958904,12/31/21 14:51,scared6,happy3,Happy_1_pause_2,option1,en de
+293,66703,m,33-null,3.410958904,12/31/21 14:51,sad6,scared3,Scared_1_pause_2,option2,en de
+294,66703,m,34-null,3.410958904,12/31/21 14:51,sad2,scared5,Sad_1_pause_2,option1,en de
+295,66771,m,11-null,3.608219178,12/31/21 22:52,scared3,angry4,Angry_2_pause_2,option2,en
+296,66771,m,12-null,3.608219178,12/31/21 22:52,scared4,sad6,Scared_2_pause_2,option1,en
+297,66771,m,13-null,3.608219178,12/31/21 22:52,angry1,sad1,Angry_1_pause_2,option1,en
+298,66771,m,14-null,3.608219178,12/31/21 22:52,angry6,happy4,Happy_1_pause_2,option2,en
+299,66771,m,16-null,3.608219178,12/31/21 22:52,sad2,happy2,Happy_1_pause_2,option2,en
+300,66771,m,17-null,3.608219178,12/31/21 22:52,sad2,happy6,Sad_1_pause_2,option1,en
+301,66771,m,18-null,3.608219178,12/31/21 22:52,angry6,happy5,Angry_2_pause_2,option1,en
+302,66771,m,19-null,3.608219178,12/31/21 22:52,happy1,angry1,Happy_1_pause_2,option1,en
+303,66771,m,20-null,3.608219178,12/31/21 22:52,sad6,happy3,Sad_2_pause_2,option1,en
+304,66771,m,21-null,3.608219178,12/31/21 22:52,scared2,happy1,Scared_2_pause_2,option1,en
+305,66771,m,22-null,3.608219178,12/31/21 22:52,angry4,scared1,Scared_2_pause_2,option2,en
+306,66771,m,23-null,3.608219178,12/31/21 22:52,sad4,scared3,Scared_1_pause_2,option2,en
+307,66771,m,24-null,3.608219178,12/31/21 22:52,scared6,sad4,Sad_2_pause_2,option2,en
+308,66771,m,25-null,3.608219178,12/31/21 22:52,happy3,scared1,Happy_2_pause_2,option1,en
+309,66771,m,26-null,3.608219178,12/31/21 22:52,sad1,scared4,Sad_2_pause_2,option1,en
+310,66771,m,27-null,3.608219178,12/31/21 22:52,angry3,sad3,Sad_1_pause_2,option2,en
+311,66771,m,28-null,3.608219178,12/31/21 22:52,scared5,happy6,Happy_2_pause_2,option2,en
+312,66771,m,29-null,3.608219178,12/31/21 22:52,happy5,sad3,Happy_2_pause_2,option1,en
+313,66771,m,30-null,3.608219178,12/31/21 22:52,happy4,scared5,Scared_1_pause_2,option2,en
+314,66771,m,31-null,3.608219178,12/31/21 22:52,angry5,happy2,Angry_1_pause_2,option1,en
+315,66771,m,32-null,3.608219178,12/31/21 22:52,angry5,sad5,Sad_1_pause_2,option2,en
+316,66771,m,33-null,3.608219178,12/31/21 22:52,scared2,angry3,Angry_1_pause_2,option2,en
+317,66771,m,34-null,3.608219178,12/31/21 22:52,scared6,angry2,Scared_1_pause_2,option1,en
+318,66832,f,11-null,3.767123288,12/1/21 14:12,scared1,angry4,Scared_2_pause_2,option1,en
+319,66832,f,12-null,3.767123288,12/1/21 14:12,sad2,scared6,Scared_1_pause_2,option2,en
+320,66832,f,13-null,3.767123288,12/1/21 14:12,scared3,happy2,Scared_2_pause_2,option1,en
+321,66832,f,14-null,3.767123288,12/1/21 14:12,angry1,scared4,Scared_2_pause_2,option1,en
+322,66832,f,16-null,3.767123288,12/1/21 14:12,angry5,sad6,Sad_2_pause_2,option2,en
+323,66832,f,17-null,3.767123288,12/1/21 14:12,angry1,sad4,Angry_2_pause_2,option1,en
+324,66832,f,18-null,3.767123288,12/1/21 14:12,angry6,happy1,Happy_2_pause_2,option1,en
+325,66832,f,19-null,3.767123288,12/1/21 14:12,scared3,sad4,Sad_2_pause_2,option2,en
+326,66832,f,20-null,3.767123288,12/1/21 14:12,sad1,happy5,Happy_1_pause_2,option1,en
+327,66832,f,21-null,3.767123288,12/1/21 14:12,scared4,happy2,Happy_1_pause_2,option1,en
+328,66832,f,22-null,3.767123288,12/1/21 14:12,scared6,angry3,Angry_2_pause_2,option2,en
+329,66832,f,23-null,3.767123288,12/1/21 14:12,angry2,happy5,Angry_1_pause_2,option1,en
+330,66832,f,24-null,3.767123288,12/1/21 14:12,sad2,scared5,Sad_1_pause_2,option1,en
+331,66832,f,25-null,3.767123288,12/1/21 14:12,angry6,sad6,Angry_1_pause_2,option2,en
+332,66832,f,26-null,3.767123288,12/1/21 14:12,angry3,sad3,Sad_1_pause_2,option2,en
+333,66832,f,27-null,3.767123288,12/1/21 14:12,happy3,sad1,Sad_1_pause_2,option2,en
+334,66832,f,28-null,3.767123288,12/1/21 14:12,scared2,happy4,Happy_2_pause_2,option1,en
+335,66832,f,29-null,3.767123288,12/1/21 14:12,scared5,happy6,Scared_1_pause_2,option2,en
+336,66832,f,30-null,3.767123288,12/1/21 14:12,happy4,sad5,Sad_2_pause_2,option2,en
+337,66832,f,31-null,3.767123288,12/1/21 14:12,angry4,scared1,Angry_2_pause_2,option2,en
+338,66832,f,32-null,3.767123288,12/1/21 14:12,happy3,sad3,Happy_2_pause_2,option1,en
+339,66832,f,33-null,3.767123288,12/1/21 14:12,happy6,angry2,Happy_1_pause_2,option1,en
+340,66832,f,34-null,3.767123288,12/1/21 14:12,happy1,angry5,Angry_1_pause_2,option2,en
+341,66917,m,11-null,2.164383562,12/1/21 21:35,happy2,sad3,Happy_2_pause_2,option1,en
+342,66917,m,12-null,2.164383562,12/1/21 21:35,sad1,happy1,Sad_2_pause_2,option1,en
+343,66917,m,13-null,2.164383562,12/1/21 21:35,happy6,angry5,Angry_2_pause_2,option2,en
+344,66917,m,14-null,2.164383562,12/1/21 21:35,sad5,scared4,Scared_1_pause_2,option1,en
+345,66917,m,16-null,2.164383562,12/1/21 21:35,scared2,sad2,Sad_1_pause_2,option2,en
+346,66917,m,17-null,2.164383562,12/1/21 21:35,happy6,scared6,Happy_1_pause_2,option1,en
+347,66917,m,18-null,2.164383562,12/1/21 21:35,angry1,happy4,Angry_1_pause_2,option1,en
+348,66917,m,19-null,2.164383562,12/1/21 21:35,happy3,scared5,Scared_1_pause_2,option1,en
+349,66917,m,20-null,2.164383562,12/1/21 21:35,happy3,scared4,Happy_2_pause_2,option1,en
+350,66917,m,21-null,2.164383562,12/1/21 21:35,angry6,happy1,Happy_1_pause_2,option2,en
+351,66917,m,22-null,2.164383562,12/1/21 21:35,angry2,sad5,Sad_1_pause_2,option1,en
+352,66917,m,23-null,2.164383562,12/1/21 21:35,happy2,scared1,Scared_1_pause_2,option1,en
+353,66917,m,24-null,2.164383562,12/1/21 21:35,scared2,angry4,Scared_2_pause_2,option1,en
+354,66917,m,25-null,2.164383562,12/1/21 21:35,angry3,scared5,Angry_1_pause_2,option1,en
+355,66917,m,26-null,2.164383562,12/1/21 21:35,scared1,sad6,Sad_2_pause_2,option1,en
+356,66917,m,27-null,2.164383562,12/1/21 21:35,angry6,sad6,Angry_2_pause_2,option1,en
+357,66917,m,28-null,2.164383562,12/1/21 21:35,scared3,angry3,Scared_2_pause_2,option2,en
+358,66917,m,29-null,2.164383562,12/1/21 21:35,happy4,angry1,Happy_2_pause_2,option1,en
+359,66917,m,30-null,2.164383562,12/1/21 21:35,angry2,sad2,Angry_2_pause_2,option1,en
+360,66917,m,31-null,2.164383562,12/1/21 21:35,angry4,scared3,Angry_1_pause_2,option1,en
+361,66917,m,32-null,2.164383562,12/1/21 21:35,angry5,sad3,Sad_2_pause_2,option1,en
+362,66917,m,33-null,2.164383562,12/1/21 21:35,happy5,sad4,Happy_1_pause_2,option1,en
+363,66917,m,34-null,2.164383562,12/1/21 21:35,sad4,happy5,Sad_1_pause_2,option2,en
+364,66928,m,11-null,4.276712329,12/1/21 22:53,scared4,happy6,Scared_1_pause_2,option1,en es
+365,66928,m,12-null,4.276712329,12/1/21 22:53,happy3,angry4,Angry_2_pause_2,option2,en es
+366,66928,m,13-null,4.276712329,12/1/21 22:53,sad6,happy2,Happy_1_pause_2,option2,en es
+367,66928,m,14-null,4.276712329,12/1/21 22:53,happy4,scared6,Happy_2_pause_2,option1,en es
+368,66928,m,16-null,4.276712329,12/1/21 22:53,angry4,scared1,Scared_2_pause_2,option2,en es
+369,66928,m,17-null,4.276712329,12/1/21 22:53,happy3,angry2,Happy_2_pause_2,option1,en es
+370,66928,m,18-null,4.276712329,12/1/21 22:53,sad3,angry1,Angry_1_pause_2,option2,en es
+371,66928,m,19-null,4.276712329,12/1/21 22:53,scared3,happy4,Scared_2_pause_2,option1,en es
+372,66928,m,20-null,4.276712329,12/1/21 22:53,scared5,sad2,Scared_2_pause_2,option1,en es
+373,66928,m,21-null,4.276712329,12/1/21 22:53,sad4,happy2,Sad_2_pause_2,option1,en es
+374,66928,m,22-null,4.276712329,12/1/21 22:53,sad1,scared6,Scared_1_pause_2,option2,en es
+375,66928,m,23-null,4.276712329,12/1/21 22:53,happy5,sad6,Sad_1_pause_2,option2,en es
+376,66928,m,24-null,4.276712329,12/1/21 22:53,sad3,scared4,Sad_2_pause_2,option1,en es
+377,66928,m,25-null,4.276712329,12/1/21 22:53,scared2,angry5,Scared_1_pause_2,option1,en es
+378,66928,m,26-null,4.276712329,12/1/21 22:53,sad1,angry3,Sad_2_pause_2,option1,en es
+379,66928,m,27-null,4.276712329,12/1/21 22:53,happy1,scared2,Happy_1_pause_2,option1,en es
+380,66928,m,28-null,4.276712329,12/1/21 22:53,sad2,scared1,Sad_1_pause_2,option1,en es
+381,66928,m,29-null,4.276712329,12/1/21 22:53,angry6,happy6,Happy_1_pause_2,option2,en es
+382,66928,m,30-null,4.276712329,12/1/21 22:53,angry2,sad5,Angry_1_pause_2,option1,en es
+383,66928,m,31-null,4.276712329,12/1/21 22:53,sad4,happy5,Happy_2_pause_2,option2,en es
+384,66928,m,32-null,4.276712329,12/1/21 22:53,angry1,sad5,Sad_1_pause_2,option2,en es
+385,66928,m,33-null,4.276712329,12/1/21 22:53,happy1,angry3,Angry_1_pause_2,option2,en es
+386,66928,m,34-null,4.276712329,12/1/21 22:53,scared3,angry5,Angry_2_pause_2,option2,en es
+387,66940,f,11-null,4.235616438,12/2/21 0:25,sad5,angry3,Sad_2_pause_2,option1,
+388,66940,f,12-null,4.235616438,12/2/21 0:25,happy6,sad1,Sad_1_pause_2,option2,
+389,66940,f,13-null,4.235616438,12/2/21 0:25,scared4,angry4,Scared_2_pause_2,option1,
+390,66940,f,14-null,4.235616438,12/2/21 0:25,angry2,scared6,Angry_1_pause_2,option1,
+391,66940,f,16-null,4.235616438,12/2/21 0:25,sad5,scared2,Scared_1_pause_2,option2,
+392,66940,f,17-null,4.235616438,12/2/21 0:25,happy2,scared2,Happy_1_pause_2,option1,
+393,66940,f,18-null,4.235616438,12/2/21 0:25,sad4,angry1,Sad_1_pause_2,option1,
+394,66940,f,19-null,4.235616438,12/2/21 0:25,happy5,angry5,Angry_2_pause_2,option2,
+395,66940,f,20-null,4.235616438,12/2/21 0:25,angry4,sad1,Angry_2_pause_2,option1,
+396,66940,f,21-null,4.235616438,12/2/21 0:25,angry2,happy1,Happy_1_pause_2,option2,
+397,66940,f,22-null,4.235616438,12/2/21 0:25,sad2,happy3,Happy_1_pause_2,option2,
+398,66940,f,23-null,4.235616438,12/2/21 0:25,sad2,scared3,Sad_1_pause_2,option1,
+399,66940,f,24-null,4.235616438,12/2/21 0:25,sad3,angry3,Angry_1_pause_2,option2,
+400,66940,f,25-null,4.235616438,12/2/21 0:25,scared1,happy6,Happy_2_pause_2,option2,
+401,66940,f,26-null,4.235616438,12/2/21 0:25,happy3,sad3,Sad_2_pause_2,option2,
+402,66940,f,27-null,4.235616438,12/2/21 0:25,scared4,sad6,Sad_2_pause_2,option2,
+403,66940,f,28-null,4.235616438,12/2/21 0:25,scared3,sad6,Scared_1_pause_2,option1,
+404,66940,f,29-null,4.235616438,12/2/21 0:25,sad4,happy4,Happy_2_pause_2,option2,
+405,66940,f,30-null,4.235616438,12/2/21 0:25,happy1,angry6,Angry_1_pause_2,option2,
+406,66940,f,31-null,4.235616438,12/2/21 0:25,scared5,angry5,Scared_1_pause_2,option1,
+407,66940,f,32-null,4.235616438,12/2/21 0:25,happy5,angry6,Happy_2_pause_2,option1,
+408,66940,f,33-null,4.235616438,12/2/21 0:25,scared1,happy2,Scared_2_pause_2,option1,
+409,66940,f,34-null,4.235616438,12/2/21 0:25,scared6,happy4,Scared_2_pause_2,option1,
+410,66962,f,11-null,4.849315068,12/2/21 12:45,scared3,sad3,Sad_2_pause_2,option2,en cmn tl yue
+411,66962,f,12-null,4.849315068,12/2/21 12:45,happy2,angry4,Happy_2_pause_2,option1,en cmn tl yue
+412,66962,f,13-null,4.849315068,12/2/21 12:45,sad3,scared4,Scared_1_pause_2,option2,en cmn tl yue
+413,66962,f,14-null,4.849315068,12/2/21 12:45,sad1,happy5,Happy_2_pause_2,option2,en cmn tl yue
+414,66962,f,16-null,4.849315068,12/2/21 12:45,happy6,angry3,Angry_2_pause_2,option2,en cmn tl yue
+415,66962,f,17-null,4.849315068,12/2/21 12:45,sad6,angry5,Angry_2_pause_2,option2,en cmn tl yue
+416,66962,f,18-null,4.849315068,12/2/21 12:45,angry1,scared6,Angry_2_pause_2,option1,en cmn tl yue
+417,66962,f,19-null,4.849315068,12/2/21 12:45,happy6,scared5,Happy_1_pause_2,option1,en cmn tl yue
+418,66962,f,20-null,4.849315068,12/2/21 12:45,happy2,scared6,Scared_2_pause_2,option2,en cmn tl yue
+419,66962,f,21-null,4.849315068,12/2/21 12:45,sad2,happy5,Sad_1_pause_2,option1,en cmn tl yue
+420,66962,f,22-null,4.849315068,12/2/21 12:45,angry4,happy4,Angry_1_pause_2,option1,en cmn tl yue
+421,66962,f,23-null,4.849315068,12/2/21 12:45,scared5,sad2,Scared_2_pause_2,option1,en cmn tl yue
+422,66962,f,24-null,4.849315068,12/2/21 12:45,happy1,sad5,Happy_1_pause_2,option1,en cmn tl yue
+423,66962,f,25-null,4.849315068,12/2/21 12:45,happy4,scared1,Happy_1_pause_2,option1,en cmn tl yue
+424,66962,f,26-null,4.849315068,12/2/21 12:45,sad4,scared2,Sad_2_pause_2,option1,en cmn tl yue
+425,66962,f,27-null,4.849315068,12/2/21 12:45,angry3,scared1,Scared_2_pause_2,option2,en cmn tl yue
+426,66962,f,28-null,4.849315068,12/2/21 12:45,sad4,angry6,Angry_1_pause_2,option2,en cmn tl yue
+427,66962,f,29-null,4.849315068,12/2/21 12:45,sad1,angry2,Sad_1_pause_2,option1,en cmn tl yue
+428,66962,f,30-null,4.849315068,12/2/21 12:45,angry2,scared4,Angry_1_pause_2,option1,en cmn tl yue
+429,66962,f,31-null,4.849315068,12/2/21 12:45,angry6,happy3,Happy_2_pause_2,option2,en cmn tl yue
+430,66962,f,32-null,4.849315068,12/2/21 12:45,angry1,sad6,Sad_2_pause_2,option2,en cmn tl yue
+431,66962,f,33-null,4.849315068,12/2/21 12:45,sad5,happy1,Sad_1_pause_2,option1,en cmn tl yue
+432,66962,f,34-null,4.849315068,12/2/21 12:45,scared3,angry5,Scared_1_pause_2,option1,en cmn tl yue
+433,66973,f,11-null,4.134246575,12/2/21 13:51,scared6,happy5,Happy_1_pause_2,option2,
+434,66973,f,12-null,4.134246575,12/2/21 13:51,happy5,sad6,Sad_1_pause_2,option2,
+435,66973,f,13-null,4.134246575,12/2/21 13:51,happy1,sad2,Happy_2_pause_2,option1,
+436,66973,f,14-null,4.134246575,12/2/21 13:51,scared4,sad4,Sad_1_pause_2,option2,
+437,66973,f,16-null,4.134246575,12/2/21 13:51,scared2,happy4,Scared_2_pause_2,option1,
+438,66973,f,17-null,4.134246575,12/2/21 13:51,sad1,scared3,Sad_2_pause_2,option2,
+439,66973,f,18-null,4.134246575,12/2/21 13:51,sad6,scared6,Scared_1_pause_2,option2,
+440,66973,f,19-null,4.134246575,12/2/21 13:51,sad2,angry3,Sad_1_pause_2,option1,
+441,66973,f,20-null,4.134246575,12/2/21 13:51,sad5,scared3,Scared_2_pause_2,option2,
+442,66973,f,21-null,4.134246575,12/2/21 13:51,angry4,scared5,Angry_2_pause_2,option1,
+443,66973,f,22-null,4.134246575,12/2/21 13:51,sad3,angry6,Angry_2_pause_2,option2,
+444,66973,f,23-null,4.134246575,12/2/21 13:51,happy3,angry2,Angry_2_pause_2,option2,
+445,66973,f,24-null,4.134246575,12/2/21 13:51,angry1,scared4,Scared_2_pause_2,option2,
+446,66973,f,25-null,4.134246575,12/2/21 13:51,happy2,scared5,Scared_1_pause_2,option2,
+447,66973,f,26-null,4.134246575,12/2/21 13:51,happy2,angry6,Happy_1_pause_2,option1,
+448,66973,f,27-null,4.134246575,12/2/21 13:51,angry5,happy6,Angry_1_pause_2,option1,
+449,66973,f,28-null,4.134246575,12/2/21 13:51,happy1,sad5,Sad_2_pause_2,option2,
+450,66973,f,29-null,4.134246575,12/2/21 13:51,angry1,sad1,Angry_1_pause_2,option1,
+451,66973,f,30-null,4.134246575,12/2/21 13:51,sad4,happy3,Happy_2_pause_2,option2,
+452,66973,f,31-null,4.134246575,12/2/21 13:51,angry5,happy6,Happy_1_pause_2,option2,
+453,66973,f,32-null,4.134246575,12/2/21 13:51,angry4,sad3,Sad_2_pause_2,option2,
+454,66973,f,33-null,4.134246575,12/2/21 13:51,scared1,angry2,Scared_1_pause_2,option1,
+455,66973,f,34-null,4.134246575,12/2/21 13:51,scared2,angry3,Angry_1_pause_2,option2,
+456,67016,m,11-null,4.071232877,12/2/21 15:05,happy5,sad3,Happy_2_pause_2,option1,en es
+457,67016,m,12-null,4.071232877,12/2/21 15:05,scared4,angry2,Scared_2_pause_2,option1,en es
+458,67016,m,13-null,4.071232877,12/2/21 15:05,scared2,sad2,Scared_2_pause_2,option1,en es
+459,67016,m,14-null,4.071232877,12/2/21 15:05,scared4,happy3,Happy_1_pause_2,option2,en es
+460,67016,m,16-null,4.071232877,12/2/21 15:05,angry5,sad1,Sad_2_pause_2,option2,en es
+461,67016,m,17-null,4.071232877,12/2/21 15:05,angry5,happy6,Angry_1_pause_2,option1,en es
+462,67016,m,18-null,4.071232877,12/2/21 15:05,sad5,happy4,Sad_1_pause_2,option1,en es
+463,67016,m,19-null,4.071232877,12/2/21 15:05,angry4,scared6,Scared_1_pause_2,option2,en es
+464,67016,m,20-null,4.071232877,12/2/21 15:05,angry4,scared6,Angry_1_pause_2,option1,en es
+465,67016,m,21-null,4.071232877,12/2/21 15:05,scared1,happy1,Scared_1_pause_2,option1,en es
+466,67016,m,22-null,4.071232877,12/2/21 15:05,sad4,angry3,Angry_2_pause_2,option2,en es
+467,67016,m,23-null,4.071232877,12/2/21 15:05,happy2,angry2,Angry_2_pause_2,option2,en es
+468,67016,m,24-null,4.071232877,12/2/21 15:05,scared3,sad6,Scared_2_pause_2,option1,en es
+469,67016,m,25-null,4.071232877,12/2/21 15:05,happy3,scared5,Scared_1_pause_2,option2,en es
+470,67016,m,26-null,4.071232877,12/2/21 15:05,happy4,angry3,Happy_1_pause_2,option1,en es
+471,67016,m,27-null,4.071232877,12/2/21 15:05,angry6,sad1,Angry_1_pause_2,option1,en es
+472,67016,m,28-null,4.071232877,12/2/21 15:05,scared1,angry1,Angry_2_pause_2,option2,en es
+473,67016,m,29-null,4.071232877,12/2/21 15:05,sad3,scared2,Sad_2_pause_2,option1,en es
+474,67016,m,30-null,4.071232877,12/2/21 15:05,happy1,scared3,Happy_2_pause_2,option1,en es
+475,67016,m,31-null,4.071232877,12/2/21 15:05,happy2,angry1,Happy_2_pause_2,option1,en es
+476,67016,m,32-null,4.071232877,12/2/21 15:05,sad5,happy6,Happy_1_pause_2,option2,en es
+477,67016,m,33-null,4.071232877,12/2/21 15:05,sad4,happy5,Sad_2_pause_2,option1,en es
+478,67016,m,34-null,4.071232877,12/2/21 15:05,sad2,scared5,Sad_1_pause_2,option2,en es
+479,67058,m,11-null,4.616438356,12/2/21 17:20,sad6,happy5,Happy_2_pause_2,option2,en
+480,67058,m,12-null,4.616438356,12/2/21 17:20,scared1,sad3,Scared_2_pause_2,option1,en
+481,67058,m,13-null,4.616438356,12/2/21 17:20,scared2,happy1,Scared_1_pause_2,option1,en
+482,67058,m,14-null,4.616438356,12/2/21 17:20,sad2,scared6,Scared_2_pause_2,option2,en
+483,67058,m,16-null,4.616438356,12/2/21 17:20,happy3,scared3,Scared_2_pause_2,option2,en
+484,67058,m,17-null,4.616438356,12/2/21 17:20,scared5,angry6,Scared_1_pause_2,option1,en
+485,67058,m,18-null,4.616438356,12/2/21 17:20,scared5,angry4,Angry_2_pause_2,option2,en
+486,67058,m,19-null,4.616438356,12/2/21 17:20,sad1,happy1,Happy_1_pause_2,option2,en
+487,67058,m,20-null,4.616438356,12/2/21 17:20,happy3,scared4,Happy_2_pause_2,option1,en
+488,67058,m,21-null,4.616438356,12/2/21 17:20,scared1,sad3,Sad_2_pause_2,option2,en
+489,67058,m,22-null,4.616438356,12/2/21 17:20,angry2,sad6,Sad_1_pause_2,option2,en
+490,67058,m,23-null,4.616438356,12/2/21 17:20,scared4,angry3,Scared_1_pause_2,option1,en
+491,67058,m,24-null,4.616438356,12/2/21 17:20,sad4,angry5,Sad_2_pause_2,option1,en
+492,67058,m,25-null,4.616438356,12/2/21 17:20,happy4,scared3,Happy_2_pause_2,option1,en
+493,67058,m,26-null,4.616438356,12/2/21 17:20,happy5,angry2,Angry_1_pause_2,option2,en
+494,67058,m,27-null,4.616438356,12/2/21 17:20,scared6,sad2,Sad_1_pause_2,option2,en
+495,67058,m,28-null,4.616438356,12/2/21 17:20,sad5,happy2,Sad_1_pause_2,option1,en
+496,67058,m,29-null,4.616438356,12/2/21 17:20,angry6,sad4,Angry_2_pause_2,option1,en
+497,67058,m,30-null,4.616438356,12/2/21 17:20,angry1,happy6,Angry_1_pause_2,option1,en
+498,67058,m,31-null,4.616438356,12/2/21 17:20,sad5,angry3,Angry_2_pause_2,option2,en
+499,67058,m,32-null,4.616438356,12/2/21 17:20,sad1,happy4,Sad_2_pause_2,option1,en
+500,67058,m,33-null,4.616438356,12/2/21 17:20,happy6,angry4,Happy_1_pause_2,option1,en
+501,67058,m,34-null,4.616438356,12/2/21 17:20,happy2,angry1,Happy_1_pause_2,option1,en
+502,67073,m,11-null,3.794520548,12/2/21 17:52,angry4,scared4,Scared_1_pause_2,option1,
+503,67073,m,12-null,3.794520548,12/2/21 17:52,happy6,scared3,Scared_2_pause_2,option1,
+504,67073,m,13-null,3.794520548,12/2/21 17:52,happy3,angry1,Angry_1_pause_2,option2,
+505,67073,m,14-null,3.794520548,12/2/21 17:52,happy4,angry2,Angry_2_pause_2,option1,
+506,67073,m,16-null,3.794520548,12/2/21 17:52,sad2,scared6,Sad_2_pause_2,option2,
+507,67073,m,17-null,3.794520548,12/2/21 17:52,scared2,sad6,Scared_1_pause_2,option1,
+508,67073,m,18-null,3.794520548,12/2/21 17:52,sad3,scared4,Sad_1_pause_2,option2,
+509,67073,m,19-null,3.794520548,12/2/21 17:52,happy6,angry2,Happy_2_pause_2,option2,
+510,67073,m,20-null,3.794520548,12/2/21 17:52,angry6,scared1,Angry_1_pause_2,option1,
+511,67073,m,21-null,3.794520548,12/2/21 17:52,sad6,happy2,Sad_2_pause_2,option1,
+512,67073,m,22-null,3.794520548,12/2/21 17:52,angry4,sad4,Angry_2_pause_2,option1,
+513,67073,m,23-null,3.794520548,12/2/21 17:52,happy1,sad3,Happy_1_pause_2,option1,
+514,67073,m,24-null,3.794520548,12/2/21 17:52,happy1,sad5,Sad_1_pause_2,option1,
+515,67073,m,25-null,3.794520548,12/2/21 17:52,scared3,angry5,Angry_1_pause_2,option1,
+516,67073,m,26-null,3.794520548,12/2/21 17:52,angry3,sad5,Angry_2_pause_2,option1,
+517,67073,m,27-null,3.794520548,12/2/21 17:52,happy5,scared5,Scared_2_pause_2,option1,
+518,67073,m,28-null,3.794520548,12/2/21 17:52,sad4,angry3,Sad_1_pause_2,option2,
+519,67073,m,29-null,3.794520548,12/2/21 17:52,angry1,sad1,Sad_2_pause_2,option2,
+520,67073,m,30-null,3.794520548,12/2/21 17:52,scared1,sad1,Scared_2_pause_2,option1,
+521,67073,m,31-null,3.794520548,12/2/21 17:52,happy3,sad2,Happy_1_pause_2,option2,
+522,67073,m,32-null,3.794520548,12/2/21 17:52,angry5,happy4,Happy_2_pause_2,option2,
+523,67073,m,33-null,3.794520548,12/2/21 17:52,happy5,scared2,Happy_2_pause_2,option2,
+524,67073,m,34-null,3.794520548,12/2/21 17:52,scared5,happy2,Happy_1_pause_2,option2,
+525,67164,f,11-null,3.687671233,12/2/21 20:55,angry6,sad5,Sad_1_pause_2,option2,en
+526,67164,f,12-null,3.687671233,12/2/21 20:55,happy5,sad3,Sad_2_pause_2,option2,en
+527,67164,f,13-null,3.687671233,12/2/21 20:55,angry1,sad6,Angry_2_pause_2,option1,en
+528,67164,f,14-null,3.687671233,12/2/21 20:55,sad2,happy1,Sad_1_pause_2,option1,en
+529,67164,f,16-null,3.687671233,12/2/21 20:55,angry4,scared4,Angry_1_pause_2,option1,en
+530,67164,f,17-null,3.687671233,12/2/21 20:55,scared2,sad4,Sad_2_pause_2,option2,en
+531,67164,f,18-null,3.687671233,12/2/21 20:55,angry2,happy2,Happy_1_pause_2,option2,en
+532,67164,f,19-null,3.687671233,12/2/21 20:55,happy4,scared5,Happy_2_pause_2,option1,en
+533,67164,f,20-null,3.687671233,12/2/21 20:55,happy6,sad5,Happy_1_pause_2,option1,en
+534,67164,f,21-null,3.687671233,12/2/21 20:55,happy4,scared3,Scared_2_pause_2,option2,en
+535,67164,f,22-null,3.687671233,12/2/21 20:55,sad1,scared6,Sad_2_pause_2,option1,en
+536,67164,f,23-null,3.687671233,12/2/21 20:55,angry4,sad6,Sad_1_pause_2,option2,en
+537,67164,f,24-null,3.687671233,12/2/21 20:55,happy1,sad1,Happy_2_pause_2,option1,en
+538,67164,f,25-null,3.687671233,12/2/21 20:55,angry6,scared1,Angry_1_pause_2,option1,en
+539,67164,f,26-null,3.687671233,12/2/21 20:55,happy3,scared3,Happy_2_pause_2,option1,en
+540,67164,f,27-null,3.687671233,12/2/21 20:55,happy5,angry5,Happy_1_pause_2,option1,en
+541,67164,f,28-null,3.687671233,12/2/21 20:55,sad2,angry3,Angry_2_pause_2,option2,en
+542,67164,f,29-null,3.687671233,12/2/21 20:55,scared6,happy6,Scared_2_pause_2,option1,en
+543,67164,f,30-null,3.687671233,12/2/21 20:55,happy3,angry2,Angry_2_pause_2,option2,en
+544,67164,f,31-null,3.687671233,12/2/21 20:55,sad3,scared5,Scared_1_pause_2,option2,en
+545,67164,f,32-null,3.687671233,12/2/21 20:55,scared1,sad4,Scared_1_pause_2,option1,en
+546,67164,f,33-null,3.687671233,12/2/21 20:55,scared2,angry1,Scared_2_pause_2,option1,en
+547,67164,f,34-null,3.687671233,12/2/21 20:55,angry3,scared4,Scared_1_pause_2,option2,en
+548,67178,m,11-null,4.353424658,12/2/21 21:14,scared3,sad6,Sad_1_pause_2,option2,en
+549,67178,m,12-null,4.353424658,12/2/21 21:14,sad3,happy5,Happy_2_pause_2,option2,en
+550,67178,m,13-null,4.353424658,12/2/21 21:14,sad3,angry3,Sad_2_pause_2,option1,en
+551,67178,m,14-null,4.353424658,12/2/21 21:14,scared6,sad2,Scared_2_pause_2,option1,en
+552,67178,m,16-null,4.353424658,12/2/21 21:14,angry2,happy4,Happy_2_pause_2,option2,en
+553,67178,m,17-null,4.353424658,12/2/21 21:14,sad4,angry6,Sad_2_pause_2,option1,en
+554,67178,m,18-null,4.353424658,12/2/21 21:14,angry5,sad4,Angry_1_pause_2,option1,en
+555,67178,m,19-null,4.353424658,12/2/21 21:14,scared4,happy3,Happy_1_pause_2,option2,en
+556,67178,m,20-null,4.353424658,12/2/21 21:14,angry3,happy3,Angry_2_pause_2,option1,en
+557,67178,m,21-null,4.353424658,12/2/21 21:14,happy5,sad5,Sad_1_pause_2,option2,en
+558,67178,m,22-null,4.353424658,12/2/21 21:14,angry5,scared2,Scared_1_pause_2,option2,en
+559,67178,m,23-null,4.353424658,12/2/21 21:14,happy2,angry6,Angry_2_pause_2,option2,en
+560,67178,m,24-null,4.353424658,12/2/21 21:14,scared6,sad2,Sad_1_pause_2,option2,en
+561,67178,m,25-null,4.353424658,12/2/21 21:14,sad1,happy6,Sad_2_pause_2,option1,en
+562,67178,m,26-null,4.353424658,12/2/21 21:14,angry1,happy2,Happy_1_pause_2,option2,en
+563,67178,m,27-null,4.353424658,12/2/21 21:14,angry1,scared2,Angry_1_pause_2,option1,en
+564,67178,m,28-null,4.353424658,12/2/21 21:14,scared3,happy1,Scared_2_pause_2,option1,en
+565,67178,m,29-null,4.353424658,12/2/21 21:14,angry4,scared4,Scared_1_pause_2,option1,en
+566,67178,m,30-null,4.353424658,12/2/21 21:14,angry2,scared1,Angry_1_pause_2,option1,en
+567,67178,m,31-null,4.353424658,12/2/21 21:14,sad6,angry4,Angry_2_pause_2,option1,en
+568,67178,m,32-null,4.353424658,12/2/21 21:14,scared5,happy4,Scared_2_pause_2,option1,en
+569,67178,m,33-null,4.353424658,12/2/21 21:14,happy6,sad1,Happy_1_pause_2,option1,en
+570,67178,m,34-null,4.353424658,12/2/21 21:14,sad5,scared1,Scared_1_pause_2,option2,en
+571,67196,m,11-null,4.487671233,12/2/21 23:12,sad2,angry1,Angry_2_pause_2,option2,en
+572,67196,m,12-null,4.487671233,12/2/21 23:12,sad1,angry4,Angry_2_pause_2,option2,en
+573,67196,m,13-null,4.487671233,12/2/21 23:12,angry3,sad3,Sad_2_pause_2,option2,en
+574,67196,m,14-null,4.487671233,12/2/21 23:12,scared1,sad6,Scared_2_pause_2,option1,en
+575,67196,m,16-null,4.487671233,12/2/21 23:12,scared5,angry1,Scared_1_pause_2,option1,en
+576,67196,m,17-null,4.487671233,12/2/21 23:12,sad4,happy3,Happy_1_pause_2,option2,en
+577,67196,m,18-null,4.487671233,12/2/21 23:12,scared3,sad3,Scared_1_pause_2,option1,en
+578,67196,m,19-null,4.487671233,12/2/21 23:12,angry5,scared4,Scared_2_pause_2,option2,en
+579,67196,m,20-null,4.487671233,12/2/21 23:12,scared6,angry3,Angry_1_pause_2,option2,en
+580,67196,m,21-null,4.487671233,12/2/21 23:12,happy1,sad5,Happy_1_pause_2,option1,en
+581,67196,m,22-null,4.487671233,12/2/21 23:12,scared1,happy4,Happy_1_pause_2,option2,en
+582,67196,m,23-null,4.487671233,12/2/21 23:12,happy6,angry6,Angry_2_pause_2,option2,en
+583,67196,m,24-null,4.487671233,12/2/21 23:12,happy6,scared3,Happy_2_pause_2,option1,en
+584,67196,m,25-null,4.487671233,12/2/21 23:12,scared4,sad1,Sad_1_pause_2,option2,en
+585,67196,m,26-null,4.487671233,12/2/21 23:12,happy2,angry2,Angry_1_pause_2,option2,en
+586,67196,m,27-null,4.487671233,12/2/21 23:12,angry5,scared2,Angry_1_pause_2,option1,en
+587,67196,m,28-null,4.487671233,12/2/21 23:12,angry6,happy5,Happy_2_pause_2,option2,en
+588,67196,m,29-null,4.487671233,12/2/21 23:12,sad2,scared5,Sad_2_pause_2,option1,en
+589,67196,m,30-null,4.487671233,12/2/21 23:12,scared6,happy1,Scared_2_pause_2,option1,en
+590,67196,m,31-null,4.487671233,12/2/21 23:12,angry2,sad5,Sad_2_pause_2,option2,en
+591,67196,m,32-null,4.487671233,12/2/21 23:12,angry4,happy2,Happy_2_pause_2,option2,en
+592,67196,m,33-null,4.487671233,12/2/21 23:12,happy4,sad6,Sad_1_pause_2,option2,en
+593,67196,m,34-null,4.487671233,12/2/21 23:12,scared2,happy3,Scared_1_pause_2,option1,en
+594,67202,m,11-null,4.21369863,12/2/21 23:28,sad5,happy5,Happy_1_pause_2,option2,en
+595,67202,m,12-null,4.21369863,12/2/21 23:28,sad4,happy3,Happy_2_pause_2,option2,en
+596,67202,m,13-null,4.21369863,12/2/21 23:28,angry4,happy6,Happy_1_pause_2,option2,en
+597,67202,m,14-null,4.21369863,12/2/21 23:28,sad5,angry3,Sad_1_pause_2,option1,en
+598,67202,m,16-null,4.21369863,12/2/21 23:28,scared6,angry2,Scared_1_pause_2,option1,en
+599,67202,m,17-null,4.21369863,12/2/21 23:28,sad3,angry6,Angry_1_pause_2,option2,en
+600,67202,m,18-null,4.21369863,12/2/21 23:28,sad1,scared3,Scared_1_pause_2,option1,en
+601,67202,m,19-null,4.21369863,12/2/21 23:28,angry6,happy4,Happy_2_pause_2,option2,en
+602,67202,m,20-null,4.21369863,12/2/21 23:28,angry5,happy3,Angry_2_pause_2,option1,en
+603,67202,m,21-null,4.21369863,12/2/21 23:28,scared4,sad2,Scared_2_pause_2,option1,en
+604,67202,m,22-null,4.21369863,12/2/21 23:28,happy5,angry3,Angry_1_pause_2,option2,en
+605,67202,m,23-null,4.21369863,12/2/21 23:28,happy6,scared1,Scared_1_pause_2,option2,en
+606,67202,m,24-null,4.21369863,12/2/21 23:28,scared6,sad3,Sad_2_pause_2,option2,en
+607,67202,m,25-null,4.21369863,12/2/21 23:28,scared1,angry2,Angry_2_pause_2,option2,en
+608,67202,m,26-null,4.21369863,12/2/21 23:28,sad6,happy4,Sad_2_pause_2,option1,en
+609,67202,m,27-null,4.21369863,12/2/21 23:28,scared2,angry5,Scared_2_pause_2,option1,en
+610,67202,m,28-null,4.21369863,12/2/21 23:28,scared2,angry4,Angry_2_pause_2,option2,en
+611,67202,m,29-null,4.21369863,12/2/21 23:28,scared4,happy2,Happy_2_pause_2,option2,en
+612,67202,m,30-null,4.21369863,12/2/21 23:28,sad2,scared5,Sad_1_pause_2,option1,en
+613,67202,m,31-null,4.21369863,12/2/21 23:28,scared5,happy1,Scared_2_pause_2,option1,en
+614,67202,m,32-null,4.21369863,12/2/21 23:28,sad4,angry1,Sad_1_pause_2,option1,en
+615,67202,m,33-null,4.21369863,12/2/21 23:28,happy2,sad1,Sad_2_pause_2,option2,en
+616,67202,m,34-null,4.21369863,12/2/21 23:28,happy1,scared3,Happy_1_pause_2,option1,en
+617,67204,m,11-null,2.857534247,12/2/21 23:40,scared2,happy6,Scared_1_pause_2,option1,en
+618,67204,m,12-null,2.857534247,12/2/21 23:40,sad3,scared2,Sad_2_pause_2,option2,en
+619,67204,m,13-null,2.857534247,12/2/21 23:40,angry1,scared3,Scared_2_pause_2,option1,en
+620,67204,m,14-null,2.857534247,12/2/21 23:40,angry3,sad5,Angry_2_pause_2,option1,en
+621,67204,m,16-null,2.857534247,12/2/21 23:40,happy3,scared5,Happy_1_pause_2,option1,en
+622,67204,m,17-null,2.857534247,12/2/21 23:40,angry4,sad5,Sad_2_pause_2,option1,en
+623,67204,m,18-null,2.857534247,12/2/21 23:40,angry6,happy2,Happy_1_pause_2,option2,en
+624,67204,m,19-null,2.857534247,12/2/21 23:40,happy2,sad6,Sad_2_pause_2,option2,en
+625,67204,m,20-null,2.857534247,12/2/21 23:40,angry2,happy5,Angry_1_pause_2,option1,en
+626,67204,m,21-null,2.857534247,12/2/21 23:40,sad4,scared5,Scared_1_pause_2,option2,en
+627,67204,m,22-null,2.857534247,12/2/21 23:40,angry5,happy1,Happy_2_pause_2,option2,en
+628,67204,m,23-null,2.857534247,12/2/21 23:40,happy4,angry5,Angry_1_pause_2,option2,en
+629,67204,m,24-null,2.857534247,12/2/21 23:40,angry2,sad1,Sad_1_pause_2,option2,en
+630,67204,m,25-null,2.857534247,12/2/21 23:40,angry6,scared6,Angry_1_pause_2,option2,en
+631,67204,m,26-null,2.857534247,12/2/21 23:40,sad2,happy1,Sad_1_pause_2,option1,en
+632,67204,m,27-null,2.857534247,12/2/21 23:40,sad4,scared3,Sad_1_pause_2,option1,en
+633,67204,m,28-null,2.857534247,12/2/21 23:40,angry1,scared4,Angry_2_pause_2,option1,en
+634,67204,m,29-null,2.857534247,12/2/21 23:40,sad6,happy6,Happy_1_pause_2,option2,en
+635,67204,m,30-null,2.857534247,12/2/21 23:40,angry4,sad3,Angry_2_pause_2,option1,en
+636,67204,m,31-null,2.857534247,12/2/21 23:40,scared1,happy3,Scared_2_pause_2,option1,en
+637,67204,m,32-null,2.857534247,12/2/21 23:40,scared1,happy5,Happy_2_pause_2,option2,en
+638,67204,m,33-null,2.857534247,12/2/21 23:40,scared4,sad1,Scared_1_pause_2,option2,en
+639,67204,m,34-null,2.857534247,12/2/21 23:40,happy4,sad2,Happy_2_pause_2,option1,en
+640,67209,m,11-null,4.410958904,12/2/21 23:50,happy6,angry5,Happy_2_pause_2,option1,en
+641,67209,m,12-null,4.410958904,12/2/21 23:50,angry2,scared2,Scared_2_pause_2,option2,en
+642,67209,m,13-null,4.410958904,12/2/21 23:50,sad2,scared6,Sad_1_pause_2,option1,en
+643,67209,m,14-null,4.410958904,12/2/21 23:50,happy4,sad3,Happy_2_pause_2,option1,en
+644,67209,m,16-null,4.410958904,12/2/21 23:50,angry4,scared1,Scared_1_pause_2,option2,en
+645,67209,m,17-null,4.410958904,12/2/21 23:50,angry1,sad4,Angry_2_pause_2,option1,en
+646,67209,m,18-null,4.410958904,12/2/21 23:50,happy1,sad5,Sad_2_pause_2,option2,en
+647,67209,m,19-null,4.410958904,12/2/21 23:50,scared6,sad5,Scared_2_pause_2,option1,en
+648,67209,m,20-null,4.410958904,12/2/21 23:50,angry6,happy5,Happy_2_pause_2,option2,en
+649,67209,m,21-null,4.410958904,12/2/21 23:50,sad2,scared3,Scared_1_pause_2,option2,en
+650,67209,m,22-null,4.410958904,12/2/21 23:50,happy2,angry5,Angry_1_pause_2,option2,en
+651,67209,m,23-null,4.410958904,12/2/21 23:50,happy5,scared5,Scared_1_pause_2,option2,en
+652,67209,m,24-null,4.410958904,12/2/21 23:50,sad1,angry3,Angry_1_pause_2,option2,en
+653,67209,m,25-null,4.410958904,12/2/21 23:50,scared4,happy4,Scared_2_pause_2,option1,en
+654,67209,m,26-null,4.410958904,12/2/21 23:50,sad6,happy6,Sad_2_pause_2,option1,en
+655,67209,m,27-null,4.410958904,12/2/21 23:50,scared2,happy3,Happy_1_pause_2,option2,en
+656,67209,m,28-null,4.410958904,12/2/21 23:50,angry3,sad3,Sad_1_pause_2,option2,en
+657,67209,m,29-null,4.410958904,12/2/21 23:50,happy1,sad6,Happy_1_pause_2,option1,en
+658,67209,m,30-null,4.410958904,12/2/21 23:50,scared3,angry4,Angry_1_pause_2,option2,en
+659,67209,m,31-null,4.410958904,12/2/21 23:50,angry2,scared5,Angry_2_pause_2,option1,en
+660,67209,m,32-null,4.410958904,12/2/21 23:50,happy2,scared1,Happy_1_pause_2,option1,en
+661,67209,m,33-null,4.410958904,12/2/21 23:50,sad4,angry1,Sad_2_pause_2,option1,en
+662,67209,m,34-null,4.410958904,12/2/21 23:50,angry6,happy3,Angry_2_pause_2,option1,en
+663,67255,f,11-null,2.956164384,12/3/21 13:14,happy4,sad5,Sad_2_pause_2,option1,en
+664,67255,f,12-null,2.956164384,12/3/21 13:14,scared3,angry3,Scared_2_pause_2,option2,en
+665,67255,f,13-null,2.956164384,12/3/21 13:14,happy6,sad3,Sad_2_pause_2,option1,en
+666,67255,f,14-null,2.956164384,12/3/21 13:14,sad5,happy5,Happy_1_pause_2,option2,en
+667,67255,f,16-null,2.956164384,12/3/21 13:14,happy1,angry1,Happy_2_pause_2,option1,en
+668,67255,f,17-null,2.956164384,12/3/21 13:14,scared4,happy3,Scared_2_pause_2,option2,en
+669,67255,f,18-null,2.956164384,12/3/21 13:14,sad2,angry6,Angry_2_pause_2,option2,en
+670,67255,f,19-null,2.956164384,12/3/21 13:14,scared2,angry5,Scared_1_pause_2,option2,en
+671,67255,f,20-null,2.956164384,12/3/21 13:14,angry2,scared4,Angry_1_pause_2,option1,en
+672,67255,f,21-null,2.956164384,12/3/21 13:14,sad6,angry2,Sad_1_pause_2,option1,en
+673,67255,f,22-null,2.956164384,12/3/21 13:14,scared1,angry3,Angry_1_pause_2,option2,en
+674,67255,f,23-null,2.956164384,12/3/21 13:14,angry4,sad4,Sad_2_pause_2,option1,en
+675,67255,f,24-null,2.956164384,12/3/21 13:14,angry5,happy5,Angry_1_pause_2,option1,en
+676,67255,f,25-null,2.956164384,12/3/21 13:14,happy3,angry6,Happy_1_pause_2,option1,en
+677,67255,f,26-null,2.956164384,12/3/21 13:14,sad2,scared2,Sad_1_pause_2,option1,en
+678,67255,f,27-null,2.956164384,12/3/21 13:14,scared6,happy6,Happy_1_pause_2,option2,en
+679,67255,f,28-null,2.956164384,12/3/21 13:14,scared5,happy2,Scared_1_pause_2,option1,en
+680,67255,f,29-null,2.956164384,12/3/21 13:14,scared3,sad1,Sad_1_pause_2,option2,en
+681,67255,f,30-null,2.956164384,12/3/21 13:14,angry1,happy1,Angry_2_pause_2,option1,en
+682,67255,f,31-null,2.956164384,12/3/21 13:14,scared6,sad3,Scared_2_pause_2,option1,en
+683,67255,f,32-null,2.956164384,12/3/21 13:14,scared1,sad1,Scared_1_pause_2,option1,en
+684,67255,f,33-null,2.956164384,12/3/21 13:14,sad6,happy4,Happy_2_pause_2,option2,en
+685,67255,f,34-null,2.956164384,12/3/21 13:14,angry4,sad4,Angry_2_pause_2,option1,en
+686,67281,f,11-null,2.797260274,12/3/21 17:15,scared3,happy2,Happy_1_pause_2,option2,en
+687,67281,f,12-null,2.797260274,12/3/21 17:15,happy2,sad3,Sad_2_pause_2,option1,en
+688,67281,f,13-null,2.797260274,12/3/21 17:15,angry2,happy4,Angry_1_pause_2,option1,en
+689,67281,f,14-null,2.797260274,12/3/21 17:15,sad6,angry6,Angry_2_pause_2,option1,en
+690,67281,f,16-null,2.797260274,12/3/21 17:15,scared4,sad5,Scared_2_pause_2,option2,en
+691,67281,f,17-null,2.797260274,12/3/21 17:15,angry2,sad6,Sad_2_pause_2,option2,en
+692,67281,f,18-null,2.797260274,12/3/21 17:15,sad5,scared2,Sad_2_pause_2,option2,en
+693,67281,f,19-null,2.797260274,12/3/21 17:15,happy3,sad1,Sad_1_pause_2,option2,en
+694,67281,f,20-null,2.797260274,12/3/21 17:15,sad4,scared5,Sad_1_pause_2,option1,en
+695,67281,f,21-null,2.797260274,12/3/21 17:15,happy6,sad1,Happy_2_pause_2,option1,en
+696,67281,f,22-null,2.797260274,12/3/21 17:15,angry1,happy3,Happy_2_pause_2,option2,en
+697,67281,f,23-null,2.797260274,12/3/21 17:15,happy5,angry6,Happy_1_pause_2,option1,en
+698,67281,f,24-null,2.797260274,12/3/21 17:15,angry1,sad2,Angry_2_pause_2,option2,en
+699,67281,f,25-null,2.797260274,12/3/21 17:15,sad2,angry3,Sad_1_pause_2,option2,en
+700,67281,f,26-null,2.797260274,12/3/21 17:15,happy4,scared4,Happy_1_pause_2,option1,en
+701,67281,f,27-null,2.797260274,12/3/21 17:15,scared2,angry5,Scared_2_pause_2,option1,en
+702,67281,f,28-null,2.797260274,12/3/21 17:15,happy1,sad4,Happy_2_pause_2,option1,en
+703,67281,f,29-null,2.797260274,12/3/21 17:15,happy5,scared5,Scared_1_pause_2,option2,en
+704,67281,f,30-null,2.797260274,12/3/21 17:15,scared1,angry4,Angry_2_pause_2,option2,en
+705,67281,f,31-null,2.797260274,12/3/21 17:15,sad3,scared1,Scared_1_pause_2,option1,en
+706,67281,f,32-null,2.797260274,12/3/21 17:15,happy1,angry3,Angry_1_pause_2,option2,en
+707,67281,f,33-null,2.797260274,12/3/21 17:15,scared3,happy6,Scared_1_pause_2,option1,en
+708,67281,f,34-null,2.797260274,12/3/21 17:15,angry5,scared6,Angry_1_pause_2,option1,en
+709,67289,m,11-null,4.347945205,12/3/21 17:54,angry3,happy3,Angry_1_pause_2,option1,en
+710,67289,m,12-null,4.347945205,12/3/21 17:54,scared5,sad4,Sad_1_pause_2,option2,en
+711,67289,m,13-null,4.347945205,12/3/21 17:54,happy1,scared2,Happy_2_pause_2,option1,en
+712,67289,m,14-null,4.347945205,12/3/21 17:54,angry2,happy5,Happy_1_pause_2,option2,en
+713,67289,m,16-null,4.347945205,12/3/21 17:54,sad5,happy5,Sad_2_pause_2,option1,en
+714,67289,m,17-null,4.347945205,12/3/21 17:54,happy2,sad2,Happy_1_pause_2,option1,en
+715,67289,m,18-null,4.347945205,12/3/21 17:54,scared2,happy6,Scared_2_pause_2,option1,en
+716,67289,m,19-null,4.347945205,12/3/21 17:54,happy4,scared6,Happy_2_pause_2,option1,en
+717,67289,m,20-null,4.347945205,12/3/21 17:54,scared3,sad6,Sad_1_pause_2,option2,en
+718,67289,m,21-null,4.347945205,12/3/21 17:54,angry6,happy3,Happy_1_pause_2,option2,en
+719,67289,m,22-null,4.347945205,12/3/21 17:54,sad5,angry6,Angry_1_pause_2,option2,en
+720,67289,m,23-null,4.347945205,12/3/21 17:54,angry4,scared4,Angry_2_pause_2,option1,en
+721,67289,m,24-null,4.347945205,12/3/21 17:54,scared3,happy4,Scared_1_pause_2,option1,en
+722,67289,m,25-null,4.347945205,12/3/21 17:54,sad6,angry5,Angry_1_pause_2,option2,en
+723,67289,m,26-null,4.347945205,12/3/21 17:54,happy1,sad2,Sad_2_pause_2,option2,en
+724,67289,m,27-null,4.347945205,12/3/21 17:54,sad4,happy6,Happy_2_pause_2,option2,en
+725,67289,m,28-null,4.347945205,12/3/21 17:54,sad3,scared4,Scared_1_pause_2,option2,en
+726,67289,m,29-null,4.347945205,12/3/21 17:54,angry1,scared1,Angry_2_pause_2,option1,en
+727,67289,m,30-null,4.347945205,12/3/21 17:54,scared5,angry4,Scared_2_pause_2,option1,en
+728,67289,m,31-null,4.347945205,12/3/21 17:54,angry5,scared1,Scared_2_pause_2,option1,en
+729,67289,m,32-null,4.347945205,12/3/21 17:54,angry2,happy2,Angry_2_pause_2,option1,en
+730,67289,m,33-null,4.347945205,12/3/21 17:54,scared6,sad1,Scared_1_pause_2,option1,en
+731,67289,m,34-null,4.347945205,12/3/21 17:54,angry3,sad3,Sad_2_pause_2,option2,en
+732,67340,f,11-null,3.145205479,12/3/21 19:09,sad6,angry6,Sad_1_pause_2,option1,en
+733,67340,f,12-null,3.145205479,12/3/21 19:09,happy1,angry2,Happy_2_pause_2,option1,en
+734,67340,f,13-null,3.145205479,12/3/21 19:09,angry2,happy2,Angry_2_pause_2,option1,en
+735,67340,f,14-null,3.145205479,12/3/21 19:09,angry4,scared1,Scared_2_pause_2,option2,en
+736,67340,f,16-null,3.145205479,12/3/21 19:09,scared2,sad5,Scared_2_pause_2,option2,en
+737,67340,f,17-null,3.145205479,12/3/21 19:09,sad1,scared3,Sad_1_pause_2,option1,en
+738,67340,f,18-null,3.145205479,12/3/21 19:09,angry3,sad3,Angry_1_pause_2,option1,en
+739,67340,f,19-null,3.145205479,12/3/21 19:09,scared2,angry6,Angry_1_pause_2,option2,en
+740,67340,f,20-null,3.145205479,12/3/21 19:09,sad5,happy6,Sad_1_pause_2,option1,en
+741,67340,f,21-null,3.145205479,12/3/21 19:09,happy5,sad3,Sad_2_pause_2,option2,en
+742,67340,f,22-null,3.145205479,12/3/21 19:09,angry5,scared3,Scared_1_pause_2,option2,en
+743,67340,f,23-null,3.145205479,12/3/21 19:09,happy2,sad4,Happy_2_pause_2,option1,en
+744,67340,f,24-null,3.145205479,12/3/21 19:09,sad4,scared6,Sad_2_pause_2,option1,en
+745,67340,f,25-null,3.145205479,12/3/21 19:09,scared1,happy4,Happy_1_pause_2,option2,en
+746,67340,f,26-null,3.145205479,12/3/21 19:09,scared5,happy4,Scared_2_pause_2,option1,en
+747,67340,f,27-null,3.145205479,12/3/21 19:09,angry4,scared5,Angry_2_pause_2,option1,en
+748,67340,f,28-null,3.145205479,12/3/21 19:09,angry1,happy1,Angry_2_pause_2,option1,en
+749,67340,f,29-null,3.145205479,12/3/21 19:09,happy3,scared4,Happy_1_pause_2,option1,en
+750,67340,f,30-null,3.145205479,12/3/21 19:09,scared6,happy3,Scared_1_pause_2,option1,en
+751,67340,f,31-null,3.145205479,12/3/21 19:09,happy5,angry1,Happy_1_pause_2,option1,en
+752,67340,f,32-null,3.145205479,12/3/21 19:09,sad2,happy6,Happy_2_pause_2,option2,en
+753,67340,f,33-null,3.145205479,12/3/21 19:09,angry5,sad6,Angry_1_pause_2,option1,en
+754,67340,f,34-null,3.145205479,12/3/21 19:09,sad2,angry3,Sad_2_pause_2,option1,en
+755,67370,m,11-null,3.397260274,12/3/21 20:25,sad4,scared1,Sad_2_pause_2,option1,en fr
+756,67370,m,12-null,3.397260274,12/3/21 20:25,angry2,happy6,Happy_1_pause_2,option2,en fr
+757,67370,m,13-null,3.397260274,12/3/21 20:25,angry2,sad6,Angry_1_pause_2,option1,en fr
+758,67370,m,14-null,3.397260274,12/3/21 20:25,sad2,happy3,Sad_1_pause_2,option1,en fr
+759,67370,m,16-null,3.397260274,12/3/21 20:25,happy4,sad4,Happy_2_pause_2,option1,en fr
+760,67370,m,17-null,3.397260274,12/3/21 20:25,angry3,sad3,Sad_1_pause_2,option1,en fr
+761,67370,m,18-null,3.397260274,12/3/21 20:25,scared1,sad1,Scared_1_pause_2,option1,en fr
+762,67370,m,19-null,3.397260274,12/3/21 20:25,happy1,angry1,Happy_1_pause_2,option1,en fr
+763,67370,m,20-null,3.397260274,12/3/21 20:25,sad2,scared2,Scared_2_pause_2,option2,en fr
+764,67370,m,21-null,3.397260274,12/3/21 20:25,angry5,scared5,Scared_1_pause_2,option2,en fr
+765,67370,m,22-null,3.397260274,12/3/21 20:25,scared4,happy1,Scared_2_pause_2,option1,en fr
+766,67370,m,23-null,3.397260274,12/3/21 20:25,happy2,sad5,Sad_1_pause_2,option2,en fr
+767,67370,m,24-null,3.397260274,12/3/21 20:25,angry4,scared3,Scared_1_pause_2,option1,en fr
+768,67370,m,25-null,3.397260274,12/3/21 20:25,scared5,angry6,Angry_2_pause_2,option1,en fr
+769,67370,m,26-null,3.397260274,12/3/21 20:25,happy5,scared6,Scared_2_pause_2,option2,en fr
+770,67370,m,27-null,3.397260274,12/3/21 20:25,happy5,scared6,Happy_2_pause_2,option1,en fr
+771,67370,m,28-null,3.397260274,12/3/21 20:25,happy2,scared4,Happy_2_pause_2,option2,en fr
+772,67370,m,29-null,3.397260274,12/3/21 20:25,angry1,sad3,Angry_1_pause_2,option1,en fr
+773,67370,m,30-null,3.397260274,12/3/21 20:25,sad5,happy3,Happy_1_pause_2,option2,en fr
+774,67370,m,31-null,3.397260274,12/3/21 20:25,happy6,angry3,Angry_2_pause_2,option2,en fr
+775,67370,m,32-null,3.397260274,12/3/21 20:25,angry6,sad1,Sad_2_pause_2,option1,en fr
+776,67370,m,33-null,3.397260274,12/3/21 20:25,scared3,angry5,Angry_1_pause_2,option2,en fr
+777,67370,m,34-null,3.397260274,12/3/21 20:25,happy4,angry4,Angry_2_pause_2,option2,en fr
+778,67372,f,11-null,2.224657534,12/3/21 20:33,sad2,scared3,Sad_2_pause_2,option2,en fr
+779,67372,f,12-null,2.224657534,12/3/21 20:33,scared6,angry2,Scared_2_pause_2,option1,en fr
+780,67372,f,13-null,2.224657534,12/3/21 20:33,sad3,angry5,Sad_1_pause_2,option1,en fr
+781,67372,f,14-null,2.224657534,12/3/21 20:33,angry3,scared1,Scared_2_pause_2,option1,en fr
+782,67372,f,16-null,2.224657534,12/3/21 20:33,sad4,scared5,Scared_1_pause_2,option1,en fr
+783,67372,f,17-null,2.224657534,12/3/21 20:33,scared6,angry2,Angry_1_pause_2,option2,en fr
+784,67372,f,18-null,2.224657534,12/3/21 20:33,happy6,sad1,Happy_2_pause_2,option1,en fr
+785,67372,f,19-null,2.224657534,12/3/21 20:33,sad6,angry6,Sad_2_pause_2,option1,en fr
+786,67372,f,20-null,2.224657534,12/3/21 20:33,sad3,angry6,Angry_2_pause_2,option2,en fr
+787,67372,f,21-null,2.224657534,12/3/21 20:33,scared4,happy3,Happy_1_pause_2,option1,en fr
+788,67372,f,22-null,2.224657534,12/3/21 20:33,angry1,happy6,Angry_2_pause_2,option2,en fr
+789,67372,f,23-null,2.224657534,12/3/21 20:33,happy1,sad1,Sad_2_pause_2,option1,en fr
+790,67372,f,24-null,2.224657534,12/3/21 20:33,angry5,happy2,Angry_1_pause_2,option2,en fr
+791,67372,f,25-null,2.224657534,12/3/21 20:33,sad5,scared1,Sad_1_pause_2,option1,en fr
+792,67372,f,26-null,2.224657534,12/3/21 20:33,angry4,sad5,Angry_2_pause_2,option2,en fr
+793,67372,f,27-null,2.224657534,12/3/21 20:33,happy5,angry4,Happy_1_pause_2,option1,en fr
+794,67372,f,28-null,2.224657534,12/3/21 20:33,happy4,scared3,Scared_1_pause_2,option2,en fr
+795,67372,f,29-null,2.224657534,12/3/21 20:33,sad4,happy3,Sad_1_pause_2,option1,en fr
+796,67372,f,30-null,2.224657534,12/3/21 20:33,happy2,sad2,Happy_2_pause_2,option1,en fr
+797,67372,f,31-null,2.224657534,12/3/21 20:33,happy4,scared5,Happy_1_pause_2,option1,en fr
+798,67372,f,32-null,2.224657534,12/3/21 20:33,happy5,scared4,Scared_2_pause_2,option2,en fr
+799,67372,f,33-null,2.224657534,12/3/21 20:33,scared2,angry3,Angry_1_pause_2,option2,en fr
+800,67372,f,34-null,2.224657534,12/3/21 20:33,scared2,sad6,Scared_1_pause_2,option2,en fr
+801,67445,m,11-null,3.449315068,12/4/21 0:43,scared1,sad2,Scared_2_pause_2,option1,
+802,67445,m,12-null,3.449315068,12/4/21 0:43,happy6,sad1,Sad_1_pause_2,option2,
+803,67445,m,13-null,3.449315068,12/4/21 0:43,scared6,sad4,Sad_2_pause_2,option2,
+804,67445,m,14-null,3.449315068,12/4/21 0:43,happy2,scared3,Scared_2_pause_2,option2,
+805,67445,m,16-null,3.449315068,12/4/21 0:43,scared3,sad5,Sad_1_pause_2,option2,
+806,67445,m,17-null,3.449315068,12/4/21 0:43,angry5,happy3,Happy_1_pause_2,option2,
+807,67445,m,18-null,3.449315068,12/4/21 0:43,scared6,angry1,Scared_1_pause_2,option1,
+808,67445,m,19-null,3.449315068,12/4/21 0:43,angry1,sad1,Angry_1_pause_2,option1,
+809,67445,m,20-null,3.449315068,12/4/21 0:43,happy1,sad5,Happy_2_pause_2,option1,
+810,67445,m,21-null,3.449315068,12/4/21 0:43,happy2,sad6,Happy_1_pause_2,option1,
+811,67445,m,22-null,3.449315068,12/4/21 0:43,scared2,angry3,Angry_2_pause_2,option2,
+812,67445,m,23-null,3.449315068,12/4/21 0:43,sad3,scared5,Scared_1_pause_2,option2,
+813,67445,m,24-null,3.449315068,12/4/21 0:43,angry3,sad2,Sad_2_pause_2,option2,
+814,67445,m,25-null,3.449315068,12/4/21 0:43,happy4,scared4,Happy_2_pause_2,option1,
+815,67445,m,26-null,3.449315068,12/4/21 0:43,happy5,scared5,Happy_1_pause_2,option1,
+816,67445,m,27-null,3.449315068,12/4/21 0:43,happy1,angry6,Angry_1_pause_2,option2,
+817,67445,m,28-null,3.449315068,12/4/21 0:43,angry4,happy6,Happy_2_pause_2,option2,
+818,67445,m,29-null,3.449315068,12/4/21 0:43,angry2,scared1,Angry_2_pause_2,option1,
+819,67445,m,30-null,3.449315068,12/4/21 0:43,sad6,angry6,Sad_1_pause_2,option1,
+820,67445,m,31-null,3.449315068,12/4/21 0:43,happy3,scared2,Scared_1_pause_2,option2,
+821,67445,m,32-null,3.449315068,12/4/21 0:43,happy5,sad3,Sad_2_pause_2,option2,
+822,67445,m,33-null,3.449315068,12/4/21 0:43,scared4,angry2,Scared_2_pause_2,option1,
+823,67445,m,34-null,3.449315068,12/4/21 0:43,angry4,sad4,Angry_1_pause_2,option1,
+824,67466,m,11-null,3.534246575,12/4/21 1:41,angry6,sad4,Sad_2_pause_2,option2,en
+825,67466,m,12-null,3.534246575,12/4/21 1:41,scared2,sad6,Sad_1_pause_2,option2,en
+826,67466,m,13-null,3.534246575,12/4/21 1:41,happy5,scared1,Happy_1_pause_2,option1,en
+827,67466,m,14-null,3.534246575,12/4/21 1:41,scared4,sad2,Sad_1_pause_2,option2,en
+828,67466,m,16-null,3.534246575,12/4/21 1:41,angry3,scared6,Angry_2_pause_2,option1,en
+829,67466,m,17-null,3.534246575,12/4/21 1:41,sad5,scared5,Scared_1_pause_2,option2,en
+830,67466,m,18-null,3.534246575,12/4/21 1:41,angry2,sad4,Angry_1_pause_2,option1,en
+831,67466,m,19-null,3.534246575,12/4/21 1:41,angry1,scared3,Angry_1_pause_2,option1,en
+832,67466,m,20-null,3.534246575,12/4/21 1:41,happy4,scared2,Scared_1_pause_2,option2,en
+833,67466,m,21-null,3.534246575,12/4/21 1:41,sad6,scared4,Scared_2_pause_2,option2,en
+834,67466,m,22-null,3.534246575,12/4/21 1:41,sad3,happy1,Happy_1_pause_2,option1,en
+835,67466,m,23-null,3.534246575,12/4/21 1:41,sad5,angry2,Sad_2_pause_2,option2,en
+836,67466,m,24-null,3.534246575,12/4/21 1:41,happy6,sad1,Sad_1_pause_2,option2,en
+837,67466,m,25-null,3.534246575,12/4/21 1:41,happy3,scared5,Happy_2_pause_2,option1,en
+838,67466,m,26-null,3.534246575,12/4/21 1:41,happy1,scared6,Scared_2_pause_2,option2,en
+839,67466,m,27-null,3.534246575,12/4/21 1:41,angry4,happy5,Angry_2_pause_2,option1,en
+840,67466,m,28-null,3.534246575,12/4/21 1:41,angry5,happy3,Angry_1_pause_2,option1,en
+841,67466,m,29-null,3.534246575,12/4/21 1:41,angry5,scared3,Scared_1_pause_2,option1,en
+842,67466,m,30-null,3.534246575,12/4/21 1:41,sad1,happy4,Happy_2_pause_2,option2,en
+843,67466,m,31-null,3.534246575,12/4/21 1:41,sad2,angry6,Angry_2_pause_2,option2,en
+844,67466,m,32-null,3.534246575,12/4/21 1:41,happy6,angry4,Happy_2_pause_2,option1,en
+845,67466,m,33-null,3.534246575,12/4/21 1:41,happy2,angry3,Happy_1_pause_2,option1,en
+846,67466,m,34-null,3.534246575,12/4/21 1:41,scared1,angry1,Scared_2_pause_2,option2,en
+847,67552,f,11-null,3.117808219,12/4/21 17:33,happy4,sad2,Happy_1_pause_2,option1,
+848,67552,f,12-null,3.117808219,12/4/21 17:33,angry3,happy3,Happy_2_pause_2,option2,
+849,67552,f,13-null,3.117808219,12/4/21 17:33,angry5,scared2,Scared_2_pause_2,option1,
+850,67552,f,14-null,3.117808219,12/4/21 17:33,scared6,happy3,Scared_2_pause_2,option1,
+851,67552,f,16-null,3.117808219,12/4/21 17:33,angry2,happy5,Angry_1_pause_2,option1,
+852,67552,f,17-null,3.117808219,12/4/21 17:33,angry1,happy6,Angry_2_pause_2,option1,
+853,67552,f,18-null,3.117808219,12/4/21 17:33,scared3,sad5,Scared_1_pause_2,option1,
+854,67552,f,19-null,3.117808219,12/4/21 17:33,happy2,scared1,Scared_1_pause_2,option2,
+855,67552,f,20-null,3.117808219,12/4/21 17:33,scared5,sad1,Sad_1_pause_2,option2,
+856,67552,f,21-null,3.117808219,12/4/21 17:33,angry5,sad1,Angry_1_pause_2,option1,
+857,67552,f,22-null,3.117808219,12/4/21 17:33,scared4,angry2,Scared_1_pause_2,option1,
+858,67552,f,23-null,3.117808219,12/4/21 17:33,happy1,scared4,Happy_1_pause_2,option1,
+859,67552,f,24-null,3.117808219,12/4/21 17:33,angry1,sad4,Sad_2_pause_2,option2,
+860,67552,f,25-null,3.117808219,12/4/21 17:33,angry6,sad4,Angry_2_pause_2,option1,
+861,67552,f,26-null,3.117808219,12/4/21 17:33,scared1,sad6,Sad_1_pause_2,option2,
+862,67552,f,27-null,3.117808219,12/4/21 17:33,happy2,angry4,Happy_1_pause_2,option1,
+863,67552,f,28-null,3.117808219,12/4/21 17:33,sad2,happy4,Sad_2_pause_2,option1,
+864,67552,f,29-null,3.117808219,12/4/21 17:33,scared6,happy5,Happy_2_pause_2,option2,
+865,67552,f,30-null,3.117808219,12/4/21 17:33,angry6,sad3,Sad_1_pause_2,option2,
+866,67552,f,31-null,3.117808219,12/4/21 17:33,sad5,happy1,Sad_2_pause_2,option1,
+867,67552,f,32-null,3.117808219,12/4/21 17:33,angry3,scared3,Angry_1_pause_2,option1,
+868,67552,f,33-null,3.117808219,12/4/21 17:33,happy6,sad6,Happy_2_pause_2,option1,
+869,67552,f,34-null,3.117808219,12/4/21 17:33,sad3,scared5,Scared_2_pause_2,option2,
+870,67569,m,11-null,3.410958904,12/4/21 18:18,sad2,happy6,Sad_1_pause_2,option1,en
+871,67569,m,12-null,3.410958904,12/4/21 18:18,angry6,scared2,Scared_1_pause_2,option2,en
+872,67569,m,13-null,3.410958904,12/4/21 18:18,sad5,happy4,Sad_1_pause_2,option1,en
+873,67569,m,14-null,3.410958904,12/4/21 18:18,angry2,scared2,Angry_2_pause_2,option1,en
+874,67569,m,16-null,3.410958904,12/4/21 18:18,angry5,happy2,Happy_2_pause_2,option2,en
+875,67569,m,17-null,3.410958904,12/4/21 18:18,scared1,happy1,Happy_2_pause_2,option2,en
+876,67569,m,18-null,3.410958904,12/4/21 18:18,scared5,happy3,Scared_2_pause_2,option1,en
+877,67569,m,19-null,3.410958904,12/4/21 18:18,scared1,sad4,Scared_1_pause_2,option1,en
+878,67569,m,20-null,3.410958904,12/4/21 18:18,scared3,happy1,Scared_2_pause_2,option1,en
+879,67569,m,21-null,3.410958904,12/4/21 18:18,scared4,sad1,Sad_2_pause_2,option2,en
+880,67569,m,22-null,3.410958904,12/4/21 18:18,scared6,angry1,Scared_2_pause_2,option1,en
+881,67569,m,23-null,3.410958904,12/4/21 18:18,happy3,sad3,Happy_1_pause_2,option1,en
+882,67569,m,24-null,3.410958904,12/4/21 18:18,happy6,sad1,Happy_1_pause_2,option1,en
+883,67569,m,25-null,3.410958904,12/4/21 18:18,sad6,angry5,Angry_1_pause_2,option2,en
+884,67569,m,26-null,3.410958904,12/4/21 18:18,scared4,sad5,Scared_1_pause_2,option1,en
+885,67569,m,27-null,3.410958904,12/4/21 18:18,scared3,happy4,Happy_2_pause_2,option2,en
+886,67569,m,28-null,3.410958904,12/4/21 18:18,angry1,happy5,Angry_1_pause_2,option1,en
+887,67569,m,29-null,3.410958904,12/4/21 18:18,angry2,happy5,Happy_1_pause_2,option2,en
+888,67569,m,30-null,3.410958904,12/4/21 18:18,sad3,angry3,Sad_1_pause_2,option1,en
+889,67569,m,31-null,3.410958904,12/4/21 18:18,angry6,scared6,Angry_1_pause_2,option1,en
+890,67569,m,32-null,3.410958904,12/4/21 18:18,sad6,scared5,Sad_2_pause_2,option1,en
+891,67569,m,33-null,3.410958904,12/4/21 18:18,sad4,angry4,Sad_2_pause_2,option1,en
+892,67569,m,34-null,3.410958904,12/4/21 18:18,happy2,angry4,Angry_2_pause_2,option2,en
+893,67776,f,11-null,2.402739726,12/5/21 22:36,scared5,angry5,Scared_1_pause_2,option1,en
+894,67776,f,12-null,2.402739726,12/5/21 22:36,angry2,scared1,Angry_2_pause_2,option1,en
+895,67776,f,13-null,2.402739726,12/5/21 22:36,sad6,scared3,Sad_2_pause_2,option2,en
+896,67776,f,14-null,2.402739726,12/5/21 22:36,happy2,sad4,Sad_1_pause_2,option1,en
+897,67776,f,16-null,2.402739726,12/5/21 22:36,happy5,angry1,Angry_2_pause_2,option2,en
+898,67776,f,17-null,2.402739726,12/5/21 22:36,sad6,scared6,Scared_2_pause_2,option2,en
+899,67776,f,18-null,2.402739726,12/5/21 22:36,happy6,scared4,Happy_2_pause_2,option1,en
+900,67776,f,19-null,2.402739726,12/5/21 22:36,happy2,sad1,Happy_1_pause_2,option1,en
+901,67776,f,20-null,2.402739726,12/5/21 22:36,sad1,scared5,Sad_2_pause_2,option2,en
+902,67776,f,21-null,2.402739726,12/5/21 22:36,happy4,angry6,Happy_2_pause_2,option1,en
+903,67776,f,22-null,2.402739726,12/5/21 22:36,sad3,angry3,Sad_2_pause_2,option2,en
+904,67776,f,23-null,2.402739726,12/5/21 22:36,sad2,happy4,Sad_1_pause_2,option2,en
+905,67776,f,24-null,2.402739726,12/5/21 22:36,scared1,angry4,Scared_1_pause_2,option1,en
+906,67776,f,25-null,2.402739726,12/5/21 22:36,scared2,happy6,Scared_2_pause_2,option1,en
+907,67776,f,26-null,2.402739726,12/5/21 22:36,scared4,happy3,Scared_1_pause_2,option1,en
+908,67776,f,27-null,2.402739726,12/5/21 22:36,sad5,angry2,Sad_1_pause_2,option1,en
+909,67776,f,28-null,2.402739726,12/5/21 22:36,angry5,sad3,Angry_1_pause_2,option1,en
+910,67776,f,29-null,2.402739726,12/5/21 22:36,happy1,angry4,Angry_2_pause_2,option2,en
+911,67776,f,30-null,2.402739726,12/5/21 22:36,angry1,happy1,Happy_1_pause_2,option2,en
+912,67776,f,31-null,2.402739726,12/5/21 22:36,happy5,sad4,Happy_1_pause_2,option1,en
+913,67776,f,32-null,2.402739726,12/5/21 22:36,angry3,scared2,Angry_1_pause_2,option1,en
+914,67776,f,33-null,2.402739726,12/5/21 22:36,sad5,angry6,Angry_1_pause_2,option2,en
+915,67776,f,34-null,2.402739726,12/5/21 22:36,scared6,happy3,Happy_2_pause_2,option2,en
+916,67805,f,11-null,2.208219178,12/6/21 14:34,angry4,scared4,Scared_2_pause_2,option1,en
+917,67805,f,12-null,2.208219178,12/6/21 14:34,angry3,happy5,Angry_2_pause_2,option1,en
+918,67805,f,13-null,2.208219178,12/6/21 14:34,angry1,sad3,Sad_2_pause_2,option2,en
+919,67805,f,14-null,2.208219178,12/6/21 14:34,sad4,happy3,Happy_2_pause_2,option2,en
+920,67805,f,16-null,2.208219178,12/6/21 14:34,sad2,angry1,Angry_1_pause_2,option1,en
+921,67805,f,17-null,2.208219178,12/6/21 14:34,angry6,sad5,Sad_1_pause_2,option2,en
+922,67805,f,18-null,2.208219178,12/6/21 14:34,scared1,happy4,Happy_1_pause_2,option2,en
+923,67805,f,19-null,2.208219178,12/6/21 14:34,scared2,happy1,Scared_1_pause_2,option1,en
+924,67805,f,20-null,2.208219178,12/6/21 14:34,sad4,scared5,Sad_2_pause_2,option2,en
+925,67805,f,21-null,2.208219178,12/6/21 14:34,angry6,scared3,Angry_2_pause_2,option2,en
+926,67805,f,22-null,2.208219178,12/6/21 14:34,angry3,happy1,Happy_1_pause_2,option2,en
+927,67805,f,23-null,2.208219178,12/6/21 14:34,happy6,scared4,Happy_2_pause_2,option1,en
+928,67805,f,24-null,2.208219178,12/6/21 14:34,sad6,happy5,Happy_2_pause_2,option2,en
+929,67805,f,25-null,2.208219178,12/6/21 14:34,scared6,sad3,Scared_1_pause_2,option1,en
+930,67805,f,26-null,2.208219178,12/6/21 14:34,angry5,happy2,Happy_1_pause_2,option2,en
+931,67805,f,27-null,2.208219178,12/6/21 14:34,scared6,angry5,Angry_1_pause_2,option2,en
+932,67805,f,28-null,2.208219178,12/6/21 14:34,scared3,sad1,Scared_2_pause_2,I_dont_know,en
+933,67805,f,29-null,2.208219178,12/6/21 14:34,happy2,sad1,Sad_2_pause_2,option2,en
+934,67805,f,30-null,2.208219178,12/6/21 14:34,happy6,sad2,Sad_1_pause_2,option2,en
+935,67805,f,31-null,2.208219178,12/6/21 14:34,sad5,angry4,Angry_1_pause_2,option2,en
+936,67805,f,32-null,2.208219178,12/6/21 14:34,scared2,sad6,Sad_1_pause_2,option2,en
+937,67805,f,33-null,2.208219178,12/6/21 14:34,scared1,happy3,Scared_2_pause_2,option1,en
+938,67805,f,34-null,2.208219178,12/6/21 14:34,angry2,happy4,Angry_2_pause_2,option1,en
+939,67811,f,11-null,2.057534247,12/6/21 14:55,happy1,sad1,Sad_2_pause_2,option2,en cmn es
+940,67811,f,12-null,2.057534247,12/6/21 14:55,sad5,scared5,Sad_1_pause_2,option1,en cmn es
+941,67811,f,13-null,2.057534247,12/6/21 14:55,scared2,angry6,Scared_2_pause_2,option2,en cmn es
+942,67811,f,14-null,2.057534247,12/6/21 14:55,angry6,scared1,Angry_1_pause_2,option2,en cmn es
+943,67811,f,16-null,2.057534247,12/6/21 14:55,angry3,happy3,Angry_2_pause_2,option2,en cmn es
+944,67811,f,17-null,2.057534247,12/6/21 14:55,sad4,angry5,Angry_1_pause_2,option1,en cmn es
+945,67811,f,18-null,2.057534247,12/6/21 14:55,angry3,scared5,Scared_1_pause_2,option2,en cmn es
+946,67811,f,19-null,2.057534247,12/6/21 14:55,happy2,sad2,Sad_2_pause_2,option2,en cmn es
+947,67811,f,20-null,2.057534247,12/6/21 14:55,sad6,happy5,Happy_1_pause_2,option2,en cmn es
+948,67811,f,21-null,2.057534247,12/6/21 14:55,happy4,scared4,Happy_1_pause_2,I_dont_know,en cmn es
+949,67811,f,22-null,2.057534247,12/6/21 14:55,sad2,scared1,Scared_1_pause_2,option1,en cmn es
+950,67811,f,23-null,2.057534247,12/6/21 14:55,sad4,scared2,Sad_1_pause_2,I_dont_know,en cmn es
+951,67811,f,24-null,2.057534247,12/6/21 14:55,happy4,angry2,Angry_2_pause_2,I_dont_know,en cmn es
+952,67811,f,25-null,2.057534247,12/6/21 14:55,happy6,angry1,Happy_1_pause_2,I_dont_know,en cmn es
+953,67811,f,26-null,2.057534247,12/6/21 14:55,scared3,happy5,Scared_2_pause_2,option1,en cmn es
+954,67811,f,27-null,2.057534247,12/6/21 14:55,happy1,sad1,Happy_2_pause_2,option2,en cmn es
+955,67811,f,28-null,2.057534247,12/6/21 14:55,angry1,sad5,Angry_2_pause_2,option1,en cmn es
+956,67811,f,29-null,2.057534247,12/6/21 14:55,scared6,angry4,Angry_1_pause_2,option1,en cmn es
+957,67811,f,30-null,2.057534247,12/6/21 14:55,happy2,angry2,Happy_2_pause_2,I_dont_know,en cmn es
+958,67811,f,31-null,2.057534247,12/6/21 14:55,sad6,angry4,Sad_1_pause_2,I_dont_know,en cmn es
+959,67811,f,32-null,2.057534247,12/6/21 14:55,happy6,scared4,Scared_1_pause_2,option2,en cmn es
+960,67811,f,33-null,2.057534247,12/6/21 14:55,angry5,sad3,Sad_2_pause_2,option1,en cmn es
+961,67811,f,34-null,2.057534247,12/6/21 14:55,scared6,sad3,Scared_2_pause_2,option1,en cmn es
+962,67879,m,11-null,2.375342466,12/6/21 22:07,happy3,sad6,Sad_1_pause_2,option2,en
+963,67879,m,12-null,2.375342466,12/6/21 22:07,happy6,sad3,Happy_1_pause_2,option1,en
+964,67879,m,13-null,2.375342466,12/6/21 22:07,angry6,scared5,Angry_1_pause_2,option1,en
+965,67879,m,14-null,2.375342466,12/6/21 22:07,happy6,angry4,Angry_2_pause_2,option2,en
+966,67879,m,16-null,2.375342466,12/6/21 22:07,angry2,happy5,Angry_1_pause_2,option1,en
+967,67879,m,17-null,2.375342466,12/6/21 22:07,sad4,scared6,Sad_2_pause_2,option1,en
+968,67879,m,18-null,2.375342466,12/6/21 22:07,scared2,sad3,Sad_2_pause_2,option2,en
+969,67879,m,19-null,2.375342466,12/6/21 22:07,sad1,angry4,Sad_1_pause_2,option1,en
+970,67879,m,20-null,2.375342466,12/6/21 22:07,scared3,happy4,Scared_2_pause_2,option1,en
+971,67879,m,21-null,2.375342466,12/6/21 22:07,angry5,sad1,Angry_2_pause_2,option1,en
+972,67879,m,22-null,2.375342466,12/6/21 22:07,angry3,happy3,Happy_2_pause_2,option2,en
+973,67879,m,23-null,2.375342466,12/6/21 22:07,angry6,scared1,Scared_1_pause_2,option2,en
+974,67879,m,24-null,2.375342466,12/6/21 22:07,angry1,scared4,Angry_1_pause_2,option1,en
+975,67879,m,25-null,2.375342466,12/6/21 22:07,happy2,sad4,Happy_2_pause_2,option1,en
+976,67879,m,26-null,2.375342466,12/6/21 22:07,scared1,happy1,Happy_1_pause_2,option2,en
+977,67879,m,27-null,2.375342466,12/6/21 22:07,scared2,happy1,Scared_1_pause_2,option1,en
+978,67879,m,28-null,2.375342466,12/6/21 22:07,sad2,scared6,Scared_2_pause_2,option2,en
+979,67879,m,29-null,2.375342466,12/6/21 22:07,happy4,scared3,Happy_1_pause_2,option1,en
+980,67879,m,30-null,2.375342466,12/6/21 22:07,angry1,scared5,Scared_1_pause_2,option2,en
+981,67879,m,31-null,2.375342466,12/6/21 22:07,angry3,sad6,Angry_2_pause_2,option1,en
+982,67879,m,32-null,2.375342466,12/6/21 22:07,sad5,scared4,Scared_2_pause_2,option2,en
+983,67879,m,33-null,2.375342466,12/6/21 22:07,angry5,happy5,Happy_2_pause_2,option2,en
+984,67879,m,34-null,2.375342466,12/6/21 22:07,happy2,sad2,Sad_1_pause_2,option2,en
+985,67903,f,11-null,2.128767123,12/7/21 14:15,angry1,happy4,Happy_1_pause_2,option2,en
+986,67903,f,12-null,2.128767123,12/7/21 14:15,happy2,sad3,Sad_1_pause_2,option2,en
+987,67903,f,13-null,2.128767123,12/7/21 14:15,angry4,scared1,Angry_1_pause_2,option2,en
+988,67903,f,14-null,2.128767123,12/7/21 14:15,scared1,sad2,Scared_1_pause_2,option2,en
+989,67903,f,16-null,2.128767123,12/7/21 14:15,happy5,sad1,Happy_2_pause_2,option1,en
+990,67903,f,17-null,2.128767123,12/7/21 14:15,scared5,sad1,Sad_2_pause_2,option2,en
+991,67903,f,18-null,2.128767123,12/7/21 14:15,sad4,angry4,Sad_1_pause_2,option1,en
+992,67903,f,19-null,2.128767123,12/7/21 14:15,scared6,happy4,Scared_2_pause_2,option1,en
+993,67903,f,20-null,2.128767123,12/7/21 14:15,sad6,scared2,Sad_2_pause_2,option1,en
+994,67903,f,21-null,2.128767123,12/7/21 14:15,angry2,happy3,Happy_2_pause_2,option2,en
+995,67903,f,22-null,2.128767123,12/7/21 14:15,angry2,happy3,Angry_2_pause_2,option1,en
+996,67903,f,23-null,2.128767123,12/7/21 14:15,scared3,happy1,Happy_1_pause_2,option2,en
+997,67903,f,24-null,2.128767123,12/7/21 14:15,scared3,happy1,Scared_2_pause_2,option2,en
+998,67903,f,25-null,2.128767123,12/7/21 14:15,angry5,scared4,Scared_1_pause_2,option1,en
+999,67903,f,26-null,2.128767123,12/7/21 14:15,angry6,sad5,Sad_2_pause_2,option2,en
+1000,67903,f,27-null,2.128767123,12/7/21 14:15,happy2,sad6,Happy_1_pause_2,option1,en
+1001,67903,f,28-null,2.128767123,12/7/21 14:15,scared5,angry3,Scared_1_pause_2,option1,en
+1002,67903,f,29-null,2.128767123,12/7/21 14:15,happy5,angry6,Angry_2_pause_2,option2,en
+1003,67903,f,30-null,2.128767123,12/7/21 14:15,sad5,scared2,Scared_2_pause_2,option2,en
+1004,67903,f,31-null,2.128767123,12/7/21 14:15,scared4,angry1,Angry_2_pause_2,option1,en
+1005,67903,f,32-null,2.128767123,12/7/21 14:15,sad4,angry3,Angry_1_pause_2,option2,en
+1006,67903,f,33-null,2.128767123,12/7/21 14:15,happy6,sad2,Sad_1_pause_2,option2,en
+1007,67903,f,34-null,2.128767123,12/7/21 14:15,sad3,angry5,Angry_1_pause_2,option2,en
+1008,67944,f,11-null,2.123287671,12/8/21 0:30,angry5,scared3,Scared_2_pause_2,option1,en it
+1009,67944,f,12-null,2.123287671,12/8/21 0:30,happy2,sad2,Happy_2_pause_2,option1,en it
+1010,67944,f,13-null,2.123287671,12/8/21 0:30,sad3,angry6,Sad_1_pause_2,option1,en it
+1011,67944,f,14-null,2.123287671,12/8/21 0:30,happy5,angry6,Angry_2_pause_2,option2,en it
+1012,67944,f,16-null,2.123287671,12/8/21 0:30,scared4,sad5,Scared_2_pause_2,option2,en it
+1013,67944,f,17-null,2.123287671,12/8/21 0:30,scared1,happy3,Scared_1_pause_2,option1,en it
+1014,67944,f,18-null,2.123287671,12/8/21 0:30,scared4,sad1,Sad_2_pause_2,option1,en it
+1015,67944,f,19-null,2.123287671,12/8/21 0:30,angry1,sad3,Angry_1_pause_2,option1,en it
+1016,67944,f,20-null,2.123287671,12/8/21 0:30,scared1,happy5,Happy_1_pause_2,option1,en it
+1017,67944,f,21-null,2.123287671,12/8/21 0:30,happy6,angry5,Angry_1_pause_2,option2,en it
+1018,67944,f,22-null,2.123287671,12/8/21 0:30,angry4,scared2,Angry_2_pause_2,option2,en it
+1019,67944,f,23-null,2.123287671,12/8/21 0:30,scared6,sad5,Sad_2_pause_2,option2,en it
+1020,67944,f,24-null,2.123287671,12/8/21 0:30,happy2,sad2,Sad_1_pause_2,option2,en it
+1021,67944,f,25-null,2.123287671,12/8/21 0:30,sad6,angry3,Angry_1_pause_2,option1,en it
+1022,67944,f,26-null,2.123287671,12/8/21 0:30,scared6,happy4,Scared_1_pause_2,option1,en it
+1023,67944,f,27-null,2.123287671,12/8/21 0:30,happy6,angry4,Happy_1_pause_2,option2,en it
+1024,67944,f,28-null,2.123287671,12/8/21 0:30,happy4,scared5,Happy_2_pause_2,option1,en it
+1025,67944,f,29-null,2.123287671,12/8/21 0:30,angry2,happy1,Happy_1_pause_2,option1,en it
+1026,67944,f,30-null,2.123287671,12/8/21 0:30,happy3,sad1,Happy_2_pause_2,option1,en it
+1027,67944,f,31-null,2.123287671,12/8/21 0:30,sad4,happy1,Sad_2_pause_2,option2,en it
+1028,67944,f,32-null,2.123287671,12/8/21 0:30,angry3,scared5,Scared_2_pause_2,option2,en it
+1029,67944,f,33-null,2.123287671,12/8/21 0:30,angry2,scared3,Angry_2_pause_2,option2,en it
+1030,67944,f,34-null,2.123287671,12/8/21 0:30,scared2,sad4,Scared_1_pause_2,option1,en it
+1031,67978,m,11-null,2.542465753,12/8/21 14:57,sad5,happy5,Sad_1_pause_2,option1,en
+1032,67978,m,12-null,2.542465753,12/8/21 14:57,sad1,scared2,Sad_2_pause_2,option1,en
+1033,67978,m,13-null,2.542465753,12/8/21 14:57,scared3,happy1,Happy_1_pause_2,option2,en
+1034,67978,m,14-null,2.542465753,12/8/21 14:57,happy2,sad1,Happy_1_pause_2,option1,en
+1035,67978,m,16-null,2.542465753,12/8/21 14:57,scared6,angry1,Scared_1_pause_2,option1,en
+1036,67978,m,17-null,2.542465753,12/8/21 14:57,sad6,happy3,Happy_2_pause_2,option2,en
+1037,67978,m,18-null,2.542465753,12/8/21 14:57,happy4,scared1,Scared_2_pause_2,option2,en
+1038,67978,m,19-null,2.542465753,12/8/21 14:57,sad4,scared3,Scared_2_pause_2,option1,en
+1039,67978,m,20-null,2.542465753,12/8/21 14:57,sad5,scared4,Scared_2_pause_2,option1,en
+1040,67978,m,21-null,2.542465753,12/8/21 14:57,angry6,happy6,Happy_2_pause_2,option2,en
+1041,67978,m,22-null,2.542465753,12/8/21 14:57,sad3,angry1,Angry_1_pause_2,option1,en
+1042,67978,m,23-null,2.542465753,12/8/21 14:57,angry3,scared5,Scared_1_pause_2,option2,en
+1043,67978,m,24-null,2.542465753,12/8/21 14:57,sad4,angry5,Sad_2_pause_2,option1,en
+1044,67978,m,25-null,2.542465753,12/8/21 14:57,sad2,scared1,Sad_1_pause_2,option1,en
+1045,67978,m,26-null,2.542465753,12/8/21 14:57,angry4,happy4,Happy_1_pause_2,option2,en
+1046,67978,m,27-null,2.542465753,12/8/21 14:57,happy5,scared6,Happy_2_pause_2,option1,en
+1047,67978,m,28-null,2.542465753,12/8/21 14:57,angry3,happy1,Angry_1_pause_2,option1,en
+1048,67978,m,29-null,2.542465753,12/8/21 14:57,happy2,sad6,Sad_2_pause_2,option2,en
+1049,67978,m,30-null,2.542465753,12/8/21 14:57,angry2,sad2,Angry_2_pause_2,option2,en
+1050,67978,m,31-null,2.542465753,12/8/21 14:57,scared5,angry4,Angry_2_pause_2,option1,en
+1051,67978,m,32-null,2.542465753,12/8/21 14:57,happy6,angry5,Angry_1_pause_2,option2,en
+1052,67978,m,33-null,2.542465753,12/8/21 14:57,scared4,angry6,Angry_2_pause_2,I_dont_know,en
+1053,67978,m,34-null,2.542465753,12/8/21 14:57,sad3,angry2,Sad_1_pause_2,I_dont_know,en
+1054,71326,f,11-null,2.632876712,12/17/21 23:42,angry6,scared2,Angry_1_pause_2,option1,en es
+1055,71326,f,12-null,2.632876712,12/17/21 23:42,sad3,happy1,Sad_2_pause_2,option1,en es
+1056,71326,f,13-null,2.632876712,12/17/21 23:42,sad4,scared5,Sad_1_pause_2,option1,en es
+1057,71326,f,14-null,2.632876712,12/17/21 23:42,scared2,happy5,Scared_2_pause_2,option1,en es
+1058,71326,f,16-null,2.632876712,12/17/21 23:42,scared3,sad5,Scared_1_pause_2,option1,en es
+1059,71326,f,17-null,2.632876712,12/17/21 23:42,angry5,happy6,Angry_1_pause_2,option1,en es
+1060,71326,f,18-null,2.632876712,12/17/21 23:42,angry6,sad5,Sad_1_pause_2,option2,en es
+1061,71326,f,19-null,2.632876712,12/17/21 23:42,angry3,happy6,Happy_2_pause_2,option2,en es
+1062,71326,f,20-null,2.632876712,12/17/21 23:42,angry4,scared6,Scared_1_pause_2,option2,en es
+1063,71326,f,21-null,2.632876712,12/17/21 23:42,happy2,sad4,Happy_1_pause_2,option1,en es
+1064,71326,f,22-null,2.632876712,12/17/21 23:42,angry4,scared4,Angry_2_pause_2,option1,en es
+1065,71326,f,23-null,2.632876712,12/17/21 23:42,angry3,sad1,Angry_1_pause_2,option1,en es
+1066,71326,f,24-null,2.632876712,12/17/21 23:42,happy4,scared4,Scared_2_pause_2,option2,en es
+1067,71326,f,25-null,2.632876712,12/17/21 23:42,sad1,scared1,Sad_2_pause_2,option1,en es
+1068,71326,f,26-null,2.632876712,12/17/21 23:42,scared1,angry1,Scared_1_pause_2,option2,en es
+1069,71326,f,27-null,2.632876712,12/17/21 23:42,sad6,scared5,Scared_2_pause_2,option2,en es
+1070,71326,f,28-null,2.632876712,12/17/21 23:42,happy1,scared3,Happy_2_pause_2,option1,en es
+1071,71326,f,29-null,2.632876712,12/17/21 23:42,angry2,happy3,Angry_2_pause_2,option1,en es
+1072,71326,f,30-null,2.632876712,12/17/21 23:42,sad2,happy2,Sad_2_pause_2,option1,en es
+1073,71326,f,31-null,2.632876712,12/17/21 23:42,angry1,sad3,Angry_2_pause_2,option1,en es
+1074,71326,f,32-null,2.632876712,12/17/21 23:42,scared6,happy5,Happy_1_pause_2,option2,en es
+1075,71326,f,33-null,2.632876712,12/17/21 23:42,sad6,angry5,Sad_1_pause_2,option1,en es
+1076,71326,f,34-null,2.632876712,12/17/21 23:42,happy3,sad2,Happy_1_pause_2,option1,en es
+1077,71352,f,11-null,2.797260274,12/18/21 16:03,scared3,angry5,Scared_2_pause_2,option1,en
+1078,71352,f,12-null,2.797260274,12/18/21 16:03,happy4,angry3,Happy_1_pause_2,option1,en
+1079,71352,f,13-null,2.797260274,12/18/21 16:03,happy3,angry2,Happy_2_pause_2,option1,en
+1080,71352,f,14-null,2.797260274,12/18/21 16:03,angry6,scared4,Angry_2_pause_2,option1,en
+1081,71352,f,16-null,2.797260274,12/18/21 16:03,sad4,scared1,Sad_2_pause_2,option1,en
+1082,71352,f,17-null,2.797260274,12/18/21 16:03,happy3,sad1,Sad_1_pause_2,option2,en
+1083,71352,f,18-null,2.797260274,12/18/21 16:03,happy2,scared6,Happy_2_pause_2,option1,en
+1084,71352,f,19-null,2.797260274,12/18/21 16:03,sad2,happy6,Happy_1_pause_2,option2,en
+1085,71352,f,20-null,2.797260274,12/18/21 16:03,sad6,happy1,Happy_2_pause_2,option2,en
+1086,71352,f,21-null,2.797260274,12/18/21 16:03,scared6,sad1,Scared_1_pause_2,option1,en
+1087,71352,f,22-null,2.797260274,12/18/21 16:03,angry6,scared2,Scared_1_pause_2,option2,en
+1088,71352,f,23-null,2.797260274,12/18/21 16:03,angry1,happy1,Angry_1_pause_2,option1,en
+1089,71352,f,24-null,2.797260274,12/18/21 16:03,happy6,scared1,Scared_2_pause_2,option2,en
+1090,71352,f,25-null,2.797260274,12/18/21 16:03,sad5,angry4,Angry_1_pause_2,option2,en
+1091,71352,f,26-null,2.797260274,12/18/21 16:03,angry3,scared3,Angry_1_pause_2,option1,en
+1092,71352,f,27-null,2.797260274,12/18/21 16:03,angry2,happy5,Angry_2_pause_2,option1,en
+1093,71352,f,28-null,2.797260274,12/18/21 16:03,sad4,angry5,Angry_2_pause_2,option2,en
+1094,71352,f,29-null,2.797260274,12/18/21 16:03,scared4,sad3,Scared_1_pause_2,option1,en
+1095,71352,f,30-null,2.797260274,12/18/21 16:03,scared2,sad2,Sad_2_pause_2,option2,en
+1096,71352,f,31-null,2.797260274,12/18/21 16:03,happy2,scared5,Scared_2_pause_2,option2,en
+1097,71352,f,32-null,2.797260274,12/18/21 16:03,sad5,angry4,Sad_1_pause_2,option1,en
+1098,71352,f,33-null,2.797260274,12/18/21 16:03,happy4,sad3,Sad_2_pause_2,option2,en
+1099,71352,f,34-null,2.797260274,12/18/21 16:03,happy5,scared5,Happy_1_pause_2,option1,en
