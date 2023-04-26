@@ -1,0 +1,151 @@
+---
+title: "EmoWord-stimuli"
+author: "Yang Wu"
+date: "4/26/2023"
+output:
+  html_document:
+    highlight: pygments
+    theme: flatly
+    toc: yes
+    toc_float: true
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+editor_options: 
+  chunk_output_type: console
+---
+#Load libraries
+```{r}
+# install.packages("readxl") you'll have to install the package first before loading it using the library() function
+library(readxl)
+library(here)
+library(dplyr)
+library(base) # for the gsub function
+library(maditr) # for the dcast function # install.packages("maditr")
+library(ggplot2)
+library(langcog)
+library(lme4)
+library(forcats)
+library(patchwork)
+library(wesanderson)
+library(tidyr)
+rm(list=ls()) 
+```
+# Load data
+```{r}
+d <- read.csv(here("emoword_norming3 - block design_December 16, 2021_19.13.csv"))
+```
+# Clean data
+```{r}
+d_clean <- d %>%
+  slice(-(1:5)) %>%
+  select(ResponseId, starts_with("angry"), starts_with("happy"), starts_with("sad"), starts_with("scared"), starts_with("Check")) %>%
+  pivot_longer(cols = c(starts_with("angry"), starts_with("happy"), starts_with("sad"), starts_with("scared")), 
+               names_to = "trial", values_to = "response") %>%
+  separate(trial, into=c("emotion","num","exp")) %>%
+  rename(id = `ResponseId`) %>%
+  filter(response != "") %>%
+  mutate(score = case_when(toupper(emotion) == toupper(response) ~ 1, TRUE ~ 0)) %>%
+  mutate(emotion = factor(emotion, levels=c("happy", "sad", "angry", "scared")))
+
+checks <- d_clean %>%
+  mutate(check_score1 = case_when(grepl("H", Check1, ignore.case = TRUE) ~ 1, TRUE ~ 0),
+         check_score2 = case_when(grepl("L", Check2, ignore.case = TRUE) ~ 1, TRUE ~ 0),
+         check_score3 = case_when(grepl("O", Check3, ignore.case = TRUE) ~ 1, TRUE ~ 0),
+         check_score4 = case_when(grepl("U", Check4, ignore.case = TRUE) ~ 1, TRUE ~ 0)) %>%
+  group_by(id) %>%
+  summarize(check_perc_correct = mean(c(check_score1, check_score2, check_score3, check_score4)))
+
+ggplot(checks, aes(check_perc_correct)) +
+  geom_histogram(binwidth=.01) +
+  theme_bw() +
+  xlab("accuracy on check questions") +
+  ylab("number of participants")
+
+# Only include those who got all check questions correct
+d_clean <- full_join(d_clean, checks) %>%
+  filter(check_perc_correct == 1) %>%
+  select(-starts_with("Check"), -check_perc_correct)
+```
+# Visualize data
+```{r}
+# overall accuracy
+ms <- d_clean %>%
+  group_by(emotion, exp) %>%
+  multi_boot_standard(col = "score") %>%
+  mutate(exp = case_when(exp == "f" ~ "Face",
+                         exp == "b" ~ "Face + Body"))
+p <- ggplot(ms, aes(x=emotion, y = mean, fill = exp)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  geom_errorbar(aes(ymin=ci_lower, ymax=ci_upper), width=.2,
+                 position=position_dodge(.9)) +
+  theme_bw()+
+  ylim(0,1)
+p
+#ggsave(here("stimuli.png"), width = 4.5, height = 4)
+```
+# Analyze data
+```{r}
+dt <- d_clean %>%
+  group_by(id, emotion, exp) %>%
+  multi_boot_standard(col = "score") 
+
+dt_f <- dt[dt$exp=="f",]
+t.test(dt_f[dt_f$emotion=="happy",]$mean, mu = 1/7)
+t.test(dt_f[dt_f$emotion=="sad",]$mean, mu = 1/7)
+t.test(dt_f[dt_f$emotion=="angry",]$mean, mu = 1/7)
+t.test(dt_f[dt_f$emotion=="scared",]$mean, mu = 1/7)
+
+dt_b <- dt[dt$exp=="b",]
+t.test(dt_b[dt_b$emotion=="happy",]$mean, mu = 1/7)
+t.test(dt_b[dt_b$emotion=="sad",]$mean, mu = 1/7)
+t.test(dt_b[dt_b$emotion=="angry",]$mean, mu = 1/7)
+t.test(dt_b[dt_b$emotion=="scared",]$mean, mu = 1/7)
+
+t.test(mean~exp, data = dt[dt$emotion=="happy",], paired = TRUE)
+t.test(mean~exp, data = dt[dt$emotion=="sad",], paired = TRUE)
+t.test(mean~exp, data = dt[dt$emotion=="angry",], paired = TRUE)
+t.test(mean~exp, data = dt[dt$emotion=="scared",], paired = TRUE)
+```
+
+## exploratory analysis on the sadness category
+```{r}
+d_clean_sad <- d_clean[d_clean$emotion == "sad",]
+
+ms_sad <- d_clean_sad %>%
+  group_by(num, exp) %>%
+  multi_boot_standard(col = "score") %>%
+  mutate(exp = case_when(exp == "f" ~ "Face",
+                         exp == "b" ~ "Face + Body"))
+p_sad <- ggplot(ms_sad, aes(x=num, y = mean, fill = exp)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  geom_errorbar(aes(ymin=ci_lower, ymax=ci_upper), width=.2,
+                 position=position_dodge(.9)) +
+  theme_bw()+
+  ylim(0,1)
+p_sad
+#ggsave(here("sad.png"), width = 4.5, height = 4)
+
+d_clean_sad_split <- split(d_clean_sad, d_clean_sad$num)
+# significant difference in one of the sad stimuli
+t.test(d_clean_sad_split$`1`$score~exp, data = d_clean_sad_split$`1`, paired=TRUE)
+mean(d_clean_sad_split$`1`[d_clean_sad_split$`1`$exp=="f",]$score)
+mean(d_clean_sad_split$`1`[d_clean_sad_split$`1`$exp=="b",]$score)
+
+# no significant difference in other sad stimuli
+t.test(d_clean_sad_split$`2`$score~exp, data = d_clean_sad_split$`2`, paired=TRUE)
+t.test(d_clean_sad_split$`3`$score~exp, data = d_clean_sad_split$`3`, paired=TRUE)
+t.test(d_clean_sad_split$`4`$score~exp, data = d_clean_sad_split$`4`, paired=TRUE)
+t.test(d_clean_sad_split$`5`$score~exp, data = d_clean_sad_split$`5`, paired=TRUE)
+t.test(d_clean_sad_split$`6`$score~exp, data = d_clean_sad_split$`6`, paired=TRUE)
+
+# results without the sad stimulus with low rating
+d_clean_sad_ex1 <- d_clean_sad[d_clean_sad$num != 1 | d_clean_sad$exp == "f",]
+ms_sad_ex1 <- d_clean_sad_ex1 %>%
+  group_by(id, exp) %>%
+  multi_boot_standard(col = "score")
+t.test(mean~exp, data = ms_sad_ex1, paired = TRUE)
+mean(ms_sad_ex1[ms_sad_ex1$exp=="b",]$mean)
+mean(ms_sad_ex1[ms_sad_ex1$exp=="f",]$mean)
+```
