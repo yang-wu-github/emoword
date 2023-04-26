@@ -1,14 +1,22 @@
 ---
 title: "EmoWord"
 author: "Yang Wu"
-date: "9/25/2022"
-output: html_document
+date: "4/25/2023"
+output:
+  html_document:
+    highlight: pygments
+    theme: flatly
+    toc: yes
+    toc_float: true
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
 editor_options: 
   chunk_output_type: console
 ---
-#Load libraries
+# Load libraries
 ```{r}
-# install.packages("readxl") you'll have to install the package first before loading it using the library() function
 library(readxl)
 library(here)
 library(dplyr)
@@ -22,20 +30,25 @@ library(forcats)
 library(patchwork)
 library(wesanderson)
 library(tidyr)
+library(pwr)
+library(Hmisc)
 rm(list=ls()) 
 ```
-#Load data
+# Load data
 ```{r}
-d1_raw <- read.csv(here("data_code/exp1_face.csv"))
+d1_raw <- read.csv(here("exp1_face.csv"))
 head(d1_raw)
-d2_raw <- read.csv(here("data_code/exp2_face_body.csv"))
+d2_raw <- read.csv(here("exp2_face_body.csv"))
 head(d2_raw)
 ```
 # Clean up data
-## Experiment: face
+## Experiment 1: face
 ```{r}
+# power justification
+pwr.t.test(d=0.8,n=16,sig.level=0.05,type="one.sample",alternative="two.sided")
+
 d1 <- d1_raw %>%
-  select(X, subid, test_trial, option1, option2, trial_audio, selected_image, age_in_years) %>%
+  select(X, subid, test_trial, option1, option2, trial_audio, selected_image, age_in_years, parent_mask, peer_mask, own_mask) %>%
   filter(selected_image != "I_dont_know") %>%
   mutate(option1 = gsub("_2", "", option1),
          option2 = gsub("_2", "", option2),
@@ -54,7 +67,22 @@ d1 <- d1_raw %>%
          age_group = case_when(age_in_years < 3 ~ 2,
                                age_in_years >= 3 & age_in_years < 4 ~ 3,
                                age_in_years >= 4 ~ 4),
-         exp = "Face") 
+         exp = "Face",
+         parent_mask = case_when(parent_mask == "Never" ~ 0,
+                                 parent_mask == "Rarely" ~ 1,
+                                 parent_mask == "Sometimes" ~ 2,
+                                 parent_mask == "Often" ~ 3,
+                                 parent_mask == "Always" ~ 4),
+         peer_mask = case_when(peer_mask == "Never" ~ 0,
+                                 peer_mask == "Rarely" ~ 1,
+                                 peer_mask == "Sometimes" ~ 2,
+                                 peer_mask == "Often" ~ 3,
+                                 peer_mask == "Always" ~ 4),
+         own_mask = case_when(own_mask == "Never" ~ 0,
+                                 own_mask == "Rarely" ~ 1,
+                                 own_mask == "Sometimes" ~ 2,
+                                 own_mask == "Often" ~ 3,
+                                 own_mask == "Always" ~ 4)) 
 
 # exclude trials with parental interference
 parental_interference <- c('349', '11', '15', '952', '656', '668')
@@ -77,10 +105,10 @@ summary(mean_score1$age_in_years[mean_score1$age_group == 2])
 summary(mean_score1$age_in_years[mean_score1$age_group == 3])
 summary(mean_score1$age_in_years[mean_score1$age_group == 4])
 ```
-## Experiment: face and body
+## Experiment 2: face and body
 ```{r}
 d2 <- d2_raw %>%
-  select(X, subid, test_trial, option1, option2, trial_audio, selected_image, age_in_years) %>%
+  select(X, subid, test_trial, option1, option2, trial_audio, selected_image, age_in_years, parent_mask, peer_mask, own_mask) %>%
   filter(selected_image != "I_dont_know") %>%
   mutate(option1 = gsub("_2", "", option1),
          option2 = gsub("_2", "", option2),
@@ -99,7 +127,22 @@ d2 <- d2_raw %>%
          age_group = case_when(age_in_years < 3 ~ 2,
                                age_in_years >= 3 & age_in_years < 4 ~ 3,
                                age_in_years >= 4 ~ 4),
-         exp = "Face + Body") 
+         exp = "Face + Body",
+         parent_mask = case_when(parent_mask == "Never" ~ 0,
+                                 parent_mask == "Rarely" ~ 1,
+                                 parent_mask == "Sometimes" ~ 2,
+                                 parent_mask == "Often" ~ 3,
+                                 parent_mask == "Always" ~ 4),
+         peer_mask = case_when(peer_mask == "Never" ~ 0,
+                                 peer_mask == "Rarely" ~ 1,
+                                 peer_mask == "Sometimes" ~ 2,
+                                 peer_mask == "Often" ~ 3,
+                                 peer_mask == "Always" ~ 4),
+         own_mask = case_when(own_mask == "Never" ~ 0,
+                                 own_mask == "Rarely" ~ 1,
+                                 own_mask == "Sometimes" ~ 2,
+                                 own_mask == "Often" ~ 3,
+                                 own_mask == "Always" ~ 4)) 
 
 d2_before <- d2 %>% 
   filter(!subid %in% c("59872")) # filter out extra kids for replacing outliers first
@@ -129,7 +172,7 @@ summary(mean_score2_new$age_in_years[mean_score2_new$age_group == 3])
 summary(mean_score2_new$age_in_years[mean_score2_new$age_group == 4])
 ```
 
-#Visualize data
+# Visualize data
 ```{r}
 d <- rbind(d1, d2)
 # overall accuracy
@@ -162,7 +205,6 @@ ms_trial_type <- d %>%
                          exp == "Face + Body" ~ "Exp 2: Face & Body"),
          trial_type = case_when(trial_type == "cross valence" ~ "Cross Valence",
                                 trial_type == "within valence" ~ "Within Valence")) #%>%
-  #rename("Trial Type" = "trial_type")
 
 p_trial_type <- ggplot(ms_trial_type, aes(x=age_in_years, y = mean, 
                        shape = trial_type, color = trial_type)) +
@@ -174,14 +216,10 @@ p_trial_type <- ggplot(ms_trial_type, aes(x=age_in_years, y = mean,
   xlab("Child Age in Years") +
   ylab("Proportion Correct") +
   geom_hline(yintercept=0.5, linetype="dashed", color = "red") +
-  #scale_color_brewer(palette="Dark2")
-  #scale_color_manual(values=c("red", "green"))
   scale_color_manual(values=wes_palette(n=2, name="Cavalcanti1")) +
-  #scale_shape_discrete(name="Trial Type") +
   facet_grid(cols = vars(exp)) +
   theme(legend.position=c(.8, .2),
         legend.title=element_blank()) +
-  #guides(color = guide_legend(nrow=2, byrow = TRUE))
   ggtitle("Accuracy by Trial Type") +
   theme(plot.title = element_text(hjust = 0.5)) 
 p_trial_type
@@ -192,8 +230,8 @@ p
 ##ggsave(here("figures/scatter_plot_combined_cropped2.png"), width = 11, height = 3)
 ```
 
-#Analyze data
-## Experiment: face
+# Analyze data
+## Experiment 1: face
 ```{r}
 # Pre-registered analysis: the effects of trial type and age on children's performance
 d1.new <- d1 %>%
@@ -201,17 +239,13 @@ d1.new <- d1 %>%
 d1.new$trial_type <- factor(d1.new$trial_type)
 contrasts(d1.new$trial_type) = contr.sum(2)
 
-# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type * trial_audio | subid), data=d1.new, family = binomial)
-# maxfun < 10 * length(par)^2 is not recommended.failure to converge in 10000 evaluationsunable to evaluate scaled gradientModel failed to converge: degenerate  Hessian with 4 negative eigenvalues
+# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type * trial_audio | subid), data=d1.new, family = binomial) # maxfun < 10 * length(par)^2 is not recommended.failure to converge in 10000 evaluationsunable to evaluate scaled gradientModel failed to converge: degenerate  Hessian with 4 negative eigenvalues
 
-# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type + trial_audio | subid), data=d1.new, family = binomial)
-# failure to converge in 10000 evaluationsunable to evaluate scaled gradientModel failed to converge: degenerate  Hessian with 1 negative eigenvalues
+# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type + trial_audio | subid), data=d1.new, family = binomial) # failure to converge in 10000 evaluationsunable to evaluate scaled gradientModel failed to converge: degenerate  Hessian with 1 negative eigenvalues
 
-# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_audio | subid), data=d1.new, family = binomial)
-# Model failed to converge with max|grad| = 0.158381 (tol = 0.002, component 1)
+# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_audio | subid), data=d1.new, family = binomial) # Model failed to converge with max|grad| = 0.158381 (tol = 0.002, component 1)
 
-# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type | subid), data=d1.new, family = binomial)
-# Model failed to converge with max|grad| = 0.00231468 (tol = 0.002, component 1)
+# model1 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type | subid), data=d1.new, family = binomial) # Model failed to converge with max|grad| = 0.00231468 (tol = 0.002, component 1)
 
 model1 <- glmer(score ~ trial_type * child_age_in_years.c + (1 | subid), data=d1.new, family = binomial)
 summary(model1)
@@ -244,8 +278,28 @@ t.test(ms1_3[ms1_3$trial_type == "within valence",]$mean, mu=0.5)
 t.test(ms1_4[ms1_4$trial_type == "cross valence",]$mean, mu=0.5)
 t.test(ms1_4[ms1_4$trial_type == "within valence",]$mean, mu=0.5)
 ```
+mask exposure
+```{r}
+ms_mask <- d1 %>%
+  group_by(subid, age_in_years, parent_mask, peer_mask, own_mask) %>%
+  multi_boot_standard(col = "score") 
 
-## Experiment: face & body
+h_f <- gather(ms_mask, question, answer, parent_mask:own_mask, factor_key=TRUE) %>%
+  group_by(question, answer) %>% 
+  summarise(N=n()) %>%
+  na.omit() %>%
+  ggplot(aes(x=answer, y=N)) +
+  geom_bar(stat = 'identity',color='black')+
+  facet_wrap(~question)+  
+  ggtitle("Experiment 1")+
+  theme(plot.title = element_text(hjust = 0.5))
+h_f # mostly normally distributed; treat as continuous variables
+
+mask_model <- lm(mean~ parent_mask + peer_mask + own_mask + scale(age_in_years), data = ms_mask)
+summary(mask_model)
+```
+
+## Experiment 2: face & body
 ```{r}
 # Pre-registered analysis: the effects of trial type and age on children's performance
 d2.new <- d2 %>%
@@ -253,26 +307,13 @@ d2.new <- d2 %>%
 d2.new$trial_type <- factor(d2.new$trial_type)
 contrasts(d2.new$trial_type) = contr.sum(2)
 
-# model2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type * trial_audio | subid), data=d2.new, family = binomial)
-# Warning messages:
-#1: In commonArgs(par, fn, control, environment()) :
-#  maxfun < 10 * length(par)^2 is not recommended.
-#2: In (function (fn, par, lower = rep.int(-Inf, n), upper = rep.int(Inf,  :
-#  failure to converge in 10000 evaluations
-#3: In checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv,  :
-#  unable to evaluate scaled gradient
-#4: In checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv,  :
-#  Model failed to converge: degenerate  Hessian with 4 negative eigenvalues
+# model2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type * trial_audio | subid), data=d2.new, family = binomial) #  Model failed to converge: degenerate  Hessian with 4 negative eigenvalues
 
-# model2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type + trial_audio | subid), data=d2.new, family = binomial)
-# unable to evaluate scaled gradient
-# Model failed to converge: degenerate  Hessian with 1 negative eigenvalues
+# model2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type + trial_audio | subid), data=d2.new, family = binomial) # Model failed to converge: degenerate  Hessian with 1 negative eigenvalues
 
-# mode2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_audio | subid), data=d2.new, family = binomial)
-# Model failed to converge with max|grad| = 0.116565 (tol = 0.002, component 1)
+# mode2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_audio | subid), data=d2.new, family = binomial) # Model failed to converge with max|grad| = 0.116565 (tol = 0.002, component 1)
 
-# model2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type | subid), data=d2.new, family = binomial)
-# boundary (singular) fit: see ?isSingular
+# model2 <- glmer(score ~ trial_type * child_age_in_years.c + (trial_type | subid), data=d2.new, family = binomial) # boundary (singular) fit: see ?isSingular
 
 model2 <- glmer(score ~ trial_type * child_age_in_years.c + (1 | subid), data=d2.new, family = binomial)
 summary(model2)
@@ -305,6 +346,30 @@ t.test(ms2_3[ms2_3$trial_type == "within valence",]$mean, mu=0.5)
 t.test(ms2_4[ms2_4$trial_type == "cross valence",]$mean, mu=0.5)
 t.test(ms2_4[ms2_4$trial_type == "within valence",]$mean, mu=0.5)
 ```
+mask survey
+```{r}
+ms_mask <- d2 %>%
+  group_by(subid, age_in_years, parent_mask, peer_mask, own_mask) %>%
+  multi_boot_standard(col = "score") 
+
+h_fb <- gather(ms_mask, question, answer, parent_mask:own_mask, factor_key=TRUE) %>%
+  group_by(question, answer) %>% 
+  summarise(N=n()) %>%
+  na.omit() %>%
+  ggplot(aes(x=answer, y=N)) +
+  geom_bar(stat = 'identity',color='black')+
+  facet_wrap(~question)+
+  ggtitle("Experiment 2")+
+  theme(plot.title = element_text(hjust = 0.5))
+h_fb # mostly normally distributed; treat as continuous variables
+
+h <- ggarrange(h_f, h_fb, labels = c("A", "B"), nrow = 2)
+h
+#ggsave(here("figures/mask_histogram.png"), width = 4, height = 5)
+
+mask_model <- lm(mean~ parent_mask + peer_mask + own_mask + scale(age_in_years), data = ms_mask)
+summary(mask_model)
+```
 
 ## Combine both experiments
 ```{r}
@@ -314,10 +379,17 @@ d.new <- d %>%
 d.new$trial_type <- factor(d.new$trial_type)
 contrasts(d.new$trial_type) = contr.sum(2)
 
-#model <- glmer(score ~ trial_type * child_age_in_years.c * exp + (1 | subid), data=d.new, family = binomial)
-# Model failed to converge with max|grad| = 0.00590286 (tol = 0.002, component 1)
+#model <- glmer(score ~ trial_type * child_age_in_years.c * exp + (trial_type | subid), data=d.new, family = binomial) # Model failed to converge with max|grad| = 0.00590286 (tol = 0.002, component 1)
 
-model <- glmer(score ~ trial_type * child_age_in_years.c + exp + (1 | subid), data=d.new, family = binomial)
+#model <- glmer(score ~ trial_type * child_age_in_years.c * exp + (1 | subid), data=d.new, family = binomial) # Model failed to converge with max|grad| = 0.00590286 (tol = 0.002, component 1)
+
+model <- glmer(score ~ trial_type * child_age_in_years.c + exp + (1 | subid), data=d.new, family = binomial) # final model used in the paper but using the following models produces similar results
+summary(model)
+
+model <- glmer(score ~ trial_type + child_age_in_years.c * exp + (1 | subid), data=d.new, family = binomial)
+summary(model)
+
+model <- glmer(score ~ trial_type * exp + child_age_in_years.c + (1 | subid), data=d.new, family = binomial)
 summary(model)
 ```
 
@@ -352,6 +424,7 @@ t.test(ms_4[ms_4$trial_type == "within valence",]$mean, mu=0.5)
 
 ## Exploratory analysis: cross-valence trials
 ```{r}
+# visualization ------------------------
 d_cross_trial <- d[d$trial_type=="cross valence",] %>%
   mutate(images = paste(option1_cat, option2_cat, sep="-"),
          trial = case_when(images=="happy-sad"~"happy-sad",
@@ -359,12 +432,39 @@ d_cross_trial <- d[d$trial_type=="cross valence",] %>%
                            images=="happy-angry"~"happy-angry",
                            images=="angry-happy"~"happy-angry",
                            images=="happy-scared"~"happy-scared",
-                           images=="scared-happy"~"happy-scared"),
-         age_in_years.c = scale(age_in_years))
+                           images=="scared-happy"~"happy-scared"))
 
-## look at each exp separately=========
+ms_cross_trial <- d_cross_trial %>%
+  group_by(subid, age_in_years, exp, trial) %>%
+  multi_boot_standard(col = "score") %>%
+  mutate(exp = case_when(exp == "Face" ~ "Exp 1: Face",
+                         exp == "Face + Body" ~ "Exp 2: Face & Body"))
+
+p_cross_trial <- ggplot(ms_cross_trial, aes(x=age_in_years, y = mean, 
+                       shape = trial, color = trial)) +
+  geom_point(alpha=0.2) +
+  geom_smooth(method=lm, se = FALSE) +
+  theme_bw()+
+  xlim(2.0, 5.0) +
+  ylim(0,1) +
+  xlab("Child Age in Years") +
+  ylab("Mean Score") +
+  geom_hline(yintercept=0.5, linetype="dashed", color = "red") +
+  scale_color_brewer(palette="Dark2")+
+  facet_grid(cols = vars(exp)) +
+  theme(legend.position="bottom",
+        legend.title=element_blank()) +
+  ggtitle("Accuracy by Trial Type") +
+  theme(plot.title = element_text(hjust = 0.5)) 
+p_cross_trial
+#ggsave(here("figures/scatter_plot_by_cross_valence_trials.png"), width = 4, height = 4)
+
+# analysis ------------------------
+d_cross_trial <- d_cross_trial %>%
+  mutate(age_in_years.c = scale(age_in_years))
+
+## experiment 1: face
 d_cross_trial_f <- d_cross_trial[d_cross_trial$exp=="Face",]
-# add age
 #model_f <- glmer(score ~ trial * age_in_years.c + (trial| subid), data = d_cross_trial_f, family = binomial) # Model failed to converge: degenerate  Hessian with 1 negative eigenvalues
 model_f <- glmer(score ~ trial * age_in_years.c + (1| subid), data = d_cross_trial_f, family = binomial)
 summary(model_f)
@@ -372,11 +472,9 @@ summary(model_f)
 model_f <- glmer(score ~ relevel(factor(trial), ref = "happy-sad") * age_in_years.c + (1| subid), data = d_cross_trial_f, family = binomial)
 summary(model_f)
 
-
+## experiment 2: face + body
 d_cross_trial_fb <- d_cross_trial[d_cross_trial$exp=="Face + Body",]
-#add age
 #model_fb <- glmer(score ~ trial * age_in_years.c + (trial| subid), data = d_cross_trial_fb, family = binomial) #Model failed to converge with max|grad| = 0.0102466 (tol = 0.002, component 1)
-
 model_fb <- glmer(score ~ trial * age_in_years.c + (1| subid), data = d_cross_trial_fb, family = binomial)
 summary(model_fb)
 
@@ -386,6 +484,7 @@ summary(model_fb)
 
 ## Exploratory analysis: within-valence trials
 ```{r}
+# visualization ------------------------
 d_within_trial <- d[d$trial_type=="within valence",] %>%
   mutate(images = paste(option1_cat, option2_cat, sep="-"),
          trial = case_when(images=="scared-sad"~"sad-scared",
@@ -393,12 +492,39 @@ d_within_trial <- d[d$trial_type=="within valence",] %>%
                            images=="scared-angry"~"angry-scared",
                            images=="angry-scared"~"angry-scared",
                            images=="angry-sad"~"sad-angry",
-                           images=="sad-angry"~"sad-angry"),
-         age_in_years.c = scale(age_in_years))
+                           images=="sad-angry"~"sad-angry"))
 
-## look at each exp separately=========
+ms_within_trial <- d_within_trial %>%
+  group_by(subid, age_in_years, exp, trial) %>%
+  multi_boot_standard(col = "score") %>%
+  mutate(exp = case_when(exp == "Face" ~ "Exp 1: Face",
+                         exp == "Face + Body" ~ "Exp 2: Face & Body"))
+
+p_within_trial <- ggplot(ms_within_trial, aes(x=age_in_years, y = mean, 
+                       shape = trial, color = trial)) +
+  geom_point(alpha=0.2) +
+  geom_smooth(method=lm, se = FALSE) +
+  theme_bw()+
+  xlim(2.0, 5.0) +
+  ylim(0,1) +
+  xlab("Child Age in Years") +
+  ylab("Mean Score") +
+  geom_hline(yintercept=0.5, linetype="dashed", color = "red") +
+  scale_color_brewer(palette="Dark2")+
+  facet_grid(cols = vars(exp)) +
+  theme(legend.position="bottom",
+        legend.title=element_blank()) +
+  ggtitle("Accuracy by Trial Type") +
+  theme(plot.title = element_text(hjust = 0.5)) 
+p_within_trial
+#ggsave(here("figures/scatter_plot_by_within_valence_trials.png"), width = 4, height = 4)
+
+# analysis ------------------------
+d_within_trial <- d_within_trial %>%
+  mutate(age_in_years.c = scale(age_in_years))
+
+## experiment 1: face
 d_within_trial_f <- d_within_trial[d_within_trial$exp=="Face",]
-# add age
 #model_f <- glmer(score ~ trial * age_in_years.c + (trial| subid), data = d_within_trial_f, family = binomial) # Model failed to converge with max|grad| = 0.101159 (tol = 0.002, component 1)
 model_f <- glmer(score ~ trial * age_in_years.c + (1| subid), data = d_within_trial_f, family = binomial)
 summary(model_f)
@@ -406,12 +532,18 @@ summary(model_f)
 model_f <- glmer(score ~ relevel(factor(trial), ref = "sad-angry") * age_in_years.c + (1| subid), data = d_within_trial_f, family = binomial)
 summary(model_f)
 
-
+## experiment 2: face + body
 d_within_trial_fb <- d_within_trial[d_within_trial$exp=="Face + Body",]
-# add age
+#model_fb <- glmer(score ~ trial * age_in_years.c + (trial| subid), data = d_within_trial_fb, family = binomial) # Model failed to converge with max|grad| = 0.0305102 (tol = 0.002, component 1)
 model_fb <- glmer(score ~ trial * age_in_years.c + (1| subid), data = d_within_trial_fb, family = binomial)
 summary(model_fb)
 
 model_fb <- glmer(score ~ relevel(factor(trial), ref = "sad-angry") * age_in_years.c + (1| subid), data = d_within_trial_fb, family = binomial)
 summary(model_fb)
+
+## focusing on the scared-angry comparison
+d_scared_angry <- d_within_trial[d_within_trial$trial=="angry-scared",]
+#model_scared_angry <- glmer(score ~ age_in_years.c * exp + (1 | subid), data=d_scared_angry, family = binomial) # Model failed to converge with max|grad| = 0.0167939 (tol = 0.002, component 1)
+model_scared_angry <- glmer(score ~ age_in_years.c + exp + (1 | subid), data=d_scared_angry, family = binomial) 
+summary(model_scared_angry)
 ```
